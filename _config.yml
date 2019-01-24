@@ -22,13 +22,13 @@ description: Meetup Mates is a community run on slack for people who attend Lond
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
-navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
-  Author's home: "http://deanattali.com"
+#navbar-links:
+  #About Me: "aboutme"
+  #Resources:
+    #- Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+   # - Learn markdown: "http://www.markdowntutorial.com/"
+  #  - GitHub Pages: "https://pages.github.com/"
+  SIGN UP: "https://docs.google.com/forms/d/1n1yRTAiV72U_d9vafzAZMCAXpZfcSUTtO8NT2VOHt80/edit"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -73,9 +73,9 @@ author:
 social-network-links:
   rss: true
   email: "meetupmatesldn@gmail.com"
-  facebook: daattali
-  github: daattali
-  twitter: daattali
+  #facebook: daattali
+  github: meetup-mates
+  twitter: meetupmates
 #  reddit: yourname
 #  google-plus: +DeanAttali
 #  linkedin: daattali
@@ -93,7 +93,7 @@ social-network-links:
 # Select which share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
+  facebook: false
   google: false
   linkedin: true
 
