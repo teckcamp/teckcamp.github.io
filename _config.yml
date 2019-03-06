@@ -42,8 +42,8 @@ title-img: "/img/MeetupMatesTranspLogo.png"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#f3c643"
-navbar-text-col: "#0f2026"
+navbar-col: "#0f2026"
+navbar-text-col: "#f3c643"
 navbar-children-col: "#F5F5F5"
 page-col: "#FFFFFF"
 link-col: "#EF5445"
