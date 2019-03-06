@@ -28,7 +28,7 @@ navbar-links:
     #- Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
    # - Learn markdown: "http://www.markdowntutorial.com/"
   #  - GitHub Pages: "https://pages.github.com/"
-  SIGN UP: "https://docs.google.com/forms/d/1n1yRTAiV72U_d9vafzAZMCAXpZfcSUTtO8NT2VOHt80/edit"
+  SIGN UP: "https://join.slack.com/t/meetup-mates/signup"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -48,8 +48,8 @@ navbar-children-col: "#F5F5F5"
 page-col: "#FFFFFF"
 link-col: "#EF5445"
 hover-col: "#F3C643"
-footer-col: "#f3c643"
-footer-text-col: "#0f2026"
+footer-col: "#0f2026"
+footer-text-col: "#f3c643"
 footer-link-col: "#EF5445"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
