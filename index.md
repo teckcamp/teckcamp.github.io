@@ -15,6 +15,6 @@ Want to find out more? Here are Dom and Margo to explain the Meetup Mates Missio
 
 London Meetups supporting Meetup Mates:
 
-[![MeetupMates_DockerLondon](img/MeetupMates_Docker_London.png "MeetupMates_DockerLondon")](https://www.meetup.com/Docker-London/) | [![MeetupMates_Cloud_Native](MeetupMates_Cloud_Native.png "MeetupMates_Cloud_Native")](https://www.meetup.com/Cloud-Native-London/) | [![MeetupMates_London_DevOps](/img/MeetupMates_London_DevOps.png "MeetupMates_London_DevOps")](https://www.meetup.com/London-DevOps/) 
+[![MeetupMates_DockerLondon](/img/MeetupMates_Docker_London.png "MeetupMates_DockerLondon")](https://www.meetup.com/Docker-London/) | [![MeetupMates_Cloud_Native](/img/MeetupMates_Cloud_Native.png "MeetupMates_Cloud_Native")](https://www.meetup.com/Cloud-Native-London/) | [![MeetupMates_London_DevOps](/img/MeetupMates_London_DevOps.png "MeetupMates_London_DevOps")](https://www.meetup.com/London-DevOps/) 
 
 Hurrah, we're outward bound! Yo Ho Ho!
