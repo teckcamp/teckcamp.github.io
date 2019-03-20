@@ -13,5 +13,8 @@ Want to find out more? Here is Dom and Margo talking about the Meetup Mates idea
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bKDh8FUA8nk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+London Meetups supporting Meetup Mates:
+
+![MeetupMates_DockerLondon](img/MeetupMates_Docker_London.png) | ![MeetupMates_Cloud_Native](MeetupMates_Cloud_Native.png) | ![MeetupMates_London_DevOps](/img/MeetupMates_London_DevOps.png) 
 
 Hurrah, we're outward bound! Yo Ho Ho!
