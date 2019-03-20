@@ -9,7 +9,7 @@ Our goal is to help gather and connect like-minded people who want to join the m
 
 [![Sign Up To Meetup Mates Slack](/img/Button SIGN UP TO MEETUP MATES SLACK CHANNEL.png "Button Meetup Mates Sign Up")](https://meetup-mates.com/register/)
 
-Want to find out more? Here is Dom and Margo talking about the Meetup Mates idea - what is it and where it came from:
+Want to find out more? Here are Dom and Margo to explain the Meetup Mates Mission – what it is and how it originated:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bKDh8FUA8nk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
