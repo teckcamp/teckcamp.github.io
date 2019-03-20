@@ -7,7 +7,7 @@ use-site-title: true
 
 Our goal is to help gather and connect like-minded people who want to join the meetup space, but prefer to attend with someone they already are familiar with. Meetup Mates is still a work in progress project, but we’re looking for **50 brave sailors** to test the waters with us, so if you’re up for it join the Slack group below.
 
-[![Sign Up To Meetup Mates Slack](/img/Button SIGN UP TO MEETUP MATES SLACK CHANNEL.png "Button Meetup Mates Sign Up")](https://join.slack.com/t/meetup-mates/signup)
+[![Sign Up To Meetup Mates Slack](/img/Button SIGN UP TO MEETUP MATES SLACK CHANNEL.png "Button Meetup Mates Sign Up")](https://meetup-mates.com/register/)
 
 Want to find out more? Here is Dom and Margo talking about the Meetup Mates idea - what is it and where it came from:
 
