@@ -11,7 +11,7 @@ Our goal is to help gather and connect like-minded people who want to join the m
 
 Want to find out more? Here are Dom and Margo to explain the Meetup Mates Mission – what it is and how it originated:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X6suuFJp7JY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="youtube-responsive-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/X6suuFJp7JY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 London Meetups supporting Meetup Mates:
 
