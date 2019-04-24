@@ -6,8 +6,7 @@ use-site-title: true
 
 **Meetup Mates Code of Conduct**
 
-All participants and members of the organisation are required to agree with the following code of conduct. Organisers will enforce this code. We expect cooperation from all participants to help ensure a safe environment for everybody.  Need Help?
-You have our contact details in the emails we've sent.
+All participants and members of the organisation are required to agree with the following code of conduct. Organisers will enforce this code. We expect cooperation from all participants to help ensure a safe environment for everybody.
 
 **The Quick Version**
 
