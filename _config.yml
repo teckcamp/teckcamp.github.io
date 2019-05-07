@@ -17,7 +17,7 @@ baseurl: ""
 title: Meetup Mates
 
 # Short description of your site
-description: Meetup Mates is a community run on slack for people who attend London tech meetups together and it's fun. 
+description: Attend London Dev and DevOps Meetups Together. 
 
 # --- Navigation bar options --- #
 
@@ -31,6 +31,7 @@ navbar-links:
   Photos: "https://meetup-mates.com/photos/"
   Code of Conduct: "https://meetup-mates.com/code-of-conduct/"
   REGISTER: "https://meetup-mates.com/register/"
+  #About Me: "aboutme"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
