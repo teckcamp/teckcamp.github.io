@@ -34,7 +34,7 @@ It is important that you read this privacy policy together with any other privac
  <summary><b>Controller</b>
 <br>
   <br>
-Meetup Mates is the controller and responsible for your personal data (collectively referred to as "Meetup Mates”, "we", "us" or "our" in this privacy policy). </summary>
+Meetup Mates is the controller and responsible for your personal data (collectively referred to as "Meetup Mates”, "we", "us" or "our" in this privacy policy).   <br></summary>
 <br>
 We have appointed a data privacy manager who is responsible for overseeing questions in relation to this privacy policy. If you have any questions about this privacy policy, including any requests to exercise your legal rights, please contact the data privacy manager using the details set out below. </details>
 
