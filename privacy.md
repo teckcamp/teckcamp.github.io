@@ -10,36 +10,50 @@ This policy explains the way that we collect, use and protect your data as well 
 
 We’ve tried to be as clear as we can be and to avoid unnecessary jargon, while including all the relevant information, but if anything doesn’t make sense, or you simply want to talk with a human about the data side of Meetup Mates, please email us (Margo and Dom) at meetupmatesldn@gmail.com. Thanks! 
 
-##Introduction
+**1. Introduction**
 
-<details>
-<summary>Meetup Mates respects your privacy and is committed to protecting your personal data. This privacy policy will inform you as to how we look after your personal data when you visit our website www.meetup-mates.com (regardless of where you visit it from) and tell you about your privacy rights and how the law protects you. 
-</summary>
-<br>
+Meetup Mates respects your privacy and is committed to protecting your personal data. This privacy policy will inform you as to how we look after your personal data when you visit our website www.meetup-mates.com (regardless of where you visit it from) and tell you about your privacy rights and how the law protects you. 
+
 This privacy policy is provided in a layered format so you can click through to the specific areas set out below. [Alternatively, you can download a pdf version of the policy here: [LINK].] Please also use the Glossary to understand the meaning of some of the terms used in this privacy policy.
-</details>
 
 
 
-##Important information and who we are
+**2. Important information and who we are**
 
-###Purpose of this privacy policy
+**Who we are**
+Meetup Mates is an online community run on Slack. If you register to meetup mates via our online form, you will receive an email from meetupmatesldn@gmail.com with Slack Channel invitaition and a list of meetups to attend every month in London. Meetup Mates organises gatherings of Meetup Mates members before the meetup to help the community attend more meetups together. To attend meetups you will have to sign up via www.meetup.com (here is their [privacy policy [https://www.meetup.com/privacy/]]
+
+**Purpose of this privacy policy**
 
 This privacy policy aims to give you information on how Meetup Mates collects and processes your personal data through your use of this website, including any data you may provide through this website when you sign up to be part of Meetup Mates Community. 
+
 This website is not intended for children and we do not knowingly collect data relating to children.
+
 It is important that you read this privacy policy together with any other privacy policy or fair processing policy we may provide on specific occasions when we are collecting or processing personal data about you so that you are fully aware of how and why we are using your data. This privacy policy supplements other notices and privacy policies and is not intended to override them. 
 
+<details>
+<summary> **Controller**</summary>
+<br>
+Meetup Mates is the controller and responsible for your personal data (collectively referred to as "Meetup Mates”, "we", "us" or "our" in this privacy policy).
 
-[![Sign Up To Meetup Mates Slack](/img/Button SIGN UP TO MEETUP MATES SLACK CHANNEL.png "Button Meetup Mates Sign Up")](https://meetup-mates.com/register/)
+We have appointed a data privacy manager who is responsible for overseeing questions in relation to this privacy policy. If you have any questions about this privacy policy, including any requests to exercise your legal rights, please contact the data privacy manager using the details set out below. </details>
 
-Want to find out more? Here are Dom and Margo to explain the Meetup Mates Mission – what it is and how it originated:
+<details>
+  <summary><h2>Contact details</h2></summary>
+<br>
+If you have any questions about this privacy policy or our privacy practices, please contact our data privacy manager in the following ways:
+Data Privacy Manager: Margo Gantner
+Email address: meetupmatesldn@gmail.com
 
-<div class="youtube-responsive-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/X6suuFJp7JY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+You have the right to make a complaint at any time to the Information Commissioner's Office (ICO), the UK supervisory authority for data protection issues (www.ico.org.uk). We would, however, appreciate the chance to deal with your concerns before you approach the ICO so please contact us in the first instance. </details>
 
 
-London Meetups supporting Meetup Mates:
+Changes to the privacy policy and your duty to inform us of changes
+We keep our privacy policy under regular review. This version was last updated on 22.05.2019. Historic versions are archived here: [LINK]. 
+It is important that the personal data we hold about you is accurate and current. Please keep us informed if your personal data changes during your relationship with us.
+Third-party links
+This website may include links to third-party websites, plug-ins and applications (like Slack and Hubspot). Clicking on those links or enabling those connections may allow third parties to collect or share data about you. We do not control these third-party websites and are not responsible for their privacy statements. When you leave our website, we encourage you to read the privacy policy of every website you visit.
 
-[![MeetupMates_DockerLondon](/img/MeetupMates_Docker_London.jpg "MeetupMates_DockerLondon")](https://www.meetup.com/Docker-London/) | [![MeetupMates_Cloud_Native](/img/MeetupMates_Cloud_Native.png "MeetupMates_Cloud_Native")](https://www.meetup.com/Cloud-Native-London/) | [![MeetupMates_London_DevOps](/img/MeetupMates_London_DevOps.png "MeetupMates_London_DevOps")](https://www.meetup.com/London-DevOps/) | [![MeetupMates_Istio](/img/MeetupMates_Istio.png "MeetupMates_Istio")](https://www.meetup.com/Istio-London/) | [![MeetupMates_Kubernetes](/img/MeetupMates_Kubernetes.png "MeetupMates_Kubernetes")](https://www.meetup.com/Kubernetes-London/) | [![MeetupMates_Microservices](/img/MeetupMates_Microservices.png "MeetupMates_Microservices")](https://www.meetup.com/London-Microservices-User-Group/events/)
 
 
-Hurrah, we're outward bound! Yo Ho Ho!
+
