@@ -20,7 +20,7 @@ This privacy policy is provided in a layered format so you can click through to 
 
 **2. Important information and who we are**
 
-Meetup Mates is an online community run on Slack. If you register to meetup mates via our online form, you will receive an email from meetupmatesldn@gmail.com with Slack Channel invitaition and a list of meetups to attend every month in London. Meetup Mates organises gatherings of Meetup Mates members before the meetup to help the community attend more meetups together. To attend meetups you will have to sign up via www.meetup.com (here is their [privacy policy [https://www.meetup.com/privacy/]]
+Meetup Mates is an online community run on Slack. If you register to meetup mates via our online form, you will receive an email from meetupmatesldn@gmail.com with Slack Channel invitaition and a list of meetups to attend every month in London. Meetup Mates organises gatherings of Meetup Mates members before the meetup to help the community attend more meetups together. To attend meetups you will have to sign up via www.meetup.com (here is their [privacy policy] (https://www.meetup.com/privacy/)
 
 **Purpose of this privacy policy**
 
