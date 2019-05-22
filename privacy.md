@@ -33,26 +33,33 @@ It is important that you read this privacy policy together with any other privac
 
 <details>
  <summary><b>Controller</b></summary>
-<br>
-Meetup Mates is the controller and responsible for your personal data (collectively referred to as "Meetup Mates”, "we", "us" or "our" in this privacy policy).
 
+Meetup Mates is the controller and responsible for your personal data (collectively referred to as "Meetup Mates”, "we", "us" or "our" in this privacy policy).
+<br>
 We have appointed a data privacy manager who is responsible for overseeing questions in relation to this privacy policy. If you have any questions about this privacy policy, including any requests to exercise your legal rights, please contact the data privacy manager using the details set out below. </details>
 
 <details>
- <summary><h3>Contact details</h3></summary>
+ <summary><b>Contact details</b>
+
+If you have any questions about this privacy policy or our privacy practices, please contact our data privacy manager in the following ways:</summary>
 <br>
-If you have any questions about this privacy policy or our privacy practices, please contact our data privacy manager in the following ways:
 Data Privacy Manager: Margo Gantner
 Email address: meetupmatesldn@gmail.com
 
 You have the right to make a complaint at any time to the Information Commissioner's Office (ICO), the UK supervisory authority for data protection issues (www.ico.org.uk). We would, however, appreciate the chance to deal with your concerns before you approach the ICO so please contact us in the first instance. </details>
 
 
-Changes to the privacy policy and your duty to inform us of changes
-We keep our privacy policy under regular review. This version was last updated on 22.05.2019. Historic versions are archived here: [LINK]. 
-It is important that the personal data we hold about you is accurate and current. Please keep us informed if your personal data changes during your relationship with us.
-Third-party links
-This website may include links to third-party websites, plug-ins and applications (like Slack and Hubspot). Clicking on those links or enabling those connections may allow third parties to collect or share data about you. We do not control these third-party websites and are not responsible for their privacy statements. When you leave our website, we encourage you to read the privacy policy of every website you visit.
+<details>
+ <summary><b>Changes to the privacy policy and your duty to inform us of changes</b>
+We keep our privacy policy under regular review. This version was last updated on 22.05.2019. </summary>
+<br>
+Historic versions are archived here: [LINK]. 
+It is important that the personal data we hold about you is accurate and current. Please keep us informed if your personal data changes during your relationship with us.</details>
+ 
+<details>
+ <summary><b>Third-party links</b></summary>
+ <br>
+This website may include links to third-party websites, plug-ins and applications (like Slack and Hubspot). Clicking on those links or enabling those connections may allow third parties to collect or share data about you. We do not control these third-party websites and are not responsible for their privacy statements. When you leave our website, we encourage you to read the privacy policy of every website you visit.</details>
 
 
 
