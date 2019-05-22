@@ -32,14 +32,14 @@ This website is not intended for children and we do not knowingly collect data r
 It is important that you read this privacy policy together with any other privacy policy or fair processing policy we may provide on specific occasions when we are collecting or processing personal data about you so that you are fully aware of how and why we are using your data. This privacy policy supplements other notices and privacy policies and is not intended to override them. 
 
 <details>
-<summary> **Controller**</summary>
+ <summary><b>Controller</b></summary>
 <br>
 Meetup Mates is the controller and responsible for your personal data (collectively referred to as "Meetup Mates”, "we", "us" or "our" in this privacy policy).
 
 We have appointed a data privacy manager who is responsible for overseeing questions in relation to this privacy policy. If you have any questions about this privacy policy, including any requests to exercise your legal rights, please contact the data privacy manager using the details set out below. </details>
 
 <details>
- <h2><summary>Contact details</h2></summary>
+ <summary><h3>Contact details</h3></summary>
 <br>
 If you have any questions about this privacy policy or our privacy practices, please contact our data privacy manager in the following ways:
 Data Privacy Manager: Margo Gantner
