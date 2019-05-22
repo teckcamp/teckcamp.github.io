@@ -20,7 +20,7 @@ This privacy policy is provided in a layered format so you can click through to 
 
 **2. Important information and who we are**
 
-Meetup Mates is an online community run on Slack. If you register to meetup mates via our online form, you will receive an email from meetupmatesldn@gmail.com with Slack Channel invitaition and a list of meetups to attend every month in London. Meetup Mates organises gatherings of Meetup Mates members before the meetup to help the community attend more meetups together. To attend meetups you will have to sign up via www.meetup.com (here is their [privacy policy] (https://www.meetup.com/privacy/)
+Meetup Mates is an online community run on Slack. If you register to meetup mates via our online form, you will receive an email from meetupmatesldn@gmail.com with Slack Channel invitaition and a list of meetups to attend every month in London. Meetup Mates organises gatherings of Meetup Mates members before the meetup to help the community attend more meetups together. To attend meetups you will have to sign up via www.meetup.com here is their [privacy policy](https://www.meetup.com/privacy/)
 
 **Purpose of this privacy policy**
 
@@ -49,7 +49,7 @@ Data Privacy Manager: Margo Gantner
 Email address: meetupmatesldn@gmail.com
 <br>
 You have the right to make a complaint at any time to the Information Commissioner's Office (ICO), the UK supervisory authority for data protection issues (www.ico.org.uk). We would, however, appreciate the chance to deal with your concerns before you approach the ICO so please contact us in the first instance. </details>
-
+<br>
 
 <details>
  <summary><b>Changes to the privacy policy and your duty to inform us of changes</b>
@@ -60,7 +60,7 @@ We keep our privacy policy under regular review. This version was last updated o
 Historic versions are archived here: [LINK]. 
  <br>
 It is important that the personal data we hold about you is accurate and current. Please keep us informed if your personal data changes during your relationship with us.</details>
-
+<br>
 
 <details>
  <summary><b>Third-party links</b>
