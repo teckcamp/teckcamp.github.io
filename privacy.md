@@ -39,7 +39,7 @@ Meetup Mates is the controller and responsible for your personal data (collectiv
 We have appointed a data privacy manager who is responsible for overseeing questions in relation to this privacy policy. If you have any questions about this privacy policy, including any requests to exercise your legal rights, please contact the data privacy manager using the details set out below. </details>
 
 <details>
-  <summary><h2>Contact details</h2></summary>
+ <h2><summary>Contact details</h2></summary>
 <br>
 If you have any questions about this privacy policy or our privacy practices, please contact our data privacy manager in the following ways:
 Data Privacy Manager: Margo Gantner
