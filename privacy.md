@@ -52,6 +52,7 @@ You have the right to make a complaint at any time to the Information Commission
 <details>
  <summary><b>Changes to the privacy policy and your duty to inform us of changes</b>
   <br>
+    <br>
 We keep our privacy policy under regular review. This version was last updated on 22.05.2019. </summary>
 <br>
 Historic versions are archived here: [LINK]. 
@@ -59,9 +60,12 @@ Historic versions are archived here: [LINK].
 It is important that the personal data we hold about you is accurate and current. Please keep us informed if your personal data changes during your relationship with us.</details>
  
 <details>
- <summary><b>Third-party links</b></summary>
+ <summary><b>Third-party links</b>
+ <br>  
  <br>
-This website may include links to third-party websites, plug-ins and applications (like Slack). Clicking on those links or enabling those connections may allow third parties to collect or share data about you. We do not control these third-party websites and are not responsible for their privacy statements. When you leave our website, we encourage you to read the privacy policy of every website you visit.</details>
+ This website may include links to third-party websites, plug-ins and applications (like Slack). Clicking on those links or enabling those connections may allow third parties to collect or share data about you.</summary>
+<br>
+We do not control these third-party websites and are not responsible for their privacy statements. When you leave our website, we encourage you to read the privacy policy of every website you visit.</details>
 
 
 
