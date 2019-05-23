@@ -35,8 +35,11 @@ It is important that you read this privacy policy together with any other privac
 <br>
 Meetup Mates is the controller and responsible for your personal data (collectively referred to as "Meetup Mates”, "we", "us" or "our" in this privacy policy).   <br></summary>
 <br>
-We have appointed a data privacy manager who is responsible for overseeing questions in relation to this privacy policy. If you have any questions about this privacy policy, including any requests to exercise your legal rights, please contact the data privacy manager using the details set out below. </details>
+We have appointed a data privacy manager who is responsible for overseeing questions in relation to this privacy policy. If you have any questions about this privacy policy, including any requests to exercise your legal rights, please contact the data privacy manager using the details set out below. 
 
+</details>
+ 
+---
 
 <details>
  <summary><b>Contact details</b>
@@ -73,7 +76,35 @@ We do not control these third-party websites and are not responsible for their p
 </details>
 
 
+**3. The data we collect about you and how we use it**
 
+We store IP address, cookies, your device’s unique ID, page browsing history, ads you’ve viewed and clicked, searches you’ve made on site, approximate location, and any enquiries you’ve made. For registered members we also store username, first name, last name, email address; public discussions you may have on Meetup Mates Slack Channel; and a summary of decisions we’ve taken about you if we’ve reviewed your use of Meetup Mates Slack Channel for any reason (please refer to the Code of Conduct). Registered members may also have given us more data on sign up, such as their professional field, social media account link (used as a verification tool).
 
+We store your email address to register you and contact you (if you have asked for email newsletters) and we store things such as IP address, cookies and device ID so that our systems recognise you if you return to Meetup Mates Website. 
 
+We don’t require your address when you view Meetup Mates content or register with the site, and you can use Meetup Mates fully without providing it.
+
+Subject to your permissions and choices (as explained later) we collect, store and process the data listed in this section. We believe we provide a useful service, and therefore have a legitimate interest in processing your data which benefits both Meetup Mates and you as a Meetup Mates user.
+
+<details>
+ <summary><b>We store the following data for all users, whether registered or not:</b>
+  <br>
+IP address, cookies, device ID – to identify your web browser and device. </summary>
+ 
+ We also use Google Analytics to report on page views in aggregate to help us understand usage trends. We do not pass your personal data to Google and your IP address is anonymised before we share this information with Google Analytics. Google uses cookies and can learn about your browsing on Meetup Mates to inform Google ads and other Google services, as explained here: https://policies.google.com/privacy/partners
+ 
+ </details>
+ 
+ ---
+ 
+ <details>
+ <summary><b>We store the following information for registered members:</b>
+  <br>
+Email address, First Name and Last Name</summary>
+ 
+So that we can add you to the slack channel, and to inform you about any changes to the community privacy policy, cookie policy and the code of conduct. If you choose to join Meetup Mates we also ask for your Twitter or LinkedIn Account so that we can check you’re a real person (to prevent ‘bots’ signing up). We won’t send you newsletters or mass email communications that you haven’t asked for, and we don’t sell your email address to anyone else.
+Discussions that take place over email or via Private Messages between you and Meetup Mates in public channels – so that we have a record.
+ 
+ </details>
+ 
 
