@@ -139,7 +139,8 @@ Note that we may process your personal data for more than one lawful ground depe
 |To use data analytics to improve our website, products/services, marketing, customer relationships and experiences|(a) Technical <br> (b) Usage  |Necessary for our legitimate interests (to define types of customers for our products and services, to keep our website updated and relevant, to develop our business and to inform our marketing strategy)|
 |To make suggestions and recommendations to you about goods or services that may be of interest to you |(a) Identity <br>(b) Contact <br>(c) Technical <br>(d) Usage <br>(e) Profile <br>(f) Marketing and Communications |Necessary for our legitimate interests (to develop our products/services and grow our business)|
 
-**4. Your permissions and choices
+
+**4. Your permissions and choices**
 
 You can change your registration data and your email preferences on Meetup Mates at any time by filling out this survey: LINK. You can also manage your cookie preferences – click on this section for how to do this, but remember it may affect how well this site works. You can delete your account by filling out this form LINK.
 
