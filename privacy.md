@@ -253,11 +253,11 @@ Further updates will be noted here as and when they are made.
 <b>Performance of Contract</b> means processing your data where it is necessary for the performance of a contract to which you are a party or to take steps at your request before entering into such a contract.
 <br>
  <b>Comply with a legal obligation</b> means processing your personal data where it is necessary for compliance with a legal obligation that we are subject to.
-<br>
+<br><br>
  <b>YOUR LEGAL RIGHTS</b>
-<br>
+<br><br>
 You have the right to:
- <b>Request access to your personal data</b> (commonly known as a "data subject access request"). This enables you to receive a copy of the personal data we hold about you and to check that we are lawfully processing it.
+<b>Request access to your personal data</b> (commonly known as a "data subject access request"). This enables you to receive a copy of the personal data we hold about you and to check that we are lawfully processing it.
 <br>
 <b>Request correction of the personal data that we hold about you.</b> This enables you to have any incomplete or inaccurate data we hold about you corrected, though we may need to verify the accuracy of the new data you provide to us.
 <br>
