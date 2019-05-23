@@ -40,8 +40,9 @@ We have appointed a data privacy manager who is responsible for overseeing quest
 
 
 <details>
+ <br>
  <summary><b>Contact details</b>
-  
+  <br>
 If you have any questions about this privacy policy or our privacy practices, please contact our data privacy manager in the following ways:</summary>
 <br>
 Data Privacy Manager: Margo Gantner
