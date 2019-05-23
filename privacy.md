@@ -39,37 +39,40 @@ We have appointed a data privacy manager who is responsible for overseeing quest
 
 
 <details>
- <br>
  <summary><b>Contact details</b>
   <br>
 If you have any questions about this privacy policy or our privacy practices, please contact our data privacy manager in the following ways:</summary>
+ 
 Data Privacy Manager: Margo Gantner
 Email address: meetupmatesldn@gmail.com
 <br>
-You have the right to make a complaint at any time to the Information Commissioner's Office (ICO), the UK supervisory authority for data protection issues (www.ico.org.uk). We would, however, appreciate the chance to deal with your concerns before you approach the ICO so please contact us in the first instance. </details>
+You have the right to make a complaint at any time to the Information Commissioner's Office (ICO), the UK supervisory authority for data protection issues (www.ico.org.uk). We would, however, appreciate the chance to deal with your concerns before you approach the ICO so please contact us in the first instance. 
+
+</details>
+
+---
 
 <details>
  <summary><b>Changes to the privacy policy and your duty to inform us of changes</b>
   <br>
 We keep our privacy policy under regular review. This version was last updated on 22.05.2019. <br></summary>
-+Historic versions are archived here: [LINK]. 
-+It is important that the personal data we hold about you is accurate and current. Please keep us informed if your personal data changes during your relationship with us.</details>
 
+Historic versions are archived here: [LINK]. 
+It is important that the personal data we hold about you is accurate and current. Please keep us informed if your personal data changes during your relationship with us.
+
+</details>
+ ---
+ 
 <details>
  <summary><b>Third-party links</b>
  <br>  
  This website may include links to third-party websites, plug-ins and applications (like Slack). Clicking on those links or enabling those connections may allow third parties to collect or share data about you.</summary>
 <br>
-We do not control these third-party websites and are not responsible for their privacy statements. When you leave our website, we encourage you to read the privacy policy of every website you visit.</details>
-<details>
-<summary>Heading</summary>
-
-+ markdown list 1
-    + nested list 1
-    + nested list 2
-+ markdown list 2
+We do not control these third-party websites and are not responsible for their privacy statements. When you leave our website, we encourage you to read the privacy policy of every website you visit.
 
 </details>
+
+
 
 
 
