@@ -10,6 +10,22 @@ This policy explains the way that we collect, use and protect your data as well 
 
 We’ve tried to be as clear as we can be and to avoid unnecessary jargon, while including all the relevant information, but if anything doesn’t make sense, or you simply want to talk with a human about the data side of Meetup Mates, please email us (Margo and Dom) at [meetupmatesldn@gmail.com](mailto:meetupmatesldn@gmail.com?Subject= Meetup Mates Privacy Policy). Thanks! 
 
+##Table of Contents
+1. [Introduction](#Introduction)
+2. [Important information and who we are](#Important information and who we are)
+3. [The data we collect about you and how we use it](#The data we collect about you and how we use it)
+4. [Your permissions and choices](#Your permissions and choices)
+5. [Deleting your Meetup Mates Account](#Deleting your Meetup Mates Account)
+6. [Change of purpose](#Change of purpose)
+7. [Disclosures of your personal data](#Disclosures of your personal data)
+8. [Data security](#Data security)
+9. [Data retention](#Data retention)
+10. [Your legal rights](#Your legal rights)
+11. [Complying with the law and best practice around data](#Complying with the law and best practice around data)
+12. [If our data is compromised](#If our data is compromised)
+13. [Updates](#Updates)
+14. [Glossary](#Glossary)
+
 **<a id="Introduction"></a>1. Introduction**
 
 Meetup Mates respects your privacy and is committed to protecting your personal data. This privacy policy will inform you as to how we look after your personal data when you visit our website www.meetup-mates.com (regardless of where you visit it from) and tell you about your privacy rights and how the law protects you. 
@@ -18,7 +34,7 @@ This privacy policy is provided in a layered format so you can click through to 
 
 
 
-**2. Important information and who we are**
+**<a id="Important information and who we are"></a>2. Important information and who we are**
 
 Meetup Mates is an online community run on Slack. If you register to meetup mates via our online form, you will receive an email from meetupmatesldn@gmail.com with Slack Channel invitaition and a list of meetups to attend every month in London. Meetup Mates organises gatherings of Meetup Mates members before the meetup to help the community attend more meetups together. To attend meetups you will have to sign up via www.meetup.com here is their [privacy policy](https://www.meetup.com/privacy/)
 
@@ -76,7 +92,7 @@ We do not control these third-party websites and are not responsible for their p
 </details>
 
 
-**3. The data we collect about you and how we use it**
+**<a id="The data we collect about you and how we use it"></a>3. The data we collect about you and how we use it**
 
 We store IP address, cookies, your device’s unique ID, page browsing history, ads you’ve viewed and clicked, searches you’ve made on site, approximate location, and any enquiries you’ve made. For registered members we also store username, first name, last name, email address; public discussions you may have on Meetup Mates Slack Channel; and a summary of decisions we’ve taken about you if we’ve reviewed your use of Meetup Mates Slack Channel for any reason (please refer to the Code of Conduct). Registered members may also have given us more data on sign up, such as their professional field, social media account link (used as a verification tool).
 
@@ -140,7 +156,7 @@ Note that we may process your personal data for more than one lawful ground depe
 |To make suggestions and recommendations to you about goods or services that may be of interest to you |(a) Identity <br>(b) Contact <br>(c) Technical <br>(d) Usage <br>(e) Profile <br>(f) Marketing and Communications |Necessary for our legitimate interests (to develop our products/services and grow our business)|
 
 
-**4. Your permissions and choices**
+**<a id="Your permissions and choices"></a>4. Your permissions and choices**
 
 You can change your registration data and your email preferences on Meetup Mates at any time by filling out this survey: LINK. You can also manage your cookie preferences – click on this section for how to do this, but remember it may affect how well this site works. You can delete your account by filling out this form LINK.
 
@@ -161,21 +177,21 @@ The first time you visit Meetup Mates you should see a pop-up along the bottom o
 
 At the bottom right hand side of this page (The Privacy Policy) you should see a settings toggle which says ‘Privacy setting’. If you click on this a pop-up should appear at the bottom of the screen. Here you can manage all your individual cookie preferences.
 
-**5. Deleting your Meetup Mates Account**
+**<a id="Deleting your Meetup Mates Account"></a>5. Deleting your Meetup Mates Account**
 
 You can delete your account by going here Your Meetup Mates Slack Channel posts won’t be deleted, but there will no longer be any personal information associated with them.
 
 **Data requests**
 If you’d like you can ask us to provide details of the personal information we hold about you, under the 2018 EU General Data Protection Regulation (GDPR). To request this information, please email us at meetupmatesldn@gmail.com.
 
-**6. Change of purpose**
+**<a id="Change of purpose"></a>6. Change of purpose**
 
 We will only use your personal data for the purposes for which we collected it, unless we reasonably consider that we need to use it for another reason and that reason is compatible with the original purpose. If you wish to get an explanation as to how the processing for the new purpose is compatible with the original purpose, please contact us. 
 If we need to use your personal data for an unrelated purpose, we will notify you and we will explain the legal basis which allows us to do so.
 
 Please note that we may process your personal data without your knowledge or consent, in compliance with the above rules, where this is required or permitted by law.
 
-**7. Disclosures of your personal data**
+**<a id="Disclosures of your personal data"></a>7. Disclosures of your personal data**
 
 We may share your personal data with the parties set out below for the purposes set out in the table [Purposes for which we will use your personal data] above.
 - External Third Parties like Slack as set out in the [Glossary].
@@ -183,13 +199,13 @@ We may share your personal data with the parties set out below for the purposes 
   
 We require all third parties to respect the security of your personal data and to treat it in accordance with the law. We do not allow our third-party service providers to use your personal data for their own purposes and only permit them to process your personal data for specified purposes and in accordance with our instructions.
 
-**8. Data security**
+**<a id="Data security"></a>8. Data security**
 
 We have put in place appropriate security measures to prevent your personal data from being accidentally lost, used or accessed in an unauthorised way, altered or disclosed. In addition, we limit access to your personal data to those employees, agents, contractors and other third parties who have a business need to know. They will only process your personal data on our instructions, and they are subject to a duty of confidentiality. 
 
 We have put in place procedures to deal with any suspected personal data breach and will notify you and any applicable regulator of a breach where we are legally required to do so.
 
-**9. Data retention**
+**<a id="Data retention"></a>9. Data retention**
 
 **How long will you use my personal data for?**
 Any personal data you give us, or that we collect when you use Meetup Mates, will be retained by us for as long as it’s needed to perform its function. Registration data is held permanently unless you deregister. There’s no one-size-fits-all time limit, but we regularly review the data we hold to ensure it is still necessary.
@@ -198,7 +214,7 @@ Any personal data that you give us will be retained by us for as long as it's ne
 Private Messages are stored until you delete them. If you delete your account, your messages will also be deleted.
 We regularly review the data held by Meetup Mates and delete information that is no longer needed. All the data we hold is stored securely and only accessible to authorised staff members, who have regular data training.
 
-**10. Your legal rights**
+**<a id="Your legal rights"></a>10. Your legal rights**
 
 Under certain circumstances, you have rights under data protection laws in relation to your personal data. Please fill out your information here, or email us at meetupmatesldn@gmail.com to 
 
@@ -219,7 +235,7 @@ We may need to request specific information from you to help us confirm your ide
 **Time limit to respond**
 We try to respond to all legitimate requests within one month. Occasionally it could take us longer than a month if your request is particularly complex or you have made a number of requests. In this case, we will notify you and keep you updated. 
 
-**11. Complying with the law and best practice around data**
+**<a id="Complying with the law and best practice around data"></a>11. Complying with the law and best practice around data**
 
 The way we store and process data is compliant with the UK 1998 Data Protection Act, the 2018 EU General Data Protection Regulation (GDPR), and other relevant pieces of legislation. We always aim to comply both with the spirit as well as the letter of the law and to be responsible with your data.
 The way that we store and process data is compliant with the following legislation:
@@ -229,7 +245,7 @@ The way that we store and process data is compliant with the following legislati
  - ePrivacy Directive 2002 (amended 2009)
 As well as keeping up-to-date with laws about data, we aim to take sensible decisions based on common sense, listening to users’ views and industry best practices.
 
-**12. If our data is compromised**
+**<a id="If our data is compromised"></a>12. If our data is compromised**
 
 If our security is breached, our data is compromised or if we fail to comply with the law, we will tell affected users as soon as we become aware of the failure. We will report any data breach to the Information Commissioner and, if appropriate, the police, in a timely fashion.
 
@@ -237,12 +253,12 @@ Used appropriately, we strongly believe using data improves the user experience 
 
 If, via human error, or via a breach of our security, we fail to comply with the law, we will let affected users know as soon as we are aware of it. We will report any data breach to the Information Commissioner in UK and, depending on the circumstances, the Police.
 
-**13. Updates**
+**<a id="Updates"></a>13. Updates**
 
 Further updates will be noted here as and when they are made.
 23 May 2019: Privacy Policy updated
 
-<details>
+<details><a id="Glossary"></a>
  <summary><b>Glossary</b><br>
   All the jargon we've used above explained</summary>
 <br><br>
@@ -278,4 +294,4 @@ Object to processing of your personal data where we are relying on a legitimate 
 
 </details>
 
-[Introduction](#Introduction)
+
