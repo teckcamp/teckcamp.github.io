@@ -107,4 +107,31 @@ Discussions that take place over email or via Private Messages between you and M
  
  </details>
  
+ ---
+ 
+<details>
+<summary><b>We also store the following optional data for registered members:</b><br>
+Permissions to email you, to send you newsletters that you have chosen to receive from Meetup Mates.</summary>
+
+Data that you provide when taking part in surveys, panels, product tests, quizzes or competitions. For these things, we sometimes ask for your name, email or other data requested by the competition provider (such as your email address). Before recording or passing this information to another organisation, we will provide the organisation’s data policy and clearly ask for your permission each time.
+
+ </details>
+ 
+ ---
+ 
+<details>
+ <summary><b>Purposes for which we will use your personal data</b><br>
+We have set out below, in a table format, a description of all the ways we plan to use your personal data, and which of the legal bases we rely on to do so. We have also identified what our legitimate interests are where appropriate.</summary>
+ 
+Note that we may process your personal data for more than one lawful ground depending on the specific purpose for which we are using your data. Please contact us if you need details about the specific legal ground we are relying on to process your personal data where more than one ground has been set out in the table below. 
+</details>
+
+---
+
+
+| Purpose/Activity                                                                                                                                                           | Type of data             | Lawful basis for processing including basis of legitimate interest |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|--------------------------------------------------------------------|
+| To register you as a new customer                                                                                                                                          | (a) Identity (b) Contact | Performance of a contract with you                                 |
+| To manage our relationship with you which will include:, (a) Notifying you about changes to our terms or privacy, policy (b) Asking you to leave a review or take a survey |                          |                                                                    |
+|                                                                                                                                                                            |                          |                                                                    |
 
