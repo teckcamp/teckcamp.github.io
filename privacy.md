@@ -33,7 +33,6 @@ It is important that you read this privacy policy together with any other privac
 <details>
  <summary><b>Controller</b>
 <br>
-  <br>
 Meetup Mates is the controller and responsible for your personal data (collectively referred to as "Meetup Mates”, "we", "us" or "our" in this privacy policy).   <br></summary>
 <br>
 We have appointed a data privacy manager who is responsible for overseeing questions in relation to this privacy policy. If you have any questions about this privacy policy, including any requests to exercise your legal rights, please contact the data privacy manager using the details set out below. </details>
@@ -53,7 +52,6 @@ You have the right to make a complaint at any time to the Information Commission
 <details>
  <summary><b>Changes to the privacy policy and your duty to inform us of changes</b>
   <br>
-    <br>
 We keep our privacy policy under regular review. This version was last updated on 22.05.2019. <br></summary>
 
 Historic versions are archived here: [LINK]. 
@@ -63,7 +61,6 @@ It is important that the personal data we hold about you is accurate and current
 <details>
  <summary><b>Third-party links</b>
  <br>  
- <br>
  This website may include links to third-party websites, plug-ins and applications (like Slack). Clicking on those links or enabling those connections may allow third parties to collect or share data about you.</summary>
 <br>
 We do not control these third-party websites and are not responsible for their privacy statements. When you leave our website, we encourage you to read the privacy policy of every website you visit.</details>
