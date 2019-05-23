@@ -178,9 +178,7 @@ Please note that we may process your personal data without your knowledge or con
 **7. Disclosures of your personal data**
 
 We may share your personal data with the parties set out below for the purposes set out in the table [Purposes for which we will use your personal data] above.
-- Internal Third Parties as set out in the [Glossary].
-- External Third Parties as set out in the [Glossary].
-- [[Specific third parties [listed in the table [Purposes for which we will use your personal data] above OR such as [SPECIFIC THIRD PARTIES]].]]
+- External Third Parties like Slack as set out in the [Glossary].
 - Third parties to whom we may choose to sell, transfer or merge parts of our business or our assets. Alternatively, we may seek to acquire other businesses or merge with them. If a change happens to our business, then the new owners may use your personal data in the same way as set out in this privacy policy. 
   
 We require all third parties to respect the security of your personal data and to treat it in accordance with the law. We do not allow our third-party service providers to use your personal data for their own purposes and only permit them to process your personal data for specified purposes and in accordance with our instructions.
