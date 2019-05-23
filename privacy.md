@@ -129,9 +129,7 @@ Note that we may process your personal data for more than one lawful ground depe
 ---
 
 
-| Purpose/Activity                                                                                                                                                           | Type of data             | Lawful basis for processing including basis of legitimate interest |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|--------------------------------------------------------------------|
-| To register you as a new customer                                                                                                                                          | (a) Identity (b) Contact | Performance of a contract with you                                 |
-| To manage our relationship with you which will include:, (a) Notifying you about changes to our terms or privacy, policy (b) Asking you to leave a review or take a survey |                          |                                                                    |
-|                                                                                                                                                                            |                          |                                                                    |
+| Purpose/Activity | Type of data | Lawful basis for processing including basis of legitimate interest|
+|-----------|-----------|-----------|
+|To register you as a new customer|(a) Identity <br> (b) Contact | Performance of a contract with you|
 
