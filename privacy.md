@@ -8,7 +8,7 @@ use-site-title: true
 According to the various laws and higher powers we have no control over, in order to legitimately ask you for any personal information (like your name, last name and email address), add you to the slack channel and e-mail you, we need to have a privacy policy. We also need you to read it, so you can definitely understand how we will be processing your data. 
 This policy explains the way that we collect, use and protect your data as well as your choices with regard to your data.
 
-We’ve tried to be as clear as we can be and to avoid unnecessary jargon, while including all the relevant information, but if anything doesn’t make sense, or you simply want to talk with a human about the data side of Meetup Mates, please email us (Margo and Dom) at meetupmatesldn@gmail.com. Thanks! 
+We’ve tried to be as clear as we can be and to avoid unnecessary jargon, while including all the relevant information, but if anything doesn’t make sense, or you simply want to talk with a human about the data side of Meetup Mates, please email us (Margo and Dom) at [meetupmatesldn@gmail.com](mailto:meetupmatesldn@gmail.com?Subject= Meetup Mates Privacy Policy). Thanks! 
 
 **1. Introduction**
 
