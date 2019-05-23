@@ -135,9 +135,54 @@ Note that we may process your personal data for more than one lawful ground depe
 |To manage our relationship with you which will include:<br> (a) Notifying you about changes to our terms or privacy policy (b) Asking you to leave a review or take a survey | (a) Identity <br> (b) Contact <br> (c) Profile |(a) Performance of a contract with you <br> (b) Necessary to comply with a legal obligation<br> (c) Necessary for our legitimate interests (to keep our records updated and to study how customers use our products/services)|
 |To enable you to partake in a prize draw, competition or complete a survey|(a) Identity <br> (b) Contact <br> (c) Profile <br> (d) Usage <br> (e)Marketing and Communications |(a) Performance of a contract with you <br> (b) Necessary for our legitimate interests (to study how customers use our products/services, to develop them and grow our business) |
 |To administer and protect our business and this website (including troubleshooting, data analysis, testing, system maintenance, support, reporting and hosting of data)|(a) Identity <br> (b) Contact <br> (c) Technical |(a) Necessary for our legitimate interests (for running our business, provision of administration and IT services, network security, to prevent fraud and in the context of a business reorganisation or group restructuring exercise) <br> (b) Necessary to comply with a legal obligation |
-|To deliver relevant website content and advertisements to you and measure or understand the effectiveness of the advertising we serve to you |(a) Identity <br>(b) Contact <br>(c) Profile <br>(d) Usage <br>(e)Marketing and Communications <br>(f) Technical |Necessary for our legitimate interests (to study how customers use our products/services, to develop them, to grow our business and to inform our marketing strategy)|
+|To deliver relevant website content and advertisements to you and measure or understand the effectiveness of the advertising we serve to you |(a) Identity <br>(b) Contact <br>(c) Profile <br>(d) Usage <br>(e) Marketing and Communications <br>(f) Technical |Necessary for our legitimate interests (to study how customers use our products/services, to develop them, to grow our business and to inform our marketing strategy)|
 |To use data analytics to improve our website, products/services, marketing, customer relationships and experiences|(a) Technical <br> (b) Usage  |Necessary for our legitimate interests (to define types of customers for our products and services, to keep our website updated and relevant, to develop our business and to inform our marketing strategy)|
-|To make suggestions and recommendations to you about goods or services that may be of interest to you |(a) Identity <br>(b) Contact <br>(c) Technical <br>(d) Usage <br>(e) Profile <br>(f)Marketing and Communications |Necessary for our legitimate interests (to develop our products/services and grow our business)|
+|To make suggestions and recommendations to you about goods or services that may be of interest to you |(a) Identity <br>(b) Contact <br>(c) Technical <br>(d) Usage <br>(e) Profile <br>(f) Marketing and Communications |Necessary for our legitimate interests (to develop our products/services and grow our business)|
+
+**4. Your permissions and choices
+
+You can change your registration data and your email preferences on Meetup Mates at any time by filling out this survey: LINK. You can also manage your cookie preferences – click on this section for how to do this, but remember it may affect how well this site works. You can delete your account by filling out this form LINK.
+
+**Your registration data**
+You can change the information that you provided when you registered, including your email address here: LINK.
+
+**Your email preferences**
+You can change which newsletters you receive or ensure that you do not receive any newsletters from Meetup Mates, by going here LINK.
+
+**Your cookies**
+Most web browsers automatically accept cookies. A cookie is a small, temporary file which a web server sends to your web browser to be stored. Cookies allow Mumsnet to identify your web browser and device if we see it again.
+
+Cookies do not contain your name or other personal details and there are some benefits to you and Meetup Mates:
+*“Measurement” cookies allow us to gather information about how many people visit Meetup Mates, how often, and what they look at while on the site (a process called ‘analytics’). If you visit multiple pages or come back to Meetup Mates after a break, cookies mean we do not count you as a new visitor. Using cookies like this allows us to compile aggregate statistics about how many users Meetup Mates has and how long people use the site for, on average. We share this anonymous information with advertisers. Understanding what’s well-used on Meetup Mates means we can create more of what users find useful and less of what they don’t.
+
+**You can manage your cookie preferences by:**
+The first time you visit Meetup Mates you should see a pop-up along the bottom of the screen. You can choose to accept all cookies, by clicking ‘I Agree’, or you can manage your individual preferences by clicking ‘show purposes’.
+
+At the bottom right hand side of this page (The Privacy Policy) you should see a settings toggle which says ‘Privacy setting’. If you click on this a pop-up should appear at the bottom of the screen. Here you can manage all your individual cookie preferences.
+
+**5. Deleting your Meetup Mates Account**
+
+You can delete your account by going here Your Meetup Mates Slack Channel posts won’t be deleted, but there will no longer be any personal information associated with them.
+
+**Data requests**
+If you’d like you can ask us to provide details of the personal information we hold about you, under the 2018 EU General Data Protection Regulation (GDPR). To request this information, please email us at meetupmatesldn@gmail.com.
+
+**6. Change of purpose**
+
+We will only use your personal data for the purposes for which we collected it, unless we reasonably consider that we need to use it for another reason and that reason is compatible with the original purpose. If you wish to get an explanation as to how the processing for the new purpose is compatible with the original purpose, please contact us. 
+If we need to use your personal data for an unrelated purpose, we will notify you and we will explain the legal basis which allows us to do so.
+
+Please note that we may process your personal data without your knowledge or consent, in compliance with the above rules, where this is required or permitted by law.
+
+**7. Disclosures of your personal data**
+
+We may share your personal data with the parties set out below for the purposes set out in the table [Purposes for which we will use your personal data] above.
+  +Internal Third Parties as set out in the [Glossary]. 
+  +External Third Parties as set out in the [Glossary].
+  +[[Specific third parties [listed in the table [Purposes for which we will use your personal data] above OR such as [SPECIFIC THIRD PARTIES]].]]
+  +Third parties to whom we may choose to sell, transfer or merge parts of our business or our assets. Alternatively, we may seek to acquire other businesses or merge with them. If a change happens to our business, then the new owners may use your personal data in the same way as set out in this privacy policy. 
+  
+We require all third parties to respect the security of your personal data and to treat it in accordance with the law. We do not allow our third-party service providers to use your personal data for their own purposes and only permit them to process your personal data for specified purposes and in accordance with our instructions.
 
 
 
