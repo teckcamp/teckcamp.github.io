@@ -204,13 +204,13 @@ We regularly review the data held by Meetup Mates and delete information that is
 
 Under certain circumstances, you have rights under data protection laws in relation to your personal data. Please fill out your information here, or email us at meetupmatesldn@gmail.com to 
 
-•	[Request access to your personal data].
-•	[Request correction of your personal data].
-•	[Request erasure of your personal data].
-•	[Object to processing of your personal data].
-•	[Request restriction of processing your personal data].
-•	[Request transfer of your personal data].
-•	[Right to withdraw consent].
+- [Request access to your personal data].
+- [Request correction of your personal data].
+- [Request erasure of your personal data].
+- [Object to processing of your personal data].
+- [Request restriction of processing your personal data].
+- [Request transfer of your personal data].
+- [Right to withdraw consent].
 
 **No fee usually required**
 You will not have to pay a fee to access your personal data (or to exercise any of the other rights). However, we may charge a reasonable fee if your request is clearly unfounded, repetitive or excessive. Alternatively, we could refuse to comply with your request in these circumstances.
@@ -225,10 +225,10 @@ We try to respond to all legitimate requests within one month. Occasionally it c
 
 The way we store and process data is compliant with the UK 1998 Data Protection Act, the 2018 EU General Data Protection Regulation (GDPR), and other relevant pieces of legislation. We always aim to comply both with the spirit as well as the letter of the law and to be responsible with your data.
 The way that we store and process data is compliant with the following legislation:
-  UK Data Protection Act 1988 (DPA)
-  EU Data Protection Directive 1995 (DPD)
-  EU General Data Protection Regulation 2018 (GDPR)
-  ePrivacy Directive 2002 (amended 2009)
+ - UK Data Protection Act 1988 (DPA)
+ - EU Data Protection Directive 1995 (DPD)
+ - EU General Data Protection Regulation 2018 (GDPR)
+ - ePrivacy Directive 2002 (amended 2009)
 As well as keeping up-to-date with laws about data, we aim to take sensible decisions based on common sense, listening to users’ views and industry best practices.
 
 **12. If our data is compromised**
@@ -268,11 +268,13 @@ You have the right to:
 Object to processing of your personal data where we are relying on a legitimate interest (or those of a third party) and there is something about your particular situation which makes you want to object to processing on this ground as you feel it impacts on your fundamental rights and freedoms. You also have the right to object where we are processing your personal data for direct marketing purposes. In some cases, we may demonstrate that we have compelling legitimate grounds to process your information which override your rights and freedoms.
 <br>
  <b>Request restriction of processing of your personal data.</b> This enables you to ask us to suspend the processing of your personal data in the following scenarios: 
-•	If you want us to establish the data's accuracy.
-•	Where our use of the data is unlawful but you do not want us to erase it.
-•	Where you need us to hold the data even if we no longer require it as you need it to establish, exercise or defend legal claims. 
-•	You have objected to our use of your data but we need to verify whether we have overriding legitimate grounds to use it. 
-Request the transfer of your personal data to you or to a third party. We will provide to you, or a third party you have chosen, your personal data in a structured, commonly used, machine-readable format. Note that this right only applies to automated information which you initially provided consent for us to use or where we used the information to perform a contract with you. 
+ <ul>
+<li>If you want us to establish the data's accuracy.</li>
+<li>Where our use of the data is unlawful but you do not want us to erase it.</li>
+<li>Where you need us to hold the data even if we no longer require it as you need it to establish, exercise or defend legal claims.</li>
+<li>You have objected to our use of your data but we need to verify whether we have overriding legitimate grounds to use it. </li></ul>
+
+<br>Request the transfer of your personal data to you or to a third party. We will provide to you, or a third party you have chosen, your personal data in a structured, commonly used, machine-readable format. Note that this right only applies to automated information which you initially provided consent for us to use or where we used the information to perform a contract with you. 
 <br>
 <b>Withdraw consent at any time </b>where we are relying on consent to process your personal data. However, this will not affect the lawfulness of any processing carried out before you withdraw your consent. If you withdraw your consent, we may not be able to provide certain products or services to you. We will advise you if this is the case at the time you withdraw your consent.
 
