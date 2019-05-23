@@ -257,8 +257,8 @@ If, via human error, or via a breach of our security, we fail to comply with the
 
 Further updates will be noted here as and when they are made.
 23 May 2019: Privacy Policy updated
-
-<details><a id="Glossary"></a>
+<a id="Glossary"></a>
+<details>
  <summary><b>Glossary</b><br>
   All the jargon we've used above explained</summary>
 <br><br>
