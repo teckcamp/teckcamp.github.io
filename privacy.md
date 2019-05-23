@@ -10,7 +10,7 @@ This policy explains the way that we collect, use and protect your data as well 
 
 We’ve tried to be as clear as we can be and to avoid unnecessary jargon, while including all the relevant information, but if anything doesn’t make sense, or you simply want to talk with a human about the data side of Meetup Mates, please email us (Margo and Dom) at [meetupmatesldn@gmail.com](mailto:meetupmatesldn@gmail.com?Subject= Meetup Mates Privacy Policy). Thanks! 
 
-##Table of Contents
+##Table of Contents##
 1. [Introduction](#Introduction)
 2. [Important information and who we are](#Important information and who we are)
 3. [The data we collect about you and how we use it](#The data we collect about you and how we use it)
