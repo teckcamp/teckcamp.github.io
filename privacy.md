@@ -52,10 +52,8 @@ You have the right to make a complaint at any time to the Information Commission
  <summary><b>Changes to the privacy policy and your duty to inform us of changes</b>
   <br>
 We keep our privacy policy under regular review. This version was last updated on 22.05.2019. <br></summary>
-
-Historic versions are archived here: [LINK]. 
- <br>
-It is important that the personal data we hold about you is accurate and current. Please keep us informed if your personal data changes during your relationship with us.</details>
++Historic versions are archived here: [LINK]. 
++It is important that the personal data we hold about you is accurate and current. Please keep us informed if your personal data changes during your relationship with us.</details>
 
 <details>
  <summary><b>Third-party links</b>
