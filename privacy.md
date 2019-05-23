@@ -4,7 +4,7 @@ title: Privacy Policy
 subtitle: Welcome to the Meetup Mate's privacy policy.
 use-site-title: true
 ---
-
+<a id="Privacy Policy Top"></a>
 According to the various laws and higher powers we have no control over, in order to legitimately ask you for any personal information (like your name, last name and email address), add you to the slack channel and e-mail you, we need to have a privacy policy. We also need you to read it, so you can definitely understand how we will be processing your data. 
 This policy explains the way that we collect, use and protect your data as well as your choices with regard to your data.
 
@@ -12,7 +12,7 @@ We’ve tried to be as clear as we can be and to avoid unnecessary jargon, while
 
 ---
 
-<h2>Table of Content</h2>
+<h2>Table of Contents</h2>
 1. [Introduction](#Introduction)
 2. [Important information and who we are](#Important information and who we are)
 3. [The data we collect about you and how we use it](#The data we collect about you and how we use it)
@@ -299,3 +299,4 @@ Object to processing of your personal data where we are relying on a legitimate 
 </details>
 
 
+[Back to the top of the page](#Privacy Policy Top)
