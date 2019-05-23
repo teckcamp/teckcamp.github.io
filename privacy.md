@@ -245,26 +245,26 @@ Further updates will be noted here as and when they are made.
 <details>
  <summary><b>Glossary</b><br>
   All the jargon we've used above explained</summary>
- 
+<br><br>
 <b>LAWFUL BASIS</b>
-<br>
+<br><br>
 <b>Legitimate Interest</b> means the interest of our business in conducting and managing our business to enable us to give you the best service/product and the best and most secure experience. We make sure we consider and balance any potential impact on you (both positive and negative) and your rights before we process your personal data for our legitimate interests. We do not use your personal data for activities where our interests are overridden by the impact on you (unless we have your consent or are otherwise required or permitted to by law). You can obtain further information about how we assess our legitimate interests against any potential impact on you in respect of specific activities by contacting us.
-<br>
+<br><br>
 <b>Performance of Contract</b> means processing your data where it is necessary for the performance of a contract to which you are a party or to take steps at your request before entering into such a contract.
-<br>
+<br><br>
  <b>Comply with a legal obligation</b> means processing your personal data where it is necessary for compliance with a legal obligation that we are subject to.
 <br><br>
  <b>YOUR LEGAL RIGHTS</b>
 <br><br>
 You have the right to:
 <b>Request access to your personal data</b> (commonly known as a "data subject access request"). This enables you to receive a copy of the personal data we hold about you and to check that we are lawfully processing it.
-<br>
+<br><br>
 <b>Request correction of the personal data that we hold about you.</b> This enables you to have any incomplete or inaccurate data we hold about you corrected, though we may need to verify the accuracy of the new data you provide to us.
-<br>
+<br><br>
  <b>Request erasure of your personal data.</b> This enables you to ask us to delete or remove personal data where there is no good reason for us continuing to process it. You also have the right to ask us to delete or remove your personal data where you have successfully exercised your right to object to processing (see below), where we may have processed your information unlawfully or where we are required to erase your personal data to comply with local law. Note, however, that we may not always be able to comply with your request of erasure for specific legal reasons which will be notified to you, if applicable, at the time of your request. 
-<br>
+<br><br>
 Object to processing of your personal data where we are relying on a legitimate interest (or those of a third party) and there is something about your particular situation which makes you want to object to processing on this ground as you feel it impacts on your fundamental rights and freedoms. You also have the right to object where we are processing your personal data for direct marketing purposes. In some cases, we may demonstrate that we have compelling legitimate grounds to process your information which override your rights and freedoms.
-<br>
+<br><br>
  <b>Request restriction of processing of your personal data.</b> This enables you to ask us to suspend the processing of your personal data in the following scenarios: 
  <ul>
 <li>If you want us to establish the data's accuracy.</li>
@@ -273,7 +273,7 @@ Object to processing of your personal data where we are relying on a legitimate 
 <li>You have objected to our use of your data but we need to verify whether we have overriding legitimate grounds to use it. </li></ul>
 
 <br>Request the transfer of your personal data to you or to a third party. We will provide to you, or a third party you have chosen, your personal data in a structured, commonly used, machine-readable format. Note that this right only applies to automated information which you initially provided consent for us to use or where we used the information to perform a contract with you. 
-<br>
+<br><br>
 <b>Withdraw consent at any time </b>where we are relying on consent to process your personal data. However, this will not affect the lawfulness of any processing carried out before you withdraw your consent. If you withdraw your consent, we may not be able to provide certain products or services to you. We will advise you if this is the case at the time you withdraw your consent.
 
 </details>
