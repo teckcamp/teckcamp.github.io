@@ -32,15 +32,15 @@ We’ve tried to be as clear as we can be and to avoid unnecessary jargon, while
 
 **<a id="Introduction"></a>1. Introduction**
 
-Meetup Mates respects your privacy and is committed to protecting your personal data. This privacy policy will inform you as to how we look after your personal data when you visit our website www.meetup-mates.com (regardless of where you visit it from) and tell you about your privacy rights and how the law protects you. 
+Meetup Mates respects your privacy and is committed to protecting your personal data. This privacy policy will inform you as to how we look after your personal data when you visit our website [www.meetup-mates.com](https://meetup-mates.com/) (regardless of where you visit it from) and tell you about your privacy rights and how the law protects you. 
 
-This privacy policy is provided in a layered format so you can click through to the specific areas set out below. [Alternatively, you can download a pdf version of the policy here: [LINK].] Please also use the Glossary to understand the meaning of some of the terms used in this privacy policy.
+This privacy policy is provided in a layered format so you can click through to the specific areas set out below. [Alternatively, you can download a pdf version of the policy here: [LINK].] Please also use the [Glossary](#Glossary) to understand the meaning of some of the terms used in this privacy policy.
 
 
 
 **<a id="Important information and who we are"></a>2. Important information and who we are**
 
-Meetup Mates is an online community run on Slack. If you register to meetup mates via our online form, you will receive an email from meetupmatesldn@gmail.com with Slack Channel invitaition and a list of meetups to attend every month in London. Meetup Mates organises gatherings of Meetup Mates members before the meetup to help the community attend more meetups together. To attend meetups you will have to sign up via www.meetup.com here is their [privacy policy](https://www.meetup.com/privacy/)
+Meetup Mates is an online community run on Slack. If you register to meetup mates via our online form, you will receive an email from meetupmatesldn@gmail.com with Slack Channel invitaition and a list of meetups to attend every month in London. Meetup Mates organises gatherings of Meetup Mates members before the meetup to help the community attend more meetups together. To attend meetups you will have to sign up via [www.meetup.com](https://www.meetup.com/) here is their [privacy policy](https://www.meetup.com/privacy/)
 
 **Purpose of this privacy policy**
 
@@ -53,7 +53,7 @@ It is important that you read this privacy policy together with any other privac
 <details>
  <summary><b>Controller</b>
 <br>
-Meetup Mates is the controller and responsible for your personal data (collectively referred to as "Meetup Mates”, "we", "us" or "our" in this privacy policy).   <br></summary>
+Meetup Mates is the controller and responsible for your personal data (collectively referred to as "Meetup Mates”, "we", "us" or "our" in this privacy policy).<br></summary>
 <br>
 We have appointed a data privacy manager who is responsible for overseeing questions in relation to this privacy policy. If you have any questions about this privacy policy, including any requests to exercise your legal rights, please contact the data privacy manager using the details set out below. 
 
@@ -67,9 +67,9 @@ We have appointed a data privacy manager who is responsible for overseeing quest
 If you have any questions about this privacy policy or our privacy practices, please contact our data privacy manager in the following ways:</summary>
  
 Data Privacy Manager: Margo Gantner
-Email address: meetupmatesldn@gmail.com
+Email address: [meetupmatesldn@gmail.com](mailto:meetupmatesldn@gmail.com?Subject= Meetup Mates Privacy Policy)
 <br>
-You have the right to make a complaint at any time to the Information Commissioner's Office (ICO), the UK supervisory authority for data protection issues (www.ico.org.uk). We would, however, appreciate the chance to deal with your concerns before you approach the ICO so please contact us in the first instance. 
+You have the right to make a complaint at any time to the Information Commissioner's Office (ICO), the UK supervisory authority for data protection issues [www.ico.org.uk](www.ico.org.uk). We would, however, appreciate the chance to deal with your concerns before you approach the ICO so please contact us in the first instance. 
 
 </details>
 
@@ -78,7 +78,7 @@ You have the right to make a complaint at any time to the Information Commission
 <details>
  <summary><b>Changes to the privacy policy and your duty to inform us of changes</b>
   <br>
-We keep our privacy policy under regular review. This version was last updated on 22.05.2019. <br></summary>
+We keep our privacy policy under regular review. This version was last updated on 23.05.2019. <br></summary>
 
 Historic versions are archived here: [LINK]. 
 It is important that the personal data we hold about you is accurate and current. Please keep us informed if your personal data changes during your relationship with us.
@@ -111,7 +111,7 @@ Subject to your permissions and choices (as explained later) we collect, store a
   <br>
 IP address, cookies, device ID – to identify your web browser and device. </summary>
  
- We also use Google Analytics to report on page views in aggregate to help us understand usage trends. We do not pass your personal data to Google and your IP address is anonymised before we share this information with Google Analytics. Google uses cookies and can learn about your browsing on Meetup Mates to inform Google ads and other Google services, as explained here: https://policies.google.com/privacy/partners
+We also use Google Analytics to report on page views in aggregate to help us understand usage trends. We do not pass your personal data to Google and your IP address is anonymised before we share this information with Google Analytics. Google uses cookies and can learn about your browsing on Meetup Mates to inform Google ads and other Google services, as explained here: [https://policies.google.com/privacy/partners](https://policies.google.com/privacy/partners)
  
  </details>
  
@@ -122,8 +122,9 @@ IP address, cookies, device ID – to identify your web browser and device. </su
   <br>
 Email address, First Name and Last Name</summary>
  
-So that we can add you to the slack channel, and to inform you about any changes to the community privacy policy, cookie policy and the code of conduct. If you choose to join Meetup Mates we also ask for your Twitter or LinkedIn Account so that we can check you’re a real person (to prevent ‘bots’ signing up). We won’t send you newsletters or mass email communications that you haven’t asked for, and we don’t sell your email address to anyone else.
-Discussions that take place over email or via Private Messages between you and Meetup Mates in public channels – so that we have a record.
+So that we can add you to the slack channel, and to inform you about any changes to the community privacy policy, cookie policy and the code of conduct. If you choose to join Meetup Mates we also may ask for your Twitter or LinkedIn Account so that we can check that you’re a real person (to prevent ‘bots’ signing up). We won’t send you newsletters or mass email communications that you haven’t asked for, and we don’t sell your email address to anyone else.
+
+We also store discussions that take place over email or via Private Messages between you and Meetup Mates on Slack's public channels – so that we have a record.
  
  </details>
  
@@ -186,7 +187,7 @@ At the bottom right hand side of this page (The Privacy Policy) you should see a
 You can delete your account by going here Your Meetup Mates Slack Channel posts won’t be deleted, but there will no longer be any personal information associated with them.
 
 **Data requests**
-If you’d like you can ask us to provide details of the personal information we hold about you, under the 2018 EU General Data Protection Regulation (GDPR). To request this information, please email us at meetupmatesldn@gmail.com.
+If you’d like you can ask us to provide details of the personal information we hold about you, under the 2018 EU General Data Protection Regulation (GDPR). To request this information, please email us at [meetupmatesldn@gmail.com](mailto:meetupmatesldn@gmail.com?Subject= Meetup Mates Privacy Policy).
 
 **<a id="Change of purpose"></a>6. Change of purpose**
 
@@ -198,7 +199,7 @@ Please note that we may process your personal data without your knowledge or con
 **<a id="Disclosures of your personal data"></a>7. Disclosures of your personal data**
 
 We may share your personal data with the parties set out below for the purposes set out in the table [Purposes for which we will use your personal data] above.
-- External Third Parties like Slack as set out in the [Glossary].
+- External Providers such as [Slack](https://slack.com/intl/en-gb/privacy-policy), [Hubspot](https://legal.hubspot.com/privacy-policy) and [Mailchimp](https://mailchimp.com/legal/privacy/) so we can contact you and so you can be part of the Meetup Mates community.
 - Third parties to whom we may choose to sell, transfer or merge parts of our business or our assets. Alternatively, we may seek to acquire other businesses or merge with them. If a change happens to our business, then the new owners may use your personal data in the same way as set out in this privacy policy. 
   
 We require all third parties to respect the security of your personal data and to treat it in accordance with the law. We do not allow our third-party service providers to use your personal data for their own purposes and only permit them to process your personal data for specified purposes and in accordance with our instructions.
@@ -220,7 +221,7 @@ We regularly review the data held by Meetup Mates and delete information that is
 
 **<a id="Your legal rights"></a>10. Your legal rights**
 
-Under certain circumstances, you have rights under data protection laws in relation to your personal data. Please fill out your information here, or email us at meetupmatesldn@gmail.com to 
+Under certain circumstances, you have rights under data protection laws in relation to your personal data. Please fill out your information here, or email us at [meetupmatesldn@gmail.com](mailto:meetupmatesldn@gmail.com?Subject= Meetup Mates Privacy Policy) to 
 
 - [Request access to your personal data].
 - [Request correction of your personal data].
