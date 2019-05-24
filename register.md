@@ -3,4 +3,10 @@ layout: page
 subtitle: Please leave your details below to receive the Slack Group Magic Link and a list of the Meetups we will be attending every month! 
 ---
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdHVE3QLtN9ZxOZ4L-jPTgjmqQhWALALCRDTd3T0PVA_rsWDw/viewform?embedded=true" width="640" height="1798" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
+<script>
+  hbspt.forms.create({
+	portalId: "5662596",
+	formId: "27f07fe5-ed46-4686-bda2-56a74eff53b4"
+});
+</script>
