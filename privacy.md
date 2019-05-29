@@ -172,7 +172,7 @@ You can change the information that you provided when you registered, including 
 You can change which newsletters you receive or ensure that you do not receive any newsletters from Meetup Mates, by going here LINK.
 
 **Your cookies**
-Most web browsers automatically accept cookies. A cookie is a small, temporary file which a web server sends to your web browser to be stored. Cookies allow Mumsnet to identify your web browser and device if we see it again.
+Most web browsers automatically accept cookies. A cookie is a small, temporary file which a web server sends to your web browser to be stored. Cookies allow Meetup Mates to identify your web browser and device if we see it again.
 
 Cookies do not contain your name or other personal details and there are some benefits to you and Meetup Mates:
 *“Measurement” cookies allow us to gather information about how many people visit Meetup Mates, how often, and what they look at while on the site (a process called ‘analytics’). If you visit multiple pages or come back to Meetup Mates after a break, cookies mean we do not count you as a new visitor. Using cookies like this allows us to compile aggregate statistics about how many users Meetup Mates has and how long people use the site for, on average. We share this anonymous information with advertisers. Understanding what’s well-used on Meetup Mates means we can create more of what users find useful and less of what they don’t.*
