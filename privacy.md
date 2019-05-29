@@ -67,9 +67,9 @@ We have appointed a data privacy manager who is responsible for overseeing quest
 If you have any questions about this privacy policy or our privacy practices, please contact our data privacy manager in the following ways:</summary>
  
 Data Privacy Manager: Margo Gantner
-Email address: [meetupmatesldn@gmail.com](mailto:meetupmatesldn@gmail.com?Subject= Meetup Mates Privacy Policy)
+Email address: <a href="mailto:meetupmatesldn@gmail.com?Subject= Meetup Mates Privacy Policy">meetupmatesldn@gmail.com</a>
 <br>
-You have the right to make a complaint at any time to the Information Commissioner's Office (ICO), the UK supervisory authority for data protection issues [www.ico.org.uk](www.ico.org.uk). We would, however, appreciate the chance to deal with your concerns before you approach the ICO so please contact us in the first instance. 
+You have the right to make a complaint at any time to the Information Commissioner's Office (ICO), the UK supervisory authority for data protection issues <a href="www.ico.org.uk">www.ico.org.uk</a>. We would, however, appreciate the chance to deal with your concerns before you approach the ICO so please contact us in the first instance. 
 
 </details>
 
@@ -111,7 +111,7 @@ Subject to your permissions and choices (as explained later) we collect, store a
   <br>
 IP address, cookies, device ID – to identify your web browser and device. </summary>
  
-We also use Google Analytics to report on page views in aggregate to help us understand usage trends. We do not pass your personal data to Google and your IP address is anonymised before we share this information with Google Analytics. Google uses cookies and can learn about your browsing on Meetup Mates to inform Google ads and other Google services, as explained here: [https://policies.google.com/privacy/partners](https://policies.google.com/privacy/partners)
+We also use Google Analytics to report on page views in aggregate to help us understand usage trends. We do not pass your personal data to Google and your IP address is anonymised before we share this information with Google Analytics. Google uses cookies and can learn about your browsing on Meetup Mates to inform Google ads and other Google services, as explained here: <a href="https://policies.google.com/privacy/partners">https://policies.google.com/privacy/partners</a>
  
  </details>
  
