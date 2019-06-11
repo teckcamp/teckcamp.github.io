@@ -5,9 +5,9 @@ subtitle: Meetup Mates is a community run on slack for people who attend London 
 use-site-title: true
 ---
 
-Our goal is to help gather and connect like-minded people who want to join the meetup space, but prefer to attend with someone they already are familiar with. Meetup Mates is now doing a trial of the platform with the first **55 brave sailors** who help us test the waters.
+Our goal is to help gather and connect like-minded people who want to join the meetup space, but prefer to attend with someone they already are familiar with. 
 
-We're hoping to launch the full version to everyone soon, so if you want to be the first on board, register your interest below: 
+The trial version of Meetup Mates is finished now, and you can sign up to the full version now (for security reasons, please allow one week to receive your slack invitation):
 
 [![Sign Up To Meetup Mates Slack](/img/Button SIGN UP TO MEETUP MATES SLACK CHANNEL.png "Button Meetup Mates Sign Up")](https://meetup-mates.com/register/)
 
