@@ -95,10 +95,10 @@ social-network-links:
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: false
+  twitter: true
   facebook: false
   google: false
-  linkedin: false
+  linkedin: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
@@ -113,16 +113,16 @@ url-pretty: "Meetup-Mates.com"  # eg. "deanattali.com/beautiful-jekyll"
 google_analytics: "UA-137048208-1"
 
 # Google Tag Manager ID
-#gtm: ""
+gtm: "GTM-THQJV4G"
 
 # Matomo (aka Piwik) Web statistics
 # Uncomment the following section to enable Matomo. The opt-out parameter controls
 # whether or not you want to allow users to opt out of tracking.
 
-#matomo:
-#  site_id: "9"
-#  uri: "demo.wiki.pro"
-#  opt-out: true
+matomo:
+  site_id: "9"
+  uri: "demo.wiki.pro"
+  opt-out: true
 
 # --- Comments --- #
 
@@ -159,7 +159,7 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "Europe/London"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
