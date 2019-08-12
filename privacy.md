@@ -35,13 +35,13 @@ We’ve tried to be as clear as we can be and to avoid unnecessary jargon, while
 
 Meetup Mates respects your privacy and is committed to protecting your personal data. This privacy policy will inform you as to how we look after your personal data when you visit our website [www.meetup-mates.com](https://meetup-mates.com/) (regardless of where you visit it from) and tell you about your privacy rights and how the law protects you. 
 
-This privacy policy is provided in a layered format so you can click through to the specific areas set out below. [Alternatively, you can download a pdf version of the policy here: [LINK].] Please also use the [Glossary](#Glossary) to understand the meaning of some of the terms used in this privacy policy.
+This privacy policy is provided in a layered format so you can click through to the specific areas set out below. Please use the [Glossary](#Glossary) to understand the meaning of some of the terms used in this privacy policy.
 
 
 
 **<a id="Important information and who we are"></a>2. Important information and who we are**
 
-Meetup Mates is an online community run on Slack. If you register to meetup mates via our online form, you will receive an email from meetupmatesldn@gmail.com with Slack Channel invitaition and a list of meetups to attend every month in London. Meetup Mates organises gatherings of Meetup Mates members before the meetup to help the community attend more meetups together. To attend meetups you will have to sign up via [www.meetup.com](https://www.meetup.com/) here is their [privacy policy](https://www.meetup.com/privacy/)
+Meetup Mates is an online community run on Slack. If you [register to meetup mates via our online form](https://meetup-mates.com/register/), you will receive an email from meetupmatesldn@gmail.com with Slack Channel invitaition and a list of meetups to attend every month in London. Meetup Mates organises gatherings of Meetup Mates members before the meetup to help the community attend more meetups together. To attend meetups you will have to sign up via [www.meetup.com](https://www.meetup.com/) here is their [privacy policy](https://www.meetup.com/privacy/)
 
 **Purpose of this privacy policy**
 
@@ -85,6 +85,7 @@ Historic versions are archived here: [LINK].
 It is important that the personal data we hold about you is accurate and current. Please keep us informed if your personal data changes during your relationship with us.
 
 </details>
+
  ---
  
 <details>
@@ -92,12 +93,11 @@ It is important that the personal data we hold about you is accurate and current
  <br>  
  This website may include links to third-party websites, plug-ins and applications (like Slack). Clicking on those links or enabling those connections may allow third parties to collect or share data about you.</summary>
 <br>
-We do not control these third-party websites and are not responsible for their privacy statements. When you leave our website, we encourage you to read the privacy policy of every website you visit.
+We do not control these third-party websites and are not responsible for their privacy statements. When you leave our website, we encourage you to read the privacy policy of every website you visit.</details>
 
-</details>
+---
 
-
-**<a id="The data we collect about you and how we use it"></a>3. The data we collect about you and how we use it**
+**<a id="The data we collect about you and how we use it"></a> 3. The data we collect about you and how we use it**
 
 For registered members we store username, first name, last name, email address; public discussions you may have on Meetup Mates Slack Channel; and a summary of decisions we’ve taken about you if we’ve reviewed your use of Meetup Mates Slack Channel for any reason (please refer to the Code of Conduct). Registered members may also have given us more data on sign up like favourite meetups in London.
 
@@ -179,13 +179,14 @@ You can change which newsletters you receive or ensure that you do not receive a
 Most web browsers automatically accept cookies. A cookie is a small, temporary file which a web server sends to your web browser to be stored. Cookies allow Meetup Mates to identify your web browser and device if we see it again.
 
 Cookies do not contain your name or other personal details and there are some benefits to you and Meetup Mates:
+
 *“Measurement” cookies allow us to gather information about how many people visit Meetup Mates, how often, and what they look at while on the site (a process called ‘analytics’). If you visit multiple pages or come back to Meetup Mates after a break, cookies mean we do not count you as a new visitor. Using cookies like this allows us to compile aggregate statistics about how many users Meetup Mates has and how long people use the site for, on average. We share this anonymous information with advertisers. Understanding what’s well-used on Meetup Mates means we can create more of what users find useful and less of what they don’t.*
 
 **You can manage your cookie preferences by:**
 
 The first time you visit Meetup Mates you should see a pop-up along the bottom of the screen. You can choose to accept all cookies, by clicking ‘I Agree’, or you can manage your individual preferences by clicking ‘show purposes’.
 
-At the bottom right hand side of this page (The Privacy Policy) you should see a settings toggle which says ‘Privacy setting’. If you click on this a pop-up should appear at the bottom of the screen. Here you can manage all your individual cookie preferences.
+At the bottom right hand side of this page (The Privacy Policy) you should see a settings toggle which says ‘Privacy setting’. If you click on this a pop-up should appear at the bottom of the screen.
 
 **<a id="Deleting your Meetup Mates Account"></a>5. Deleting your Meetup Mates Account**
 
@@ -193,7 +194,7 @@ You can delete your account by clicking on [Update your Preferences or Unsubscri
 
 **Data requests**
 
-If you’d like, you can always ask us to provide details of the personal information we hold about you, under the 2018 EU General Data Protection Regulation (GDPR). To request this information, please email us at [meetupmatesldn@gmail.com](mailto:meetupmatesldn@gmail.com?Subject= Meetup Mates Privacy Policy).
+If you’d like, you can always ask us to provide details of the personal information we hold about you, under the 2018 EU General Data Protection Regulation (GDPR). To request this information, please email us at <a href="mailto:meetupmatesldn@gmail.com?Subject=Meetup_Mates_Privacy_Policy">meetupmatesldn@gmail.com</a>.
 
 **<a id="Change of purpose"></a>6. Change of purpose**
 
@@ -231,13 +232,13 @@ We regularly review the data held by Meetup Mates and delete information that is
 
 Under certain circumstances, you have rights under data protection laws in relation to your personal data. Please fill out your details here [Update your Preferences or Unsubscribe](https://meetup-mates.com/unsubscribe/), or email us at [meetupmatesldn@gmail.com](mailto:meetupmatesldn@gmail.com?Subject= Meetup Mates Privacy Policy) to:
 
-- [Request access to your personal data](mailto:meetupmatesldn@gmail.com?Subject=Request access to my personal data)
-- [Request correction of your personal data](mailto:meetupmatesldn@gmail.com?Subject=Request correction of my personal data)
-- [Request erasure of your personal data](mailto:meetupmatesldn@gmail.com?Subject=Request erasure of my personal data)
-- [Object to processing of your personal data](mailto:meetupmatesldn@gmail.com?Subject=Object to processing of your personal data)
-- [Request restriction of processing your personal data](mailto:meetupmatesldn@gmail.com?Subject=Request restriction of processing my personal data)
-- [Request transfer of your personal data](mailto:meetupmatesldn@gmail.com?Subject=Request transfer of my personal data)
-- [Right to withdraw consent](mailto:meetupmatesldn@gmail.com?Subject=Right to withdraw consent)
+- <a href="mailto:meetupmatesldn@gmail.com?Subject=Request access to your personal data">Request access to your personal data</a>
+- <a href="mailto:meetupmatesldn@gmail.com?Subject=Request correction of your personal data">Request correction of your personal data</a>
+- <a href="mailto:meetupmatesldn@gmail.com?Subject=Request erasure of your personal data">Request erasure of your personal data</a>
+- <a href="mailto:meetupmatesldn@gmail.com?Subject=Object to processing of your personal data">Object to processing of your personal data</a>
+- <a href="mailto:meetupmatesldn@gmail.com?Subject=Request restriction of processing your personal data">Request restriction of processing your personal data</a>
+- <a href="mailto:meetupmatesldn@gmail.com?Subject=Request transfer of your personal data">Request transfer of your personal data</a>
+-  <a href="mailto:meetupmatesldn@gmail.com?Subject=Right to withdraw consent">RRight to withdraw consent</a>
 
 **No fee usually required**
 
@@ -280,16 +281,18 @@ Further updates will be noted here as and when they are made.
 **<a id="SlackRules"></a>14. Slack Workspace Rules**
 
 We have a [Code of Conduct](https://meetup-mates.com/code-of-conduct/), please follow it. 
-Meetup Mates is aimed to making the Meetup experience enjoyable for everyone. If you notice that the Code of Conduct is violated, please email Margo Gantner or Dominique Top at [meetupmatesldn@gmail.com](mailto:meetupmatesldn@gmail.com?Subject= Meetup Mates Privacy Policy) so we can action it.
+
+Meetup Mates aim is to make the Meetup experience enjoyable for everyone. If you notice that the Code of Conduct being violated, please email Margo Gantner or Dominique Top at <a href="meetupmatesldn@gmail.com?Subject= Meetup Mates Code of Conduct Violation">meetupmatesldn@gmail.com</a> so we can action it.
 
 For your profile, please use your full name and a photo of yourself. Meetup Mates goal is to meet people - It would be useful to know what you look like.
 
 **Disclaimer:**
 
 We want Meetup Mates to thrive as a community! In order to achieve this, we will remove you from the platform if you’ve been inactive for more than a month. After this, you’re more than welcome to register again if you’re ready to participate.
-If you’re going away for a longer period in time or if there’s another reason for your absence, please drop @Margo Gantner or @DevOps Dom a DM on Slack and we’ll make a note of it.
 
-**Do’s and Don'ts**
+If you’re going away for a longer period in time or if there’s another reason for your absence, please drop Margo Gantner or Dominique Top a DM on Slack and we’ll make a note of it.
+
+**Do’s and Don'ts:**
 
 Please Do:
 - Get to know each other!
