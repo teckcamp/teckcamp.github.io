@@ -167,27 +167,32 @@ Note that we may process your personal data for more than one lawful ground depe
 You can change your registration data and your email preferences on Meetup Mates at any time by filling out this survey: LINK. You can also manage your cookie preferences – click on this section for how to do this, but remember it may affect how well this site works. You can delete your account by filling out this form <a href="https://meetup-mates.com/unsubscribe/">Update your Preferences or Unsubscribe</a>.
 
 **Your registration data**
+
 You can change the information that you provided when you registered, including your email address here: <a href="https://meetup-mates.com/unsubscribe/">Update your Preferences or Unsubscribe</a>.
 
 **Your email preferences**
+
 You can change which newsletters you receive or ensure that you do not receive any newsletters from Meetup Mates, by going here <a href="https://meetup-mates.com/unsubscribe/">Update your Preferences or Unsubscribe</a>.
 
 **Your cookies**
+
 Most web browsers automatically accept cookies. A cookie is a small, temporary file which a web server sends to your web browser to be stored. Cookies allow Meetup Mates to identify your web browser and device if we see it again.
 
 Cookies do not contain your name or other personal details and there are some benefits to you and Meetup Mates:
 *“Measurement” cookies allow us to gather information about how many people visit Meetup Mates, how often, and what they look at while on the site (a process called ‘analytics’). If you visit multiple pages or come back to Meetup Mates after a break, cookies mean we do not count you as a new visitor. Using cookies like this allows us to compile aggregate statistics about how many users Meetup Mates has and how long people use the site for, on average. We share this anonymous information with advertisers. Understanding what’s well-used on Meetup Mates means we can create more of what users find useful and less of what they don’t.*
 
 **You can manage your cookie preferences by:**
+
 The first time you visit Meetup Mates you should see a pop-up along the bottom of the screen. You can choose to accept all cookies, by clicking ‘I Agree’, or you can manage your individual preferences by clicking ‘show purposes’.
 
 At the bottom right hand side of this page (The Privacy Policy) you should see a settings toggle which says ‘Privacy setting’. If you click on this a pop-up should appear at the bottom of the screen. Here you can manage all your individual cookie preferences.
 
 **<a id="Deleting your Meetup Mates Account"></a>5. Deleting your Meetup Mates Account**
 
-You can delete your account by clicking on <a href="https://meetup-mates.com/unsubscribe/">Update your Preferences or Unsubscribe</a>. Your Meetup Mates Slack Channel posts won’t be deleted, but there will no longer be any personal information associated with them.
+You can delete your account by clicking on [Update your Preferences or Unsubscribe](https://meetup-mates.com/unsubscribe/). Your Meetup Mates Slack Channel posts won’t be deleted, but there will no longer be any personal information associated with them.
 
 **Data requests**
+
 If you’d like, you can always ask us to provide details of the personal information we hold about you, under the 2018 EU General Data Protection Regulation (GDPR). To request this information, please email us at [meetupmatesldn@gmail.com](mailto:meetupmatesldn@gmail.com?Subject= Meetup Mates Privacy Policy).
 
 **<a id="Change of purpose"></a>6. Change of purpose**
@@ -215,7 +220,8 @@ We have put in place procedures to deal with any suspected personal data breach 
 **<a id="Data retention"></a>9. Data retention**
 
 **How long will you use my personal data for?**
-Any personal data you give us, or that we collect when you use Meetup Mates, will be retained by us for as long as it’s needed to perform its function. Registration data is held permanently unless you deregister. There’s no one-size-fits-all time limit, but we regularly review the data we hold to ensure it is still necessary.
+
+Any personal data you give us, or that we collect when you use Meetup Mates, will be retained by us for as long as it’s needed to perform its function. Registration data is held permanently unless you deregister, or if you're inactive for over 60 days. There’s no one-size-fits-all time limit, but we regularly review the data we hold to ensure it is still necessary.
 
 Any personal data that you give us will be retained by us for as long as it's needed to perform its function.
 Private Messages are stored until you delete them. If you delete your account, your messages will also be deleted.
@@ -223,28 +229,31 @@ We regularly review the data held by Meetup Mates and delete information that is
 
 **<a id="Your legal rights"></a>10. Your legal rights**
 
-Under certain circumstances, you have rights under data protection laws in relation to your personal data. Please fill out your information here, or email us at [meetupmatesldn@gmail.com](mailto:meetupmatesldn@gmail.com?Subject= Meetup Mates Privacy Policy) to 
+Under certain circumstances, you have rights under data protection laws in relation to your personal data. Please fill out your details here [Update your Preferences or Unsubscribe](https://meetup-mates.com/unsubscribe/), or email us at [meetupmatesldn@gmail.com](mailto:meetupmatesldn@gmail.com?Subject= Meetup Mates Privacy Policy) to:
 
-- [Request access to your personal data].
-- [Request correction of your personal data].
-- [Request erasure of your personal data].
-- [Object to processing of your personal data].
-- [Request restriction of processing your personal data].
-- [Request transfer of your personal data].
-- [Right to withdraw consent].
+- [Request access to your personal data](mailto:meetupmatesldn@gmail.com?Subject=Request access to my personal data)
+- [Request correction of your personal data](mailto:meetupmatesldn@gmail.com?Subject=Request correction of my personal data)
+- [Request erasure of your personal data](mailto:meetupmatesldn@gmail.com?Subject=Request erasure of my personal data)
+- [Object to processing of your personal data](mailto:meetupmatesldn@gmail.com?Subject=Object to processing of your personal data)
+- [Request restriction of processing your personal data](mailto:meetupmatesldn@gmail.com?Subject=Request restriction of processing my personal data)
+- [Request transfer of your personal data](mailto:meetupmatesldn@gmail.com?Subject=Request transfer of my personal data)
+- [Right to withdraw consent](mailto:meetupmatesldn@gmail.com?Subject=Right to withdraw consent)
 
 **No fee usually required**
+
 You will not have to pay a fee to access your personal data (or to exercise any of the other rights). However, we may charge a reasonable fee if your request is clearly unfounded, repetitive or excessive. Alternatively, we could refuse to comply with your request in these circumstances.
 
 **What we may need from you**
+
 We may need to request specific information from you to help us confirm your identity and ensure your right to access your personal data (or to exercise any of your other rights). This is a security measure to ensure that personal data is not disclosed to any person who has no right to receive it. We may also contact you to ask you for further information in relation to your request to speed up our response.
 
 **Time limit to respond**
+
 We try to respond to all legitimate requests within one month. Occasionally it could take us longer than a month if your request is particularly complex or you have made a number of requests. In this case, we will notify you and keep you updated. 
 
 **<a id="Complying with the law and best practice around data"></a>11. Complying with the law and best practice around data**
 
-The way we store and process data is compliant with the UK 1998 Data Protection Act, the 2018 EU General Data Protection Regulation (GDPR), and other relevant pieces of legislation. We always aim to comply both with the spirit as well as the letter of the law and to be responsible with your data.
+The way we store and process data is compliant with the [UK 1998 Data Protection Act](https://whatis.techtarget.com/definition/UK-Data-Protection-Act-1998-DPA-1998), the [2018 EU General Data Protection Regulation (GDPR)](https://eugdpr.org/), and other relevant pieces of legislation. We always aim to comply both with the spirit as well as the letter of the law and to be responsible with your data.
 The way that we store and process data is compliant with the following legislation:
  - UK Data Protection Act 1988 (DPA)
  - EU Data Protection Directive 1995 (DPD)
@@ -263,8 +272,9 @@ If, via human error, or via a breach of our security, we fail to comply with the
 **<a id="Updates"></a>13. Updates**
 
 Further updates will be noted here as and when they are made.
-12 June 2019: Privacy Policy updated
-23 May 2019: Privacy Policy updated
+- 12 June 2019: Privacy Policy updated
+- 23 May 2019: Privacy Policy updated
+
 <a id="Glossary"></a>
 
 **<a id="SlackRules"></a>14. Slack Workspace Rules**
@@ -274,21 +284,25 @@ Meetup Mates is aimed to making the Meetup experience enjoyable for everyone. If
 
 For your profile, please use your full name and a photo of yourself. Meetup Mates goal is to meet people - It would be useful to know what you look like.
 
-Disclaimer:
+**Disclaimer:**
+
 We want Meetup Mates to thrive as a community! In order to achieve this, we will remove you from the platform if you’ve been inactive for more than a month. After this, you’re more than welcome to register again if you’re ready to participate.
 If you’re going away for a longer period in time or if there’s another reason for your absence, please drop @Margo Gantner or @DevOps Dom a DM on Slack and we’ll make a note of it.
 
-Do’s and Don'ts
+**Do’s and Don'ts**
+
 Please Do:
 - Get to know each other!
 - Encourage first time Meetup goers
-- Be respectful of reasons (visible/invisible) why folks haven’t been going to Meetups as often as others.
-- Give back to the community :slightly_smiling_face:
+- Be respectful of reasons (visible/invisible) why folks haven’t been going to Meetups as often as others
+- Give back to the community 
 - Engage in conversation (Please use Threads for conversations :P)
+
 Please Don’t:
 - Sell your products or services
-- Clutter the channels (apart from #random-append)
+- Clutter the channels 
 - Forget to introduce yourself!
+
 We’re all in this together and each of us have to play their parts to make it work. All hands on deck
 
 <details>
