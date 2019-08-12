@@ -26,7 +26,8 @@ We’ve tried to be as clear as we can be and to avoid unnecessary jargon, while
 11. [Complying with the law and best practice around data](#Complying with the law and best practice around data)
 12. [If our data is compromised](#If our data is compromised)
 13. [Updates](#Updates)
-14. [Glossary](#Glossary)
+14. [Slack Workspace Rules](#SlackRules)
+15. [Glossary](#Glossary)
 
 ---
 
@@ -78,7 +79,7 @@ You have the right to make a complaint at any time to the Information Commission
 <details>
  <summary><b>Changes to the privacy policy and your duty to inform us of changes</b>
   <br>
-We keep our privacy policy under regular review. This version was last updated on 23.05.2019. <br></summary>
+We keep our privacy policy under regular review. This version was last updated on 12.08.2019. <br></summary>
 
 Historic versions are archived here: [LINK]. 
 It is important that the personal data we hold about you is accurate and current. Please keep us informed if your personal data changes during your relationship with us.
@@ -98,9 +99,9 @@ We do not control these third-party websites and are not responsible for their p
 
 **<a id="The data we collect about you and how we use it"></a>3. The data we collect about you and how we use it**
 
-We store IP address, cookies, your device’s unique ID, page browsing history, ads you’ve viewed and clicked, searches you’ve made on site, approximate location, and any enquiries you’ve made. For registered members we also store username, first name, last name, email address; public discussions you may have on Meetup Mates Slack Channel; and a summary of decisions we’ve taken about you if we’ve reviewed your use of Meetup Mates Slack Channel for any reason (please refer to the Code of Conduct). Registered members may also have given us more data on sign up, such as their professional field, social media account link (used as a verification tool).
+For registered members we store username, first name, last name, email address; public discussions you may have on Meetup Mates Slack Channel; and a summary of decisions we’ve taken about you if we’ve reviewed your use of Meetup Mates Slack Channel for any reason (please refer to the Code of Conduct). Registered members may also have given us more data on sign up like favourite meetups in London.
 
-We store your email address to register you and contact you (if you have asked for email newsletters) and we store things such as IP address, cookies and device ID so that our systems recognise you if you return to Meetup Mates Website. 
+We store your email address to register you and contact you (if you have asked for email newsletters) and we store things such as cookies so that our systems recognise you if you return to Meetup Mates Website. 
 
 We don’t require your address when you view Meetup Mates content or register with the site, and you can use Meetup Mates fully without providing it.
 
@@ -109,7 +110,7 @@ Subject to your permissions and choices (as explained later) we collect, store a
 <details>
  <summary><b>We store the following data for all users, whether registered or not:</b>
   <br>
-IP address, cookies, device ID – to identify your web browser and device. </summary>
+IP address, cookies, device type – to identify your web browser and device. </summary>
  
 We also use Google Analytics to report on page views in aggregate to help us understand usage trends. We do not pass your personal data to Google and your IP address is anonymised before we share this information with Google Analytics. Google uses cookies and can learn about your browsing on Meetup Mates to inform Google ads and other Google services, as explained here: <a href="https://policies.google.com/privacy/partners">https://policies.google.com/privacy/partners</a>
  
@@ -124,7 +125,7 @@ Email address, First Name and Last Name</summary>
  
 So that we can add you to the slack channel, and to inform you about any changes to the community privacy policy, cookie policy and the code of conduct. If you choose to join Meetup Mates we also may ask for your Twitter or LinkedIn Account so that we can check that you’re a real person (to prevent ‘bots’ signing up). We won’t send you newsletters or mass email communications that you haven’t asked for, and we don’t sell your email address to anyone else.
 
-We also store discussions that take place over email or via Private Messages between you and Meetup Mates on Slack's public channels – so that we have a record.
+We also store discussions that take place over email or via Private Messages between you and Meetup Mates Admins on Slack's public channels – so that we have a record.
  
  </details>
  
@@ -134,7 +135,7 @@ We also store discussions that take place over email or via Private Messages bet
 <summary><b>We also store the following optional data for registered members:</b><br>
 Permissions to email you, to send you newsletters that you have chosen to receive from Meetup Mates.</summary>
 
-Data that you provide when taking part in surveys, panels, product tests, quizzes or competitions. For these things, we sometimes ask for your name, email or other data requested by the competition provider (such as your email address). Before recording or passing this information to another organisation, we will provide the organisation’s data policy and clearly ask for your permission each time.
+Data that you provide when taking part in surveys, panels, product tests, quizzes or competitions. For these things, we sometimes ask for your name, email or other data required for the competition (such as your email address). Before recording or passing this information to another organisation (for example a prize provider), we will provide the organisation’s data policy and clearly ask for your permission each time.
 
  </details>
  
@@ -163,13 +164,13 @@ Note that we may process your personal data for more than one lawful ground depe
 
 **<a id="Your permissions and choices"></a>4. Your permissions and choices**
 
-You can change your registration data and your email preferences on Meetup Mates at any time by filling out this survey: LINK. You can also manage your cookie preferences – click on this section for how to do this, but remember it may affect how well this site works. You can delete your account by filling out this form LINK.
+You can change your registration data and your email preferences on Meetup Mates at any time by filling out this survey: LINK. You can also manage your cookie preferences – click on this section for how to do this, but remember it may affect how well this site works. You can delete your account by filling out this form <a href="https://meetup-mates.com/unsubscribe/">Update your Preferences or Unsubscribe</a>.
 
 **Your registration data**
-You can change the information that you provided when you registered, including your email address here: LINK.
+You can change the information that you provided when you registered, including your email address here: <a href="https://meetup-mates.com/unsubscribe/">Update your Preferences or Unsubscribe</a>.
 
 **Your email preferences**
-You can change which newsletters you receive or ensure that you do not receive any newsletters from Meetup Mates, by going here LINK.
+You can change which newsletters you receive or ensure that you do not receive any newsletters from Meetup Mates, by going here <a href="https://meetup-mates.com/unsubscribe/">Update your Preferences or Unsubscribe</a>.
 
 **Your cookies**
 Most web browsers automatically accept cookies. A cookie is a small, temporary file which a web server sends to your web browser to be stored. Cookies allow Meetup Mates to identify your web browser and device if we see it again.
@@ -184,10 +185,10 @@ At the bottom right hand side of this page (The Privacy Policy) you should see a
 
 **<a id="Deleting your Meetup Mates Account"></a>5. Deleting your Meetup Mates Account**
 
-You can delete your account by going here Your Meetup Mates Slack Channel posts won’t be deleted, but there will no longer be any personal information associated with them.
+You can delete your account by clicking on <a href="https://meetup-mates.com/unsubscribe/">Update your Preferences or Unsubscribe</a>. Your Meetup Mates Slack Channel posts won’t be deleted, but there will no longer be any personal information associated with them.
 
 **Data requests**
-If you’d like you can ask us to provide details of the personal information we hold about you, under the 2018 EU General Data Protection Regulation (GDPR). To request this information, please email us at [meetupmatesldn@gmail.com](mailto:meetupmatesldn@gmail.com?Subject= Meetup Mates Privacy Policy).
+If you’d like, you can always ask us to provide details of the personal information we hold about you, under the 2018 EU General Data Protection Regulation (GDPR). To request this information, please email us at [meetupmatesldn@gmail.com](mailto:meetupmatesldn@gmail.com?Subject= Meetup Mates Privacy Policy).
 
 **<a id="Change of purpose"></a>6. Change of purpose**
 
@@ -198,9 +199,10 @@ Please note that we may process your personal data without your knowledge or con
 
 **<a id="Disclosures of your personal data"></a>7. Disclosures of your personal data**
 
-We may share your personal data with the parties set out below for the purposes set out in the table [Purposes for which we will use your personal data] above.
-- External Providers such as [Slack](https://slack.com/intl/en-gb/privacy-policy), [Hubspot](https://legal.hubspot.com/privacy-policy) and [Mailchimp](https://mailchimp.com/legal/privacy/) so we can contact you and so you can be part of the Meetup Mates community.
-- Third parties to whom we may choose to sell, transfer or merge parts of our business or our assets. Alternatively, we may seek to acquire other businesses or merge with them. If a change happens to our business, then the new owners may use your personal data in the same way as set out in this privacy policy. 
+We collect information about you from third-party services [Purposes for which we will use your personal data] above, that we work closely with to provide, promote, and improve our Services. These third-parties include, but are not limited to: 
+- External Providers such as [Slack](https://slack.com/intl/en-gb/privacy-policy), [Hubspot](https://legal.hubspot.com/privacy-policy), [Mailchimp](https://mailchimp.com/legal/privacy/) [Zapier](https://zapier.com/privacy/) so we can contact you and so you can be part of the Meetup Mates community.
+
+If you use a third-party service or platform or click on third-party links, the collection, use, and disclosure of your information will be subject to the privacy policies and other terms and conditions of such third-parties. You should review such privacy policies, terms, and other agreements before you submit any personal information to these services.
   
 We require all third parties to respect the security of your personal data and to treat it in accordance with the law. We do not allow our third-party service providers to use your personal data for their own purposes and only permit them to process your personal data for specified purposes and in accordance with our instructions.
 
@@ -261,8 +263,34 @@ If, via human error, or via a breach of our security, we fail to comply with the
 **<a id="Updates"></a>13. Updates**
 
 Further updates will be noted here as and when they are made.
+12 June 2019: Privacy Policy updated
 23 May 2019: Privacy Policy updated
 <a id="Glossary"></a>
+
+**<a id="SlackRules"></a>14. Slack Workspace Rules**
+
+We have a [Code of Conduct](https://meetup-mates.com/code-of-conduct/), please follow it. 
+Meetup Mates is aimed to making the Meetup experience enjoyable for everyone. If you notice that the Code of Conduct is violated, please email Margo Gantner or Dominique Top at [meetupmatesldn@gmail.com](mailto:meetupmatesldn@gmail.com?Subject= Meetup Mates Privacy Policy) so we can action it.
+
+For your profile, please use your full name and a photo of yourself. Meetup Mates goal is to meet people - It would be useful to know what you look like.
+
+Disclaimer:
+We want Meetup Mates to thrive as a community! In order to achieve this, we will remove you from the platform if you’ve been inactive for more than a month. After this, you’re more than welcome to register again if you’re ready to participate.
+If you’re going away for a longer period in time or if there’s another reason for your absence, please drop @Margo Gantner or @DevOps Dom a DM on Slack and we’ll make a note of it.
+
+Do’s and Don'ts
+Please Do:
+- Get to know each other!
+- Encourage first time Meetup goers
+- Be respectful of reasons (visible/invisible) why folks haven’t been going to Meetups as often as others.
+- Give back to the community :slightly_smiling_face:
+- Engage in conversation (Please use Threads for conversations :P)
+Please Don’t:
+- Sell your products or services
+- Clutter the channels (apart from #random-append)
+- Forget to introduce yourself!
+We’re all in this together and each of us have to play their parts to make it work. All hands on deck
+
 <details>
  <summary><b>Glossary</b><br>
   All the jargon we've used above explained</summary>
