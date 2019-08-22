@@ -1,14 +1,14 @@
 ---
 layout: page
 title: Privacy Policy
-subtitle: Welcome to the Meetup Mate's privacy policy.
+subtitle: Welcome to the Meetup Mates privacy policy.
 use-site-title: true
 ---
 <a id="Privacy Policy Top"></a>
-According to the various laws and higher powers we have no control over, in order to legitimately ask you for any personal information (like your name, last name and email address), add you to the slack channel and e-mail you, we need to have a privacy policy. We also need you to read it, so you can definitely understand how we will be processing your data. 
+According to the various laws and higher powers we have no control over, in order to legitimately ask you for any personal information (like your name, last name and email address), add you to the Slack channel and e-mail you, we need to have a privacy policy. We also need you to read it, so you can definitely understand how we will be processing your data. 
 This policy explains the way that we collect, use and protect your data as well as your choices with regard to your data.
 
-We’ve tried to be as clear as we can be and to avoid unnecessary jargon, while including all the relevant information, but if anything doesn’t make sense, or you simply want to talk with a human about the data side of Meetup Mates, please email us (Margo and Dom) at [meetupmatesldn@gmail.com](mailto:meetupmatesldn@gmail.com?Subject= Meetup Mates Privacy Policy). Thanks! 
+We’ve tried to be as clear as we can be and to avoid unnecessary jargon, while including all the relevant information, but if anything doesn’t make sense, or you simply want to talk with a human about the data side of Meetup Mates, please email the Meetup Mates team at [meetup-mates@tecknuovo.com](mailto:meetup-mates@tecknuovo.com?Subject= Meetup Mates Privacy Policy). Thanks! 
 
 ---
 
@@ -41,7 +41,7 @@ This privacy policy is provided in a layered format so you can click through to 
 
 **<a id="Important information and who we are"></a>2. Important information and who we are**
 
-Meetup Mates is an online community run on Slack. If you [register to meetup mates via our online form](https://meetup-mates.com/register/), you will receive an email from meetupmatesldn@gmail.com with Slack Channel invitaition and a list of meetups to attend every month in London. Meetup Mates organises gatherings of Meetup Mates members before the meetup to help the community attend more meetups together. To attend meetups you will have to sign up via [www.meetup.com](https://www.meetup.com/) here is their [privacy policy](https://www.meetup.com/privacy/)
+Meetup Mates is an online community run on Slack. If you [register to meetup mates via our online form](https://meetup-mates.com/register/), you will receive an email from meetup-mates@tecknuovo.com with a Slack Channel invitation and on the channel you will be informed of what Meetups to attend in London. Meetup Mates organises gatherings of Meetup Mates members before a Meetup to assist the community to attend more Meetups together. To attend meetups you will have to sign up via [www.meetup.com](https://www.meetup.com/) you can find their privacy policy [here](https://www.meetup.com/privacy/)
 
 **Purpose of this privacy policy**
 
@@ -67,8 +67,8 @@ We have appointed a data privacy manager who is responsible for overseeing quest
   <br>
 If you have any questions about this privacy policy or our privacy practices, please contact our data privacy manager in the following ways:</summary>
  
-Data Privacy Manager: Margo Gantner
-Email address: <a href="mailto:meetupmatesldn@gmail.com?Subject= Meetup Mates Privacy Policy">meetupmatesldn@gmail.com</a>
+Data Privacy Manager: Vicky Coates & Katherine Paines
+Email address: <a href="mailto:meetup-mates@tecknuovo.com?Subject= Meetup Mates Data Privacy Manager Query">meetup-mates@tecknuovo.com</a>
 <br>
 You have the right to make a complaint at any time to the Information Commissioner's Office (ICO), the UK supervisory authority for data protection issues <a href="www.ico.org.uk">www.ico.org.uk</a>. We would, however, appreciate the chance to deal with your concerns before you approach the ICO so please contact us in the first instance. 
 
@@ -194,7 +194,7 @@ You can delete your account by clicking on [Update your Preferences or Unsubscri
 
 **Data requests**
 
-If you’d like, you can always ask us to provide details of the personal information we hold about you, under the 2018 EU General Data Protection Regulation (GDPR). To request this information, please email us at <a href="mailto:meetupmatesldn@gmail.com?Subject=Meetup_Mates_Privacy_Policy">meetupmatesldn@gmail.com</a>.
+If you’d like, you can always ask us to provide details of the personal information we hold about you, under the 2018 EU General Data Protection Regulation (GDPR). To request this information, please email us at <a href="mailto:meetup-mates@tecknuovo.com?Subject= Meetup_Mates_Privacy_Policy GDPR Query">meetup-mates@tecknuovo.com</a>.
 
 **<a id="Change of purpose"></a>6. Change of purpose**
 
@@ -230,7 +230,7 @@ We regularly review the data held by Meetup Mates and delete information that is
 
 **<a id="Your legal rights"></a>10. Your legal rights**
 
-Under certain circumstances, you have rights under data protection laws in relation to your personal data. Please fill out your details here [Update your Preferences or Unsubscribe](https://meetup-mates.com/unsubscribe/), or email us at [meetupmatesldn@gmail.com](mailto:meetupmatesldn@gmail.com?Subject= Meetup Mates Privacy Policy) to:
+Under certain circumstances, you have rights under data protection laws in relation to your personal data. Please fill out your details here [Update your Preferences or Unsubscribe](https://meetup-mates.com/unsubscribe/), or email us at [meetup-mates@tecknuovo.com](mailto:meetup-mates@tecknuovo.com?Subject= Meetup Mates Privacy Policy) to:
 
 - <a href="mailto:meetupmatesldn@gmail.com?Subject=Request access to your personal data">Request access to your personal data</a>
 - <a href="mailto:meetupmatesldn@gmail.com?Subject=Request correction of your personal data">Request correction of your personal data</a>
@@ -238,7 +238,7 @@ Under certain circumstances, you have rights under data protection laws in relat
 - <a href="mailto:meetupmatesldn@gmail.com?Subject=Object to processing of your personal data">Object to processing of your personal data</a>
 - <a href="mailto:meetupmatesldn@gmail.com?Subject=Request restriction of processing your personal data">Request restriction of processing your personal data</a>
 - <a href="mailto:meetupmatesldn@gmail.com?Subject=Request transfer of your personal data">Request transfer of your personal data</a>
--  <a href="mailto:meetupmatesldn@gmail.com?Subject=Right to withdraw consent">RRight to withdraw consent</a>
+-  <a href="mailto:meetupmatesldn@gmail.com?Subject=Right to withdraw consent">Right to withdraw consent</a>
 
 **No fee usually required**
 
@@ -282,7 +282,7 @@ Further updates will be noted here as and when they are made.
 
 We have a [Code of Conduct](https://meetup-mates.com/code-of-conduct/), please follow it. 
 
-Meetup Mates aim is to make the Meetup experience enjoyable for everyone. If you notice that the Code of Conduct being violated, please email Margo Gantner or Dominique Top at <a href="meetupmatesldn@gmail.com?Subject= Meetup Mates Code of Conduct Violation">meetupmatesldn@gmail.com</a> so we can action it.
+Meetup Mates aim is to make the Meetup experience enjoyable for everyone. If you notice that the Code of Conduct being violated, please email Margo Gantner or Dominique Top at <a href="meetup-mates@tecknuovo.com?Subject= Meetup Mates Code of Conduct Violation">meetup-mates@tecknuovo.com</a> so we can action it.
 
 For your profile, please use your full name and a photo of yourself. Meetup Mates goal is to meet people - It would be useful to know what you look like.
 
