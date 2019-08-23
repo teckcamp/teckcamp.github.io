@@ -1,17 +1,15 @@
 ---
 layout: page
 title: Ahoy!
-subtitle: Meetup Mates is a community run on slack for people who attend London tech meetups together. 
+subtitle: Meetup Mates - A Community run on Slack to Attend Meetup confidently together. 
 use-site-title: true
 ---
 
-Our goal is to help gather and connect like-minded people who want to join the meetup space, but prefer to attend with someone they're already familiar with. 
-
-The trial version of Meetup Mates has finished, so you can sign up to the full version now:
+Meetup Mates - An online community on Slack, aimed at people who want to attend more Meetups and make friends with people with similar interests. The Meetup Mates meet up an hour before a Meetup occurs and attend the Meetup as a group. The nerve-racking days of going to a Meetup by yourself are over!
 
 [![Sign Up To Meetup Mates Slack](/img/Button SIGN UP TO MEETUP MATES SLACK CHANNEL.png "Button Meetup Mates Sign Up")](https://meetup-mates.com/register/)
 
-Want to find out more? Here are Margo and Dom to explain the Meetup Mates Mission – what is it and how it originated:
+If you want to learn more, here are a few of the Meetup Mates team explaining the mission:
 
 <div class="youtube-responsive-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/G-kKl2Db9Gg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
