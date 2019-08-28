@@ -28,6 +28,7 @@ navbar-links:
     #- Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
    # - Learn markdown: "http://www.markdowntutorial.com/"
   #  - GitHub Pages: "https://pages.github.com/"
+  Twitter Feed: "https://meetup-mates.com/mm-twitter"
   Photos: "https://meetup-mates.com/photos/"
   Code of Conduct: "https://meetup-mates.com/code-of-conduct/"
   Register: "https://meetup-mates.com/register/"
@@ -35,7 +36,7 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-# avatar: "/img/Meetup_Mates_Logo_Website.png"
+avatar: "/img/mm-avatar.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -255,6 +256,6 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-twitter-plugin
-  
+
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
