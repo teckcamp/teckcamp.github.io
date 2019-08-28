@@ -1,6 +1,6 @@
 ---
 layout: page
-subtitle: Please leave your details below to receive the Slack Group Magic Link and find out what Meetups we will be attending every month! 
+subtitle: Please register below to receive your Slack Invitation Link and join the crew! 
 ---
 
 
