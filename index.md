@@ -5,7 +5,7 @@ subtitle: Welcome to Meetup Mates!
 use-site-title: true
 ---
 
-Meetup Mates is an online community run on Slack, with the aim to connect people who want to attend more Meetups and make friends with people with similar interests. The Meetup Mates meet up an hour before a Meetup occurs and attend the Meetup as a group. The nerve-wracking days of going to a Meetup by yourself are over!
+Meetup Mates is an online community run on Slack, with the aim to connect people who want to attend more Meetups and make friends with people with similar interests. The Meetup Mates start gathering an hour before a Meetup occurs and attend the it together as a group. The nerve-wracking days of going to Meetups by yourself are over!
 
 Click the button below to register to Meetup Mates. We're looking forward to meeting you.
 
