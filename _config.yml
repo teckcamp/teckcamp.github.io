@@ -39,6 +39,8 @@ navbar-links:
 # then specify the following parameter
 title-img: "/img/MeetupMatesTranspLogo.png"
 
+favicon: "/img/favicon.png"
+
 # --- Background colour/image options --- #
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
