@@ -1,7 +1,7 @@
 ---
 layout: page
 title: TWITTER
-subtitle: Meetup Mates on Twitter
+subtitle: Meetup Mates on Twitter 
 use-site-title: true
 ---
 
