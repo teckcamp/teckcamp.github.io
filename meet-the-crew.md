@@ -5,6 +5,7 @@ subtitle: These are the faces of Team Meetup Mates
 use-site-title: true
 ---
 
+|[![Dominique Top](/img/DT&#32;-&#32;MM&#32;Captain&#32;Pic.jpg "Dominique Top")](www.twitter.com/devopsdom)|[![Kat Paines](/img/KP&#32;-&#32;MM&#32;Captain&#32;Pic.jpg "Kat Paines")](https://twitter.com/katpaines/)|
 
 These Meetup groups are currently proud supporters of Meetup Mates:
 
