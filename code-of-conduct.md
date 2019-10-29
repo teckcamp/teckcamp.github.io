@@ -1,6 +1,7 @@
 ---
 layout: page
-subtitle: Meetup Mates Code of Conduct
+title: CODE OF CONDUCT
+subtitle: Meetup Mates has a Code of Conduct. Please take your time to read this carefully. 
 use-site-title: true
 ---
 

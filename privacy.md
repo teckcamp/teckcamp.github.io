@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Privacy Policy
-subtitle: Welcome to the Meetup Mates privacy policy.
+title: PRIVACY NOTICE
 use-site-title: true
 ---
 <a id="Privacy Policy Top"></a>
