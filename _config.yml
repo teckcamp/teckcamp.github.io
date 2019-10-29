@@ -31,7 +31,7 @@ navbar-links:
   Home: "https://meetup-mates.com/"
   Meet the Crew: "https://meetup-mates.com/meet-the-crew/"
   Registration: "https://meetup-mates.com/register/"
-  Social Club: "https:/meetup.com/meetup-mates-social-club/"
+  Social Club: "https://www.meetup.com/meetup-mates-social-club/"
   Twitter: "https://meetup-mates.com/mm-twitter"
     # - Photos: "https://meetup-mates.com/photos/"
   Code of Conduct: "https://meetup-mates.com/code-of-conduct/"
@@ -47,13 +47,14 @@ favicon: "/img/favicon.png"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#f3c643"
+navbar-col: "#f9b233"
+#f3c643
 navbar-text-col: "#0f2026"
 navbar-children-col: "#F5F5F5"
 page-col: "#FFFFFF"
 link-col: "#EF5445"
 hover-col: "#0f2026"
-footer-col: "#f3c643"
+footer-col: "#f9b233"
 footer-text-col: "#0f2026"
 footer-link-col: "#EF5445"
 
