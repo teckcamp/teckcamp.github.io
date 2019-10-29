@@ -31,7 +31,7 @@ navbar-links:
   Home: "https://meetup-mates.com/"
   Meet the Crew: "https://meetup-mates.com/meet-the-crew"
   Registration form: "https://meetup-mates.com/register/"
-  Social Club: "https://www.meetup.com/meetup-mates-social-club/"
+  Social Club: ["https://www.meetup.com/meetup-mates-social-club/"](https://www.meetup.com/meetup-mates-social-club/){:target="_blank"}
   Twitter Feed: "https://meetup-mates.com/mm-twitter"
     # - Photos: "https://meetup-mates.com/photos/"
   Code of Conduct: "https://meetup-mates.com/code-of-conduct/"
