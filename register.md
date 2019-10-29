@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Registration Form
-subtitle: Please fill out this form and you will receive your Slack invitation link by email.
+subtitle: Please fill out the form and below to receive your Slack invitation link by email.
 use-site-title: true
 ---
 
