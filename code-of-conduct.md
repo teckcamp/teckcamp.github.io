@@ -1,11 +1,9 @@
 ---
 layout: page
-title: MEETUP MATES CODE OF CONDUCT
-subtitle: Please take your time to read this carefully. 
+title: MEETUP MATES 
+subtitle: Code of Conduct - Please take your time to read this carefully
 use-site-title: true
 ---
-
-**Meetup Mates Code of Conduct**
 
 All participants and members of the organisation are required to agree with the following code of conduct. Organisers will enforce this code. We expect cooperation from all participants to help ensure a safe environment for everybody.
 
