@@ -1,7 +1,7 @@
 ---
 layout: page
-title: MM Twitter
-subtitle: Meetup Mates Twitter Feed
+title: TWITTER
+subtitle: Meetup Mates on Twitter
 use-site-title: true
 ---
 
