@@ -1,6 +1,7 @@
 ---
 layout: page
 title: PRIVACY NOTICE
+subtitle: Please read our Privacy Policy below
 use-site-title: true
 ---
 <a id="Privacy Policy Top"></a>
