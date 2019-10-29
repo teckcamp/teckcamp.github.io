@@ -12,7 +12,7 @@ use-site-title: true
 
 <div><br><br></div>
 
-### Meetup Mates are proudly partnered with these Meetup Groups:
+### we are proudly partnered with these Meetup Groups:
 <div><br></div>
 
 |[![MeetupMates_DockerLondon](/img/MeetupMates_Docker_London.png "Docker London loves Meetup Mates")](https://www.meetup.com/Docker-London/)|[![MeetupMates_Cloud_Native](/img/MeetupMates_Cloud_Native.png "Cloud Native London loves Meetup Mates")](https://www.meetup.com/Cloud-Native-London/)|[![MeetupMates_London_DevOps](/img/MeetupMates_London_DevOps.png "London DevOps loves Meetup Mates")](https://www.meetup.com/London-DevOps/)|[![MeetupMates_Istio](/img/MeetupMates_Istio.png "Istio London loves Meetup Mates")](https://www.meetup.com/Istio-London/)|
