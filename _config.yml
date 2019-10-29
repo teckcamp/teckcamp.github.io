@@ -28,12 +28,12 @@ navbar-links:
     #- Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     #- Learn markdown: "http://www.markdowntutorial.com/"
     #- GitHub Pages: "https://pages.github.com/"
+    # - Photos: "https://meetup-mates.com/photos/"
   Home: "https://meetup-mates.com/"
   Meet the Crew: "https://meetup-mates.com/meet-the-crew/"
   Registration: "https://meetup-mates.com/register/"
   Social Club: "https://www.meetup.com/meetup-mates-social-club/"
   Twitter: "https://meetup-mates.com/mm-twitter"
-    # - Photos: "https://meetup-mates.com/photos/"
   Code of Conduct: "https://meetup-mates.com/code-of-conduct/"
   Privacy Notice: "https://meetup-mates.com/privacy/"
 
