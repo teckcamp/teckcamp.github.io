@@ -10,7 +10,9 @@ Meetup Mates is a community initiative geared towards the tech space. Our missio
 Our community is run on Slack where we chat, get to know one another and share ideas, as well as where our meetup pre-meets are announced. From an hour before a meetup, we gather at a nearby venue and then attend the Meetup together as a group. The nerve-wracking days of attending meetups alone are over and we look forward to you joining the crew, matey! 
 
 
+
 [![Sign Up To Meetup Mates Slack](/img/Button SIGN UP TO MEETUP MATES SLACK CHANNEL.png "Button Meetup Mates Sign Up")](https://meetup-mates.com/register/)
+
 
 
 
