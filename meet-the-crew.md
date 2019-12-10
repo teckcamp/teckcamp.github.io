@@ -13,7 +13,7 @@ use-site-title: true
 
 ### Ambassador
 
- [![Dominique Tops](/img/DT%20-%20MM%20Captain%20Pic.jpg "Ambassador Domi")](https://twitter.com/devopsdom)          |Dominique has been a passionate part of the tech community for many years,  attending as many Meetups, conferences and events as possible! As a former member of the Tecknuovo community team we are delighted to have been able to retain her as an Ambassador for Meetup Mates.|
+ [![Dominique Tops](/img/DT%20-%20MM%20Captain%20Pic.jpg "Ambassador Domi")](https://twitter.com/devopsdom)          |Dominique has been a passionate part of the tech community for many years,  attending as many Meetups, conferences and events as possible! As a former member of the Tecknuovo community team we are delighted to have been able to retain her as an Ambassador for Meetup Mates.
 
 
 <div><br><br></div>
