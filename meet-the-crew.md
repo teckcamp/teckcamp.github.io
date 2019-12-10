@@ -13,7 +13,13 @@ use-site-title: true
 
 ### Ambassador
 
-<a href="https://twitter.com/devopsdom"><img style="float: left;" src="/img/DT%20-%20MM%20Captain%20Pic.jpg" alt="Dominique Tops" title="Ambassador Domi" width="200" /></a> Dominique has been a passionate part of the tech community for many years, attending as many meetups, conferences and events as possible! As a former member of the Tecknuovo community team we are delighted to have been able to retain her as our Ambassador for Meetup Mates.
+<a href="https://twitter.com/devopsdom"><img style="float: right;" src="/img/DT%20-%20MM%20Captain%20Pic.jpg" alt="Dominique Tops" title="Ambassador Domi" width="200" /></a>
+
+div.c {
+  width: 50%;
+  border: 1px solid black;  
+}
+<div class="c">Dominique has been a passionate part of the tech community for many years, attending as many meetups, conferences and events as possible! As a former member of the Tecknuovo community team we are delighted to have been able to retain her as our Ambassador for Meetup Mates.</div>
 
 
 <div><br><br></div>
