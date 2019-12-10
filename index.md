@@ -5,8 +5,7 @@ subtitle: Welcome to Meetup Mates!
 use-site-title: true
 ---
 
-Meetup Mates is a community initiative geared towards the tech space. Our mission is simple: we want to help make tech meetups as open, accessible and fun for everyone!
-
+Meetup Mates is a community initiative geared towards the tech space. Our mission is simple: we want to help make tech meetups as open, accessible and fun for everyone!  
 Our community is run on Slack where we chat, get to know one another and share ideas, as well as where our meetup pre-meets are announced. From an hour before a meetup, we gather at a nearby venue and then attend the Meetup together as a group. The nerve-wracking days of attending meetups alone are over and we look forward to you joining the crew, matey!
 
 
