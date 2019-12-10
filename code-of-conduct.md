@@ -29,9 +29,13 @@ Organising staff will be happy to help participants contact venue security or lo
 We expect participants to follow these rules at any event we attend as a collective and Community-related social events.
 
 ### Values
+<br/><br/>
 
-* We will always be open and inclusive to new and existing members.  
-* We are always looking for new opportunities of relevant events to attend which can then be promoted to our members.  
-*	We are passionate in creating a diverse community to broaden our skills, experience and perspectives. We will continue to promote Meetup Mates to find new members.  
+* We will always be open and inclusive to new and existing members.
+
+* We are always looking for new opportunities of relevant events to attend which can then be promoted to our members.
+
+*	We are passionate in creating a diverse community to broaden our skills, experience and perspectives. We will continue to promote Meetup Mates to find new members.
+
 *	There will be full protection of data, Tecknuovo will never use your data in a sales activity.
 
