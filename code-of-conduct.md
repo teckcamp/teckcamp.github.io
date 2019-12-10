@@ -4,7 +4,7 @@ title: MEETUP MATES
 subtitle: Code of Conduct & Values
 use-site-title: true
 ---
-###Code of Conduct
+### Code of Conduct
 
 **Please take your time to read this carefully**
 
@@ -28,7 +28,7 @@ Organising staff will be happy to help participants contact venue security or lo
 
 We expect participants to follow these rules at any event we attend as a collective and Community-related social events.
 
-###Values
+### Values
 
 * We will always be open and inclusive to new and existing members.  
 * We are always looking for new opportunities of relevant events to attend which can then be promoted to our members.  
