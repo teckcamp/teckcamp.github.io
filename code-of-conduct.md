@@ -1,11 +1,13 @@
 ---
 layout: page
 title: MEETUP MATES 
-subtitle: Code of Conduct 
+subtitle: Code of Conduct & Values
 use-site-title: true
 ---
+###Code of Conduct
 
 **Please take your time to read this carefully**
+
 All participants and members of the organisation are required to agree with the following code of conduct. Organisers will enforce this code. We expect cooperation from all participants to help ensure a safe environment for everybody.
 
 **The Quick Version**
@@ -25,4 +27,11 @@ Organising staff will be happy to help participants contact venue security or lo
 
 
 We expect participants to follow these rules at any event we attend as a collective and Community-related social events.
+
+###Values
+
+* We will always be open and inclusive to new and existing members.  
+* We are always looking for new opportunities of relevant events to attend which can then be promoted to our members.  
+*	We are passionate in creating a diverse community to broaden our skills, experience and perspectives. We will continue to promote Meetup Mates to find new members.  
+*	There will be full protection of data, Tecknuovo will never use your data in a sales activity.
 
