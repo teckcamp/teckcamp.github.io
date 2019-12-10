@@ -30,7 +30,6 @@ We expect participants to follow these rules at any event we attend as a collect
 
 ### Values
 
-
 * We will always be open and inclusive to new and existing members.
 
 * We are always looking for new opportunities of relevant events to attend which can then be promoted to our members.
