@@ -13,7 +13,7 @@ Our community is run on Slack where we chat, get to know one another and share i
 [![Sign Up To Meetup Mates Slack](/img/Button SIGN UP TO MEETUP MATES SLACK CHANNEL.png "Button Meetup Mates Sign Up")](https://meetup-mates.com/register/)
 <br/><br/>
 
-_Meetup Mates is a Tecknuovo initiative and is run by Tecknuovo employees, however it remains a community platform and is open to anyone who wants to take part. We require personal data from our Mates to add them to the slack channel, however, as with all our community initiatives, this data will never be used by Tecknuovo for any sales activity and is held in a separate database. Please refer to our values and privacy policy if you want any more details on this._
+_Meetup Mates is a Tecknuovo initiative and is run by Tecknuovo employees, but it remains a community platform and is open to anyone who wants to take part. We require personal data from our Mates to add them to the slack channel, however, as with all our community initiatives, this data will never be used by Tecknuovo for any sales activity and is held in a separate database. Please refer to our values and privacy policy if you want any more details on this._
 
 
 
