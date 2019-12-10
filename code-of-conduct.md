@@ -29,7 +29,7 @@ Organising staff will be happy to help participants contact venue security or lo
 We expect participants to follow these rules at any event we attend as a collective and Community-related social events.
 
 ### Values
-<br/><br/>
+<br/>
 
 * We will always be open and inclusive to new and existing members.
 
