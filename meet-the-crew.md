@@ -5,6 +5,12 @@ subtitle: Introducing Team Meetup Mates
 use-site-title: true
 ---
 
+<style>
+table, th {
+  text-align: centre;
+}
+</style>
+
 <table style="width:100%">
   <tr>
     <th><a href="https://www.twitter.com/MeganKSlater"><img alt="Admiral Megan" src="https://raw.githubusercontent.com/meetup-mates/meetup-mates.github.io/master/img/MS-%20MM%20Admiral%20Pic%20New.jpg" width="200" height="200"></a></th>
@@ -17,6 +23,7 @@ use-site-title: true
     <td>Vic is Marketing and Community Coordinator at Tecknuovo. She moved to London at the end of 2019, joining the tech community following a few years’ experience in the consultancy world. Being brand new to the tech scene, the Meetup Mates crew ensured her first meetup event was enjoyable and removed any uncertainty – making her an advocate for why Meetup Mates is so important. In her free time, Vic enjoys spending time with friends, trying out new recipes and travelling.</td>
   </tr>
 </table>
+
 <div><br><br></div>
 
 ### Ambassador
