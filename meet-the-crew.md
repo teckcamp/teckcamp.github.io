@@ -7,9 +7,9 @@ use-site-title: true
 
 <table style="width:100%">
   <tr>
-    <th><a href="https://www.twitter.com/MeganKSlater"><img alt="Admiral Megan" src="https://raw.githubusercontent.com/meetup-mates/meetup-mates.github.io/master/img/MS-%20MM%20Admiral%20Pic%20New.jpg" width="33%" height="33%"></a></th>
-    <th><a href="https://twitter.com/katpaines/"><img alt="Captain Kat" src="https://raw.githubusercontent.com/meetup-mates/meetup-mates.github.io/master/img/KP%20-%20MM%20Captain%20Pic.jpg" width="33%" height="33%"></a></th>
-    <th><a href="https://www.twitter.com/Vicky_Law7"><img alt="Captain Vic" src="https://raw.githubusercontent.com/meetup-mates/meetup-mates.github.io/master/img/Vic-%20MM%20Captain%20Pic.JPG" width="33%" height="33%"></a></th>
+    <th><a href="https://www.twitter.com/MeganKSlater"><img alt="Admiral Megan" src="https://raw.githubusercontent.com/meetup-mates/meetup-mates.github.io/master/img/MS-%20MM%20Admiral%20Pic%20New.jpg" width="200" height="200"></a></th>
+    <th><a href="https://twitter.com/katpaines/"><img alt="Captain Kat" src="https://raw.githubusercontent.com/meetup-mates/meetup-mates.github.io/master/img/KP%20-%20MM%20Captain%20Pic.jpg" width="200" height="200"></a></th>
+    <th><a href="https://www.twitter.com/Vicky_Law7"><img alt="Captain Vic" src="https://raw.githubusercontent.com/meetup-mates/meetup-mates.github.io/master/img/Vic-%20MM%20Captain%20Pic.JPG" width="200" height="200"></a></th>
   </tr>
   <tr>
     <td>Megan is Admiral of Meetup Mates and Community Advocate at Tecknuovo. She has worked within the tech community as an organiser, cheerleader and general busy body for the past 3 and a half years, and couldn’t imagine interacting with a more passionate and vibrant group of people. Nothing gives her more joy than bringing passionate people together. When she’s not running between meetups, she can be found surrounded by too many dice or in a field wearing armour. She’s always open to board game recommendations!</td>
