@@ -8,13 +8,13 @@ use-site-title: true
 <table style="width:100%">
   <tr>
     <th><a href="https://www.twitter.com/MeganKSlater">
-         <img alt="Admiral Megan" src="/img/MS-%20MM%20Admiral%20Pic%20New.jpg"
+         <img alt="Admiral Megan" src="https://raw.githubusercontent.com/meetup-mates/meetup-mates.github.io/master/img/MS-%20MM%20Admiral%20Pic%20New.jpg"
          width=33%" height="33%"></a></th>
     <th><a href="https://twitter.com/katpaines/">
-         <img alt="Captain Kat" src="/img/KP%20-%20MM%20Captain%20Pic.jpg"
+         <img alt="Captain Kat" src="https://raw.githubusercontent.com/meetup-mates/meetup-mates.github.io/master/img/KP%20-%20MM%20Captain%20Pic.jpg"
          width=33%" height="33%"></a></th>
     <th><a href="https://www.twitter.com/Vicky_Law7">
-         <img alt="Captain Vic" src="/img/Vic-%20MM%20Captain%20Pic.JPG"
+         <img alt="Captain Vic" src="https://raw.githubusercontent.com/meetup-mates/meetup-mates.github.io/master/img/Vic-%20MM%20Captain%20Pic.JPG"
          width=33%" height="33%"></a></th>
   </tr>
   <tr>
