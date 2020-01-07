@@ -39,7 +39,7 @@ table, th {
 |---|---|---|
 |[![MeetupMates_Kubernetes](/img/MeetupMates_Kubernetes.png "Kubernetes loves Meetup Mates!")](https://www.meetup.com/Kubernetes-London/)|[![MeetupMates_Microservices](/img/MeetupMates_Microservices.png "Microservices London loves Meetup Mates!")](https://www.meetup.com/London-Microservices-User-Group/)|[![MeetupMates_LondonPython](/img/MeetupMates_LondonPythonSmall.png "London Python loves Meetup Mates!")](https://www.meetup.com/LondonPython)|
 |---|---|---|
-|[![MeetupMates_Istio](/img/MeetupMates_Istio.png "Istio London loves Meetup Mates!")](https://www.meetup.com/Istio-London/)|[![MeetupMates_LondonGophers](/img/MeetupMates_LondonGophers.png "London Gophers loves Meetup Mates!")](https://www.meetup.com/LondonGophers/)|[![MeetupMates_DevOpsUnderground](img/MeetupMates_DevOpsUndergroundSmall.png "DevOps Underground loves Meetup Mates!")](https://www.meetup.com/DevOps-Underground/)|
+|[![MeetupMates_Istio](/img/MeetupMates_Istio.png "Istio London loves Meetup Mates!")](https://www.meetup.com/Istio-London/)|[![MeetupMates_LondonGophers](/img/MeetupMates_LondonGophers.png "London Gophers loves Meetup Mates!")](https://www.meetup.com/LondonGophers/)|[![MeetupMates_DevOpsUnderground](/img/MeetupMates_DevOpsUndergroundSmall.png "DevOps Underground loves Meetup Mates!")](https://www.meetup.com/DevOps-Underground/)|
 
 
 <div><br></div>
