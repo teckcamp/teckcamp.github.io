@@ -282,7 +282,7 @@ Further updates will be noted here as and when they are made.
 
 We have a [Code of Conduct](https://meetup-mates.com/code-of-conduct/), please follow it. 
 
-Meetup Mates aim is to make the Meetup experience enjoyable for everyone. If you notice that the Code of Conduct being violated, please email Margo Gantner or Dominique Top at <a href="meetup-mates@tecknuovo.com?Subject= Meetup Mates Code of Conduct Violation">meetup-mates@tecknuovo.com</a> so we can action it.
+Meetup Mates aim is to make the Meetup experience enjoyable for everyone. If you notice that the Code of Conduct being violated, please email the team at <a href="meetup-mates@tecknuovo.com?Subject= Meetup Mates Code of Conduct Violation">meetup-mates@tecknuovo.com</a> so we can action it.
 
 For your profile, please use your full name and a photo of yourself. Meetup Mates goal is to meet people - It would be useful to know what you look like.
 
@@ -290,7 +290,7 @@ For your profile, please use your full name and a photo of yourself. Meetup Mate
 
 We want Meetup Mates to thrive as a community! In order to achieve this, we will remove you from the platform if you’ve been inactive for more than a month. After this, you’re more than welcome to register again if you’re ready to participate.
 
-If you’re going away for a longer period in time or if there’s another reason for your absence, please drop Margo Gantner or Dominique Top a DM on Slack and we’ll make a note of it.
+If you’re going away for a longer period in time or if there’s another reason for your absence, please drop a DM on Slack to a member of the organisation team and we’ll make a note of it.
 
 **Do’s and Don'ts:**
 
