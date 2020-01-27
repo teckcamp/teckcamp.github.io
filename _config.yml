@@ -40,9 +40,9 @@ navbar-links:
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-title-img: "/img/MeetupMatesTranspLogo.png"
+title-img: "/img/MeetupMatesLogo_Website.png"
 
-favicon: "/img/favicon.png"
+favicon: "/img/MeetupMatesLogo_Website.png"
 
 # --- Background colour/image options --- #
 
