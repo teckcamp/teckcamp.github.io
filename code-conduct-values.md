@@ -28,7 +28,7 @@ Organising staff will be happy to help participants contact venue security or lo
 
 We expect participants to follow these rules at any event we attend as a collective and Community-related social events.
 
-_If you'd like to contact us about our Code of Conduct, you can email the Meetup Mates team at [meetup-mates@tecknuovo.com](mailto:meetup-mates@tecknuovo.com?Subject= Meetup Mates Code of Conduct). Alternatively, you can contact a member of the [Meetup Mates team](https://meetup-mates.com/meet-the-crew/) via direct message on the Slack channel.
+_If you'd like to contact us about our Code of Conduct, you can email the Meetup Mates team at [meetup-mates@tecknuovo.com](mailto:meetup-mates@tecknuovo.com?Subject= Meetup Mates Code of Conduct). Alternatively, you can contact a member of the [Meetup Mates team](https://meetup-mates.com/meet-the-crew/) via direct message on the Slack channel._
 
 ### Values
 
