@@ -42,7 +42,7 @@ navbar-links:
 # then specify the following parameter
 title-img: "/img/MeetupMatesLogo_Website.png"
 
-favicon: "/img/MM_favicon.png"
+#favicon: "/img/MM_favicon.png"
 
 # --- Background colour/image options --- #
 
