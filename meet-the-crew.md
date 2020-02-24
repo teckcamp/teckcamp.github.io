@@ -17,7 +17,7 @@ use-site-title: true
  
 #### Captain Vic
 
-<a href="https://www.twitter.com/Vicky_Law7"><img style="float: left;" alt="Captain Vic" src="https://raw.githubusercontent.com/meetup-mates/meetup-mates.github.io/master/img/Vic-%20MM%20Captain%20Pic%20white.png" width="200"></a>Vic is Marketing and Community Coordinator at Tecknuovo. She moved to London at the end of 2019, joining the tech community following a few years’ experience in the consultancy world. Being brand new to the tech scene, the Meetup Mates crew ensured her first meetup event was enjoyable and removed any uncertainty – making her an advocate for why Meetup Mates is so important. In her free time, Vic enjoys spending time with friends, trying out new recipes and travelling.
+<a href="https://www.twitter.com/Vicky_Law7"><img style="float: left;" alt="Captain Vic" src="https://raw.githubusercontent.com/meetup-mates/meetup-mates.github.io/master/img/Vic-%20MM%20Captain%20Pic%20white.png" width="200"></a>Vic is Marketing and Community Coordinator at Tecknuovo. She moved to London at the end of 2019, joining the tech community following a few years’ experience in the consultancy world. Being brand new to the tech scene, the Meetup Mates crew ensured her first meetup was enjoyable and removed any uncertainty – making her an advocate for why Meetup Mates is so important. Vic enjoys spending time with friends, trying new recipes and travelling.
 
 <div><br><br></div>
 
