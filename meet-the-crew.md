@@ -15,10 +15,6 @@ use-site-title: true
 
 <a href="https://twitter.com/katpaines/"><img style="float: left;" alt="Captain Kat" src="https://raw.githubusercontent.com/meetup-mates/meetup-mates.github.io/master/img/KP-%20MM%20Captian%20Pic%20white.png" width="200"></a>Kat is a marketing professional with several years of consultancy experience under her belt. Heading up the Marketing & Community Team at Tecknuovo Kat has quickly immersed herself in the tech Meetup scene and found her home at Meetup Mates, where everybody who’s interested in technology is welcome. When she’s not at work, Kat loves to spend time with her foodie friends finding interesting places to eat out. With a Masters in Classics, she loves to read historical fiction and spends as much time as possible in Italy.
  
-#### Captain Vic
-
-<a href="https://www.twitter.com/Vicky_Law7"><img style="float: left;" alt="Captain Vic" src="https://raw.githubusercontent.com/meetup-mates/meetup-mates.github.io/master/img/Vic-%20MM%20Captain%20Pic%20white.png" width="200"></a>Vic is Marketing and Community Coordinator at Tecknuovo. She moved to London at the end of 2019, joining the tech community following a few years’ experience in the consultancy world. Being brand new to the tech scene, the Meetup Mates crew ensured her first meetup was enjoyable and removed any uncertainty – making her an advocate for why Meetup Mates is so important. Vic enjoys spending time with friends, baking and travelling.
-
 <div><br><br></div>
 
 ### Ambassador
