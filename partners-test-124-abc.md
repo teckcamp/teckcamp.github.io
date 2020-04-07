@@ -1,7 +1,7 @@
 ---
 layout: page
 title: OUR PARTNERS
-subtitle: We're proud to be partnered with the following meetup groups, conferences and universities! Check out what each partner is currently up to via clicking their logo.
+subtitle: We're proud to be partnered with the following meetup groups and conferences! Check out more info on each partner by clicking their logo.
 use-site-title: true
 ---
 
