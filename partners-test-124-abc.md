@@ -6,7 +6,6 @@ use-site-title: true
 ---
 
 ### Meetup Partners:
-<div><br></div>
 
 |[![MeetupMates_DockerLondon](/img/MeetupMates_Docker_London.png "Docker London loves Meetup Mates!")](https://www.meetup.com/Docker-London/)|[![MeetupMates_Cloud_Native](/img/MeetupMates_Cloud_Native.png "Cloud Native London loves Meetup Mates!")](https://www.meetup.com/Cloud-Native-London/)|[![MeetupMates_London_DevOps](/img/MeetupMates_London_DevOpsSmaller.png "London DevOps loves Meetup Mates!")](https://www.meetup.com/London-DevOps/)|[![MeetupMates_Kubernetes](/img/MeetupMates_Kubernetes.png "Kubernetes loves Meetup Mates!")](https://www.meetup.com/Kubernetes-London/)|[![MeetupMates_Microservices](/img/MeetupMates_MicroservicesSmall.png "Microservices London loves Meetup Mates!")](https://www.meetup.com/London-Microservices-User-Group/)|
 |---|---|---|---|---|
@@ -14,7 +13,6 @@ use-site-title: true
 
 <div><br><br></div>
 
-### Conference Partners
-<div><br><br></div>
+### Conference Partners:
 
 |[![MeetupMates_DevOpsDaysLondon](/img/DevOpsDays_London.png "DevOpsDays London loves Meetup Mates!")](https://devopsdays.org/events/2020-london/welcome/)|[![MeetupMates_KubernetesCommunityDay](/img/KubernetesCommunityDays_London.jpg "Kubernetes Community Day London loves Meetup Mates!")](https://kubernetescommunitydays.org/events/2020-london/)|
