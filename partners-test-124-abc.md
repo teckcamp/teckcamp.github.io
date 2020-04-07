@@ -12,4 +12,9 @@ use-site-title: true
 |---|---|---|---|---|
 |[![MeetupMates_LondonPython](/img/MeetupMates_LondonPython.png "London Python loves Meetup Mates!")](https://www.meetup.com/LondonPython)|[![MeetupMates_Istio](/img/MeetupMates_Istio.png "Istio London loves Meetup Mates!")](https://www.meetup.com/Istio-London/)|[![MeetupMates_LondonGophers](/img/MeetupMates_LondonGophers.png "London Gophers loves Meetup Mates!")](https://www.meetup.com/LondonGophers/)|[![MeetupMates_DevOpsUnderground](/img/MeetupMates_DevOpsUndergroundSquare.png "DevOps Underground loves Meetup Mates!")](https://www.meetup.com/DevOps-Underground/)|[![MeetupMates_LondonScala](/img/MeetupMates_%20LondonScala_smaller.png "London Scala User Group loves Meetup Mates!")](https://www.meetup.com/london-scala/)|
 
+<div><br><br></div>
 
+### Conference Partners
+<div><br><br></div>
+
+|[![MeetupMates_DevOpsDaysLondon](/img/DevOpsDays_London.png "DevOpsDays London loves Meetup Mates!")](https://devopsdays.org/events/2020-london/welcome/)|[![MeetupMates_KubernetesCommunityDay](/img/KubernetesCommunityDays_London.jpg "Kubernetes Community Day London loves Meetup Mates!")](https://kubernetescommunitydays.org/events/2020-london/)|
