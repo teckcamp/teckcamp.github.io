@@ -32,9 +32,10 @@ navbar-links:
   #Home: "https://meetup-mates.com/"
   The Crew: "https://meetup-mates.com/meet-the-crew/"
   Register: "https://meetup-mates.com/register/"
-  Social Club: "https://www.meetup.com/meetup-mates-social-club/"
-  Twitter: "https://meetup-mates.com/mm-twitter"
-  Linkedin: "https://www.linkedin.com/showcase/meetupmates"
+  #Social Club: "https://www.meetup.com/meetup-mates-social-club/"
+  #Twitter: "https://meetup-mates.com/mm-twitter"
+  #Linkedin: "https://www.linkedin.com/showcase/meetupmates"
+  Our Partners: "https://meetup-mates.com/partners"
   Code of Conduct & Values: "https://meetup-mates.com/code-conduct-values/"
   Privacy Notice: "https://meetup-mates.com/privacy/"
 
