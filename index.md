@@ -15,11 +15,7 @@ Founded in London, we’re now setting sail across the country, so look for us a
 [![Sign Up To Meetup Mates Slack](/img/Button SIGN UP TO MEETUP MATES SLACK CHANNEL.png "Button Meetup Mates Sign Up")](https://meetup-mates.com/register/)
 <br/><br/>
 
-<center>
-  
 |[![MeetupMates_Twitter](/img/Twitter_logo.png "Follow us on Twitter!")](https://www.meetup.com/Meetup_Mates/)|[![MeetupMates_LinkedIn](/img/LinkedIn_logo.png "Follow us on LinkedIn!")](https://www.linkedin.com/showcase/meetupmates/)|[![MeetupMates_Tecknuovo](/img/Tecknuovo_logo.png "Check out the Tecknuovo site!")](https://tecknuovo.com/)|
-
-</center>
 
 We love feedback! If you love something new we’re trying out or you spot a way we can make things better please email the Meetup Mates team at [meetup-mates@tecknuovo.com](mailto:meetup-mates@tecknuovo.com?Subject= Meetup Mates Feedback)
 
