@@ -15,13 +15,6 @@ Founded in London, we’re now setting sail across the country, so look for us a
 [![Sign Up To Meetup Mates Slack](/img/Button SIGN UP TO MEETUP MATES SLACK CHANNEL.png "Button Meetup Mates Sign Up")](https://meetup-mates.com/register/)
 <br/><br/>
 
-<p align="center">
-  <a href="https://www.twitter.com/Meetup_Mates/" <img src="https://raw.githubusercontent.com/meetup-mates/meetup-mates.github.io/master/img/Twitter_logo.png" width="100" height="100" alt="Twitter" title="Follow us on Twitter!"></a>
-  <a href="https://www.linkedin.com/showcase/meetupmates/” <img src="https://raw.githubusercontent.com/meetup-mates/meetup-mates.github.io/master/img/LinkedIn_logo.png" width="100" height="100" alt="LinkedIn" title="Follow us on LinkedIn!"></a>
-  <a href="https://tecknuovo.com/” <img src="https://raw.githubusercontent.com/meetup-mates/meetup-mates.github.io/master/img/Tecknuovo_logo.png" width="100" height="100" alt="Tecknuovo" title="Check out the Tecknuovo site!"></a>
-</p>
-
-
 We love feedback! If you love something new we’re trying out or you spot a way we can make things better please email the Meetup Mates team at [meetup-mates@tecknuovo.com](mailto:meetup-mates@tecknuovo.com?Subject= Meetup Mates Feedback)
 
 _Meetup Mates is a Tecknuovo initiative and is run by Tecknuovo employees, but it remains a community platform and is open to anyone who wants to take part. We require personal data from our Mates to add them to the Slack channel, however as with all our community initiatives, this data will never be used by Tecknuovo for any sales activity and is held in a separate database. Please refer to our values and privacy policy if you want any more details on this._
