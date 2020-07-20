@@ -1,7 +1,7 @@
 ---
 layout: page
-title: MEET THE CREW
-subtitle: Introducing Team Meetup Mates
+title: Surveys!
+subtitle: Original research to help the meetup community
 use-site-title: true
 ---
 
