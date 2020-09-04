@@ -12,7 +12,7 @@ All participants and members of the organisation are required to agree with the 
 
 **The Quick Version**
 
-Our Meetup Mates Community is dedicated to providing a harassment-free Meetup experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of community participants in any form. Sexual language and imagery is not appropriate for our Slack channels, or any event venue, including talks, workshops, parties, Twitter and other online media. Community participants violating these rules may be sanctioned or expelled from the community at the discretion of the organisers.
+Our Meetup Mates Community is dedicated to providing a harassment-free meetup experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of community participants in any form. Sexual language and imagery is not appropriate for our Slack channels, or any event venue, including talks, workshops, parties, Twitter and other online media. Community participants violating these rules may be sanctioned or expelled from the community at the discretion of the organisers.
 
 
 **The Less Quick Version**
