@@ -79,9 +79,9 @@ You have the right to make a complaint at any time to the Information Commission
 <details>
  <summary><b>Changes to the privacy policy and your duty to inform us of changes</b>
   <br>
-We keep our privacy policy under regular review. This version was last updated on 12.08.2019. <br></summary>
+We keep our privacy policy under regular review. This version was last updated on 04.09.2020. <br></summary>
 
-Historic versions are archived here: [LINK]. 
+Historic versions are archived <a href="http://timetravel.mementoweb.org/reconstruct/20200904121212/https://meetup-mates.com/privacy/">here</a>. 
 It is important that the personal data we hold about you is accurate and current. Please keep us informed if your personal data changes during your relationship with us.
 
 </details>
@@ -164,7 +164,7 @@ Note that we may process your personal data for more than one lawful ground depe
 
 **<a id="Your permissions and choices"></a>4. Your permissions and choices**
 
-You can change your registration data and your email preferences on Meetup Mates at any time by filling out this survey: LINK. You can also manage your cookie preferences – click on this section for how to do this, but remember it may affect how well this site works. You can delete your account by filling out this form <a href="https://meetup-mates.com/unsubscribe/">Update your Preferences or Unsubscribe</a>.
+You can change your registration data and your email preferences on Meetup Mates at any time by refilling out <a href="https://meetup-mates.com/register/">this survey</a>. You can delete your account by filling out this form <a href="https://meetup-mates.com/unsubscribe/">Update your Preferences or Unsubscribe</a>.
 
 **Your registration data**
 
@@ -185,8 +185,6 @@ Cookies do not contain your name or other personal details and there are some be
 **You can manage your cookie preferences by:**
 
 The first time you visit Meetup Mates you should see a pop-up along the bottom of the screen. You can choose to accept all cookies, by clicking ‘I Agree’, or you can manage your individual preferences by clicking ‘show purposes’.
-
-At the bottom right hand side of this page (The Privacy Policy) you should see a settings toggle which says ‘Privacy setting’. If you click on this a pop-up should appear at the bottom of the screen.
 
 **<a id="Deleting your Meetup Mates Account"></a>5. Deleting your Meetup Mates Account**
 
@@ -232,13 +230,13 @@ We regularly review the data held by Meetup Mates and delete information that is
 
 Under certain circumstances, you have rights under data protection laws in relation to your personal data. Please fill out your details here [Update your Preferences or Unsubscribe](https://meetup-mates.com/unsubscribe/), or email us at [meetup-mates@tecknuovo.com](mailto:meetup-mates@tecknuovo.com?Subject= Meetup Mates Privacy Policy) to:
 
-- <a href="mailto:meetupmatesldn@gmail.com?Subject=Request access to your personal data">Request access to your personal data</a>
-- <a href="mailto:meetupmatesldn@gmail.com?Subject=Request correction of your personal data">Request correction of your personal data</a>
-- <a href="mailto:meetupmatesldn@gmail.com?Subject=Request erasure of your personal data">Request erasure of your personal data</a>
-- <a href="mailto:meetupmatesldn@gmail.com?Subject=Object to processing of your personal data">Object to processing of your personal data</a>
-- <a href="mailto:meetupmatesldn@gmail.com?Subject=Request restriction of processing your personal data">Request restriction of processing your personal data</a>
-- <a href="mailto:meetupmatesldn@gmail.com?Subject=Request transfer of your personal data">Request transfer of your personal data</a>
--  <a href="mailto:meetupmatesldn@gmail.com?Subject=Right to withdraw consent">Right to withdraw consent</a>
+- <a href="mailto:meetup-mates@tecknuovo.com?Subject=Request access to your personal data">Request access to your personal data</a>
+- <a href="mailto:meetup-mates@tecknuovo.com?Subject=Request correction of your personal data">Request correction of your personal data</a>
+- <a href="mailto:meetup-mates@tecknuovo.com?Subject=Request erasure of your personal data">Request erasure of your personal data</a>
+- <a href="mailto:meetup-mates@tecknuovo.com?Subject=Object to processing of your personal data">Object to processing of your personal data</a>
+- <a href="mailto:meetup-mates@tecknuovo.com?Subject=Request restriction of processing your personal data">Request restriction of processing your personal data</a>
+- <a href="mailto:meetup-mates@tecknuovo.com?Subject=Request transfer of your personal data">Request transfer of your personal data</a>
+-  <a href="mailto:meetup-mates@tecknuovo.com?Subject=Right to withdraw consent">Right to withdraw consent</a>
 
 **No fee usually required**
 
@@ -273,6 +271,7 @@ If, via human error, or via a breach of our security, we fail to comply with the
 **<a id="Updates"></a>13. Updates**
 
 Further updates will be noted here as and when they are made.
+- 4th September 2020: Privacy Policy updated - updated links that had become outdated
 - 12 June 2019: Privacy Policy updated
 - 23 May 2019: Privacy Policy updated
 
