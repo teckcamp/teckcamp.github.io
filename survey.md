@@ -11,7 +11,7 @@ We want to uncover using original research why meetups are such as big part of t
 
 We're hopeful this research will prove useful to our community and give us advice on the best ways to help open the doors to potential meetup goers who’ve never attended an event before.
 
-We've divided the research up so that everyone who takes part in meetups gets to share their unique perspective on how the tech community works, from speakers, attendees, organisers and sponsors. We hope you'll take part and please fill our the survey/s that best fit your experience with your opinions and experiences on of meetups.
+We've divided the research up so that everyone who takes part in meetups gets to share their unique perspective on how the tech community works, from speakers, attendees, organisers and sponsors. We hope you'll take part and please fill out the survey/s that best fit your experience with your opinions and experiences on of meetups.
 
 Speakers: [https://forms.gle/sbPxQEdkvLpE1Ge56](https://forms.gle/sbPxQEdkvLpE1Ge56)
 
