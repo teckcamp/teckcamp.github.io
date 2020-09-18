@@ -7,6 +7,14 @@ use-site-title: true
 
 ### Meetup Partners:
 
+<p align="center">
+<a href="https://www.meetup.com/Docker-London/"> <img src="https://raw.githubusercontent.com/teckcamp/teckcamp.github.io/master/img/TeckCamp_Docker_London.png " width="100" height="100" alt="Docker London logo" title="Docker London loves Teck Camp!"></a> 
+<a href="https://www.meetup.com/Cloud-Native-London/"> <img src="https://raw.githubusercontent.com/teckcamp/teckcamp.github.io/master/img/TeckCamp_Cloud_Native.png " width="100" height="100" alt="Cloud Native London logo" title="Cloud Native loves Teck Camp!"></a>
+<a href="https://www.meetup.com/London-DevOps/"> <img src="https://raw.githubusercontent.com/teckcamp/teckcamp.github.io/master/img/TeckCamp_London_DevOpsSmaller.png " width="100" height="100" alt="London DevOps logo" title="London DevOps loves Teck Camp!"></a>
+<a href="https://www.meetup.com/Kubernetes-London/"> <img src="https://raw.githubusercontent.com/teckcamp/teckcamp.github.io/master/img/TeckCamp_Kubernetes.png " width="100" height="100" alt="Kubernetes London logo" title="Kubernetes London loves Teck Camp!"></a>
+<a href=“https://www.meetup.com/London-Microservices-User-Group/"> <img src="https://raw.githubusercontent.com/teckcamp/teckcamp.github.io/master/img/TeckCamp_MicroservicesSmall.png " width="100" height="100" alt="London Microservices logo" title="London Microservices loves Teck Camp!"></a>
+</p>
+
 |[![TeckCamp_DockerLondon](/img/TeckCamp_Docker_London.png "Docker London loves Teck Camp!")](https://www.meetup.com/Docker-London/)|[![TeckCamp_Cloud_Native](/img/TeckCamp_Cloud_Native.png "Cloud Native London loves Teck Camp!")](https://www.meetup.com/Cloud-Native-London/)|[![TeckCamp_London_DevOps](/img/TeckCamp_London_DevOpsSmaller.png "London DevOps loves Teck Camp!")](https://www.meetup.com/London-DevOps/)|[![TeckCamp_Kubernetes](/img/TeckCamp_Kubernetes.png "Kubernetes loves Teck Camp!")](https://www.meetup.com/Kubernetes-London/)|[![TeckCamp_Microservices](/img/TeckCamp_MicroservicesSmall.png "Microservices London loves Teck Camp!")](https://www.meetup.com/London-Microservices-User-Group/)|
 |---|---|---|---|---|
 |[![TeckCamp_LondonPython](/img/TeckCamp_LondonPython.png "London Python loves Teck Camp!")](https://www.meetup.com/LondonPython)|[![TeckCamp_Istio](/img/TeckCamp_Istio.png "Istio London loves Teck Camp!")](https://www.meetup.com/Istio-London/)|[![TeckCamp_LondonGophers](/img/TeckCamp_LondonGophers.png "London Gophers loves Teck Camp!")](https://www.meetup.com/LondonGophers/)|[![TeckCamp_DevOpsUnderground](/img/TeckCamp_DevOpsUndergroundSquare.png "DevOps Underground loves Teck Camp!")](https://www.meetup.com/DevOps-Underground/)|[![TeckCamp_LondonScala](/img/TeckCamp_%20LondonScala_smaller.png "London Scala User Group loves Teck Camp!")](https://www.meetup.com/london-scala/)|
