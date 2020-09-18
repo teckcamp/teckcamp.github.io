@@ -31,5 +31,9 @@ Please [email us](mailto:teckcamp@tecknuovo.com?Subject= I want to become a Teck
 
 ### Conference Partners:
 
-|[![TeckCamp_KubernetesCommunityDay](/img/KubernetesCommunityDays_London.jpg "Kubernetes Community Day London loves Teck Camp!")](https://kubernetescommunitydays.org/events/2020-london/)|[![TeckCamp_DevOpsDaysLondon](/img/DevOpsDays_London.png "DevOpsDays London loves Teck Camp!")](https://devopsdays.org/events/2020-london/welcome/)|
+<p align="center">
+<a href="https://kubernetescommunitydays.org/events/2020-london/"> <img src="https://raw.githubusercontent.com/teckcamp/teckcamp.github.io/master/img/KubernetesCommunityDays_London.jpg " width="400" height="400" alt="Kubernetes Community Days London logo" title="Kubernetes Community Days London loves Teck Camp!"></a> 
+<a href="https://devopsdays.org/events/2020-london/welcome/"> <img src="https://raw.githubusercontent.com/teckcamp/teckcamp.github.io/master/img/DevOpsDays_London.png " width="400" height="400" alt="DevOpsDays London logo" title="DevOpsDays London loves Teck Camp!"></a>
+</p>
+
 
