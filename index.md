@@ -9,7 +9,7 @@ Teck Camp is one of Tecknuovo’s community initiatives. Our mission is a simple
 
 Our community can be found on Slack where we chat, get to know one another and share ideas. You’ll hear about the latest events happening and where Teck Campers will be next, as well as pre-meets in your area. From an hour before a meetup, we gather at a nearby venue and then attend the meetup together as a group. 
 
-Founded in London, we’re now pitching up across the country, so look for us at a meetup group near you - the nerve-wracking days of attending meetups alone are over and we look forward to you joining the crew!
+Founded in London, we’re now pitching up across the country, so look for us at a meetup group near you - the nerve-wracking days of attending meetups alone are over and we look forward to you joining the troop!
 <br/><br/>
 
 [![Sign Up To Teck Camp Slack](/img/TC%20website%20Slack%20button.png "Button Teck Camp Sign Up")](https://teck.camp/register/)
