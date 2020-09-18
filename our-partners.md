@@ -7,18 +7,17 @@ use-site-title: true
 
 ### Meetup Partners:
 
-|[![MeetupMates_DockerLondon](/img/MeetupMates_Docker_London.png "Docker London loves Meetup Mates!")](https://www.meetup.com/Docker-London/)|[![MeetupMates_Cloud_Native](/img/MeetupMates_Cloud_Native.png "Cloud Native London loves Meetup Mates!")](https://www.meetup.com/Cloud-Native-London/)|[![MeetupMates_London_DevOps](/img/MeetupMates_London_DevOpsSmaller.png "London DevOps loves Meetup Mates!")](https://www.meetup.com/London-DevOps/)|[![MeetupMates_Kubernetes](/img/MeetupMates_Kubernetes.png "Kubernetes loves Meetup Mates!")](https://www.meetup.com/Kubernetes-London/)|[![MeetupMates_Microservices](/img/MeetupMates_MicroservicesSmall.png "Microservices London loves Meetup Mates!")](https://www.meetup.com/London-Microservices-User-Group/)|
+|[![TeckCamp_DockerLondon](/img/TeckCamp_Docker_London.png "Docker London loves Teck Camp!")](https://www.meetup.com/Docker-London/)|[![TeckCamp_Cloud_Native](/img/TeckCamp_Cloud_Native.png "Cloud Native London loves Teck Camp!")](https://www.meetup.com/Cloud-Native-London/)|[![TeckCamp_London_DevOps](/img/TeckCamp_London_DevOpsSmaller.png "London DevOps loves Teck Camp!")](https://www.meetup.com/London-DevOps/)|[![TeckCamp_Kubernetes](/img/TeckCamp_Kubernetes.png "Kubernetes loves Teck Camp!")](https://www.meetup.com/Kubernetes-London/)|[![TeckCamp_Microservices](/img/TeckCamp_MicroservicesSmall.png "Microservices London loves Teck Camp!")](https://www.meetup.com/London-Microservices-User-Group/)|
 |---|---|---|---|---|
-|[![MeetupMates_LondonPython](/img/MeetupMates_LondonPython.png "London Python loves Meetup Mates!")](https://www.meetup.com/LondonPython)|[![MeetupMates_Istio](/img/MeetupMates_Istio.png "Istio London loves Meetup Mates!")](https://www.meetup.com/Istio-London/)|[![MeetupMates_LondonGophers](/img/MeetupMates_LondonGophers.png "London Gophers loves Meetup Mates!")](https://www.meetup.com/LondonGophers/)|[![MeetupMates_DevOpsUnderground](/img/MeetupMates_DevOpsUndergroundSquare.png "DevOps Underground loves Meetup Mates!")](https://www.meetup.com/DevOps-Underground/)|[![MeetupMates_LondonScala](/img/MeetupMates_%20LondonScala_smaller.png "London Scala User Group loves Meetup Mates!")](https://www.meetup.com/london-scala/)|
+|[![TeckCamp_LondonPython](/img/TeckCamp_LondonPython.png "London Python loves Teck Camp!")](https://www.meetup.com/LondonPython)|[![TeckCamp_Istio](/img/TeckCamp_Istio.png "Istio London loves Teck Camp!")](https://www.meetup.com/Istio-London/)|[![TeckCamp_LondonGophers](/img/TeckCamp_LondonGophers.png "London Gophers loves Teck Camp!")](https://www.meetup.com/LondonGophers/)|[![TeckCamp_DevOpsUnderground](/img/TeckCamp_DevOpsUndergroundSquare.png "DevOps Underground loves Teck Camp!")](https://www.meetup.com/DevOps-Underground/)|[![TeckCamp_LondonScala](/img/TeckCamp_%20LondonScala_smaller.png "London Scala User Group loves Teck Camp!")](https://www.meetup.com/london-scala/)|
 
 <div><br><br></div>
 
-Please [email us](mailto:meetup-mates@tecknuovo.com?Subject= I want to become a MM Meetup Partner!) if you would like to become a Meetup Partner too!
+Please [email us](mailto:teckcamp@tecknuovo.com?Subject= I want to become a Teck Camp meetup partner!) if you would like to become a meetup partner too!
 
 <div><br><br></div>
 
 ### Conference Partners:
 
-|[![MeetupMates_KubernetesCommunityDay](/img/KubernetesCommunityDays_London.jpg "Kubernetes Community Day London loves Meetup Mates!")](https://kubernetescommunitydays.org/events/2020-london/)|[![MeetupMates_DevOpsDaysLondon](/img/DevOpsDays_London.png "DevOpsDays London loves Meetup Mates!")](https://devopsdays.org/events/2020-london/welcome/)|
-
+|[![TeckCamp_KubernetesCommunityDay](/img/KubernetesCommunityDays_London.jpg "Kubernetes Community Day London loves Teck Camp!")](https://kubernetescommunitydays.org/events/2020-london/)|[![TeckCamp_DevOpsDaysLondon](/img/DevOpsDays_London.png "DevOpsDays London loves Teck Camp!")](https://devopsdays.org/events/2020-london/welcome/)|
 
