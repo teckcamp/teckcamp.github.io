@@ -8,7 +8,7 @@ use-site-title: true
 According to the various laws and higher powers we have no control over, in order to legitimately ask you for any personal information (like your name, last name and email address), add you to the Slack channel and e-mail you, we need to have a privacy policy. We also need you to read it, so you can definitely understand how we will be processing your data. 
 This policy explains the way that we collect, use and protect your data as well as your choices with regard to your data.
 
-We’ve tried to be as clear as we can be and to avoid unnecessary jargon, while including all the relevant information, but if anything doesn’t make sense, or you simply want to talk with a human about the data side of Meetup Mates, please email the Meetup Mates team at [meetup-mates@tecknuovo.com](mailto:meetup-mates@tecknuovo.com?Subject= Meetup Mates Privacy Policy). Thanks! 
+We’ve tried to be as clear as we can be and to avoid unnecessary jargon, while including all the relevant information, but if anything doesn’t make sense, or you simply want to talk with a human about the data side of Teck Camp, please email the Teck Camp team at [teckcamp@tecknuovo.com](mailto:teckcamp@tecknuovo.com?Subject= Teck Camp Privacy Policy). Thanks! 
 
 ---
 
@@ -17,7 +17,7 @@ We’ve tried to be as clear as we can be and to avoid unnecessary jargon, while
 2. [Important information and who we are](#Important information and who we are)
 3. [The data we collect about you and how we use it](#The data we collect about you and how we use it)
 4. [Your permissions and choices](#Your permissions and choices)
-5. [Deleting your Meetup Mates Account](#Deleting your Meetup Mates Account)
+5. [Deleting your Teck Camp Account](#Deleting your Teck Camp Account)
 6. [Change of purpose](#Change of purpose)
 7. [Disclosures of your personal data](#Disclosures of your personal data)
 8. [Data security](#Data security)
@@ -33,7 +33,7 @@ We’ve tried to be as clear as we can be and to avoid unnecessary jargon, while
 
 **<a id="Introduction"></a>1. Introduction**
 
-Meetup Mates respects your privacy and is committed to protecting your personal data. This privacy policy will inform you as to how we look after your personal data when you visit our website [www.meetup-mates.com](https://meetup-mates.com/) (regardless of where you visit it from) and tell you about your privacy rights and how the law protects you. 
+Teck Camp respects your privacy and is committed to protecting your personal data. This privacy policy will inform you as to how we look after your personal data when you visit our website [www.teck.camp](https://teck.camp/) (regardless of where you visit it from) and tell you about your privacy rights and how the law protects you. 
 
 This privacy policy is provided in a layered format so you can click through to the specific areas set out below. Please use the [Glossary](#Glossary) to understand the meaning of some of the terms used in this privacy policy.
 
@@ -41,11 +41,11 @@ This privacy policy is provided in a layered format so you can click through to 
 
 **<a id="Important information and who we are"></a>2. Important information and who we are**
 
-Meetup Mates is an online community run on Slack. If you [register to meetup mates via our online form](https://meetup-mates.com/register/), you will receive an email from meetup-mates@tecknuovo.com with a Slack Channel invitation and on the channel you will be informed of what Meetups to attend in London. Meetup Mates organises gatherings of Meetup Mates members before a Meetup to assist the community to attend more Meetups together. To attend meetups you will have to sign up via [www.meetup.com](https://www.meetup.com/) you can find their privacy policy [here](https://www.meetup.com/privacy/)
+Teck Camp is an online community run on Slack. If you [register to Teck Camp via our online form](https://teck.camp/register/), you will receive an email from teckcamp@tecknuovo.com with a Slack Channel invitation and on the channel you will be informed of what meetups to attend. Teck Camp organises gatherings of Teck Camp members before a meetup to assist the community to attend more meetups together. To attend meetups you will have to sign up via that particular event’s page and follow their Code of Conduct and privacy policy. 
 
 **Purpose of this privacy policy**
 
-This privacy policy aims to give you information on how Meetup Mates collects and processes your personal data through your use of this website, including any data you may provide through this website when you sign up to be part of Meetup Mates Community. 
+This privacy policy aims to give you information on how Teck Camp collects and processes your personal data through your use of this website, including any data you may provide through this website when you sign up to be part of Teck Camp Community. 
 
 This website is not intended for children and we do not knowingly collect data relating to children.
 
@@ -54,7 +54,7 @@ It is important that you read this privacy policy together with any other privac
 <details>
  <summary><b>Controller</b>
 <br>
-Meetup Mates is the controller and responsible for your personal data (collectively referred to as "Meetup Mates”, "we", "us" or "our" in this privacy policy).<br></summary>
+Teck Camp is the controller and responsible for your personal data (collectively referred to as "Teck Camp”, "we", "us" or "our" in this privacy policy).<br></summary>
 <br>
 We have appointed a data privacy manager who is responsible for overseeing questions in relation to this privacy policy. If you have any questions about this privacy policy, including any requests to exercise your legal rights, please contact the data privacy manager using the details set out below. 
 
@@ -67,8 +67,8 @@ We have appointed a data privacy manager who is responsible for overseeing quest
   <br>
 If you have any questions about this privacy policy or our privacy practices, please contact our data privacy manager in the following ways:</summary>
  
-Data Privacy Manager: Vicky Coates & Katherine Paines
-Email address: <a href="mailto:meetup-mates@tecknuovo.com?Subject= Meetup Mates Data Privacy Manager Query">meetup-mates@tecknuovo.com</a>
+Data Privacy Manager: Vicky Medlycott & Katherine Paines
+Email address: <a href="mailto:teckcamp@tecknuovo.com?Subject= Teck Camp Data Privacy Manager Query">teckcamp@tecknuovo.com</a>
 <br>
 You have the right to make a complaint at any time to the Information Commissioner's Office (ICO), the UK supervisory authority for data protection issues <a href="www.ico.org.uk">www.ico.org.uk</a>. We would, however, appreciate the chance to deal with your concerns before you approach the ICO so please contact us in the first instance. 
 
@@ -79,13 +79,11 @@ You have the right to make a complaint at any time to the Information Commission
 <details>
  <summary><b>Changes to the privacy policy and your duty to inform us of changes</b>
   <br>
-We keep our privacy policy under regular review. This version was last updated on 04.09.2020. <br></summary>
+We keep our privacy policy under regular review. This version was last updated on 18.09.2020. <br></summary>
 
 Historic versions are archived <a href="http://timetravel.mementoweb.org/reconstruct/20200904121212/https://meetup-mates.com/privacy/">here</a>. 
 It is important that the personal data we hold about you is accurate and current. Please keep us informed if your personal data changes during your relationship with us.
-
 </details>
-
  ---
  
 <details>
@@ -99,20 +97,20 @@ We do not control these third-party websites and are not responsible for their p
 
 **<a id="The data we collect about you and how we use it"></a> 3. The data we collect about you and how we use it**
 
-For registered members we store username, first name, last name, email address; public discussions you may have on Meetup Mates Slack Channel; and a summary of decisions we’ve taken about you if we’ve reviewed your use of Meetup Mates Slack Channel for any reason (please refer to the Code of Conduct). Registered members may also have given us more data on sign up like favourite meetups in London.
+For registered members we store username, first name, last name, email address; public discussions you may have on Teck Camp Slack Channel; and a summary of decisions we’ve taken about you if we’ve reviewed your use of Teck Camp Slack Channel for any reason (please refer to the Code of Conduct). Registered members may also have given us more data on sign up like favourite meetups to attend.
 
-We store your email address to register you and contact you (if you have asked for email newsletters) and we store things such as cookies so that our systems recognise you if you return to Meetup Mates Website. 
+We store your email address to register you and contact you (if you have asked for email newsletters) and we store things such as cookies so that our systems recognise you if you return to Teck Camp Website. 
 
-We don’t require your address when you view Meetup Mates content or register with the site, and you can use Meetup Mates fully without providing it.
+We don’t require your address when you view Teck Camp content or register with the site, and you can use Teck Camp fully without providing it.
 
-Subject to your permissions and choices (as explained later) we collect, store and process the data listed in this section. We believe we provide a useful service, and therefore have a legitimate interest in processing your data which benefits both Meetup Mates and you as a Meetup Mates user.
+Subject to your permissions and choices (as explained later) we collect, store and process the data listed in this section. We believe we provide a useful service, and therefore have a legitimate interest in processing your data which benefits both Teck Camp and you as a Teck Camp user.
 
 <details>
  <summary><b>We store the following data for all users, whether registered or not:</b>
   <br>
 IP address, cookies, device type – to identify your web browser and device. </summary>
  
-We also use Google Analytics to report on page views in aggregate to help us understand usage trends. We do not pass your personal data to Google and your IP address is anonymised before we share this information with Google Analytics. Google uses cookies and can learn about your browsing on Meetup Mates to inform Google ads and other Google services, as explained here: <a href="https://policies.google.com/privacy/partners">https://policies.google.com/privacy/partners</a>
+We also use Google Analytics to report on page views in aggregate to help us understand usage trends. We do not pass your personal data to Google and your IP address is anonymised before we share this information with Google Analytics. Google uses cookies and can learn about your browsing on Teck Camp to inform Google ads and other Google services, as explained here: <a href="https://policies.google.com/privacy/partners">https://policies.google.com/privacy/partners</a>
  
  </details>
  
@@ -123,9 +121,9 @@ We also use Google Analytics to report on page views in aggregate to help us und
   <br>
 Email address, First Name and Last Name</summary>
  
-So that we can add you to the slack channel, and to inform you about any changes to the community privacy policy, cookie policy and the code of conduct. If you choose to join Meetup Mates we also may ask for your Twitter or LinkedIn Account so that we can check that you’re a real person (to prevent ‘bots’ signing up). We won’t send you newsletters or mass email communications that you haven’t asked for, and we don’t sell your email address to anyone else.
+So that we can add you to the slack channel, and to inform you about any changes to the community privacy policy, cookie policy and the code of conduct. If you choose to join Teck Camp, we also may ask for your Twitter or LinkedIn Account so that we can check that you’re a real person (to prevent ‘bots’ signing up). We won’t send you newsletters or mass email communications that you haven’t asked for, and we don’t sell your email address to anyone else.
 
-We also store discussions that take place over email or via Private Messages between you and Meetup Mates Admins on Slack's public channels – so that we have a record.
+We also store discussions that take place over email or via Private Messages between you and Teck Camp Admins on Slack's public channels – so that we have a record.
  
  </details>
  
@@ -133,7 +131,7 @@ We also store discussions that take place over email or via Private Messages bet
  
 <details>
 <summary><b>We also store the following optional data for registered members:</b><br>
-Permissions to email you, to send you newsletters that you have chosen to receive from Meetup Mates.</summary>
+Permissions to email you, to send you newsletters that you have chosen to receive from Teck Camp.</summary>
 
 Data that you provide when taking part in surveys, panels, product tests, quizzes or competitions. For these things, we sometimes ask for your name, email or other data required for the competition (such as your email address). Before recording or passing this information to another organisation (for example a prize provider), we will provide the organisation’s data policy and clearly ask for your permission each time.
 
@@ -164,35 +162,36 @@ Note that we may process your personal data for more than one lawful ground depe
 
 **<a id="Your permissions and choices"></a>4. Your permissions and choices**
 
-You can change your registration data and your email preferences on Meetup Mates at any time by refilling out <a href="https://meetup-mates.com/register/">this survey</a>. You can delete your account by filling out this form <a href="https://meetup-mates.com/unsubscribe/">Update your Preferences or Unsubscribe</a>.
+You can change your registration data and your email preferences on Teck Camp at any time by refilling out <a href="https://teck.camp/register/">this survey</a>. You can delete your account by filling out this form <a href="https://teck.camp/unsubscribe/">Update your Preferences or Unsubscribe</a>.
+
 
 **Your registration data**
 
-You can change the information that you provided when you registered, including your email address here: <a href="https://meetup-mates.com/unsubscribe/">Update your Preferences or Unsubscribe</a>.
+You can change the information that you provided when you registered, including your email address here: <a href="https://teck.camp/unsubscribe/">Update your Preferences or Unsubscribe</a>.
 
 **Your email preferences**
 
-You can change which newsletters you receive or ensure that you do not receive any newsletters from Meetup Mates, by going here <a href="https://meetup-mates.com/unsubscribe/">Update your Preferences or Unsubscribe</a>.
+You can change which newsletters you receive or ensure that you do not receive any newsletters from Teck Camp, by going here <a href="https://teck.camp/unsubscribe/">Update your Preferences or Unsubscribe</a>.
 
 **Your cookies**
 
-Most web browsers automatically accept cookies. A cookie is a small, temporary file which a web server sends to your web browser to be stored. Cookies allow Meetup Mates to identify your web browser and device if we see it again.
+Most web browsers automatically accept cookies. A cookie is a small, temporary file which a web server sends to your web browser to be stored. Cookies allow Teck Camp to identify your web browser and device if we see it again.
 
-Cookies do not contain your name or other personal details and there are some benefits to you and Meetup Mates:
+Cookies do not contain your name or other personal details and there are some benefits to you and Teck Camp:
 
-*“Measurement” cookies allow us to gather information about how many people visit Meetup Mates, how often, and what they look at while on the site (a process called ‘analytics’). If you visit multiple pages or come back to Meetup Mates after a break, cookies mean we do not count you as a new visitor. Using cookies like this allows us to compile aggregate statistics about how many users Meetup Mates has and how long people use the site for, on average. We share this anonymous information with advertisers. Understanding what’s well-used on Meetup Mates means we can create more of what users find useful and less of what they don’t.*
+*“Measurement” cookies allow us to gather information about how many people visit Teck Camp, how often, and what they look at while on the site (a process called ‘analytics’). If you visit multiple pages or come back to Teck Camp after a break, cookies mean we do not count you as a new visitor. Using cookies like this allows us to compile aggregate statistics about how many users Teck Camp has and how long people use the site for, on average. We share this anonymous information with advertisers. Understanding what’s well-used on Teck Camp means we can create more of what users find useful and less of what they don’t.*
 
 **You can manage your cookie preferences by:**
 
-The first time you visit Meetup Mates you should see a pop-up along the bottom of the screen. You can choose to accept all cookies, by clicking ‘I Agree’, or you can manage your individual preferences by clicking ‘show purposes’.
+The first time you visit Teck Camp you should see a pop-up along the bottom of the screen. You can choose to accept all cookies, by clicking ‘I Agree’, or you can manage your individual preferences by clicking ‘show purposes’.
 
-**<a id="Deleting your Meetup Mates Account"></a>5. Deleting your Meetup Mates Account**
+**<a id="Deleting your Teck Camp Account"></a>5. Deleting your Teck Camp Account**
 
-You can delete your account by clicking on [Update your Preferences or Unsubscribe](https://meetup-mates.com/unsubscribe/). Your Meetup Mates Slack Channel posts won’t be deleted, but there will no longer be any personal information associated with them.
+You can delete your account by clicking on [Update your Preferences or Unsubscribe](https://teck.camp/unsubscribe/). Your Teck Camp Slack Channel posts won’t be deleted, but there will no longer be any personal information associated with them.
 
 **Data requests**
 
-If you’d like, you can always ask us to provide details of the personal information we hold about you, under the 2018 EU General Data Protection Regulation (GDPR). To request this information, please email us at <a href="mailto:meetup-mates@tecknuovo.com?Subject= Meetup_Mates_Privacy_Policy GDPR Query">meetup-mates@tecknuovo.com</a>.
+If you’d like, you can always ask us to provide details of the personal information we hold about you, under the 2018 EU General Data Protection Regulation (GDPR). To request this information, please email us at <a href="mailto:teckcamp@tecknuovo.com?Subject= Teck_Camp_Privacy_Policy GDPR Query">teckcamp@tecknuovo.com</a>.
 
 **<a id="Change of purpose"></a>6. Change of purpose**
 
@@ -204,7 +203,7 @@ Please note that we may process your personal data without your knowledge or con
 **<a id="Disclosures of your personal data"></a>7. Disclosures of your personal data**
 
 We collect information about you from third-party services [Purposes for which we will use your personal data] above, that we work closely with to provide, promote, and improve our Services. These third-parties include, but are not limited to: 
-- External Providers such as [Slack](https://slack.com/intl/en-gb/privacy-policy), [Hubspot](https://legal.hubspot.com/privacy-policy), [Mailchimp](https://mailchimp.com/legal/privacy/) [Zapier](https://zapier.com/privacy/) so we can contact you and so you can be part of the Meetup Mates community.
+- External Providers such as [Slack](https://slack.com/intl/en-gb/privacy-policy), [Hubspot](https://legal.hubspot.com/privacy-policy), [Mailchimp](https://mailchimp.com/legal/privacy/) [Zapier](https://zapier.com/privacy/) so we can contact you and so you can be part of the Teck Camp community.
 
 If you use a third-party service or platform or click on third-party links, the collection, use, and disclosure of your information will be subject to the privacy policies and other terms and conditions of such third-parties. You should review such privacy policies, terms, and other agreements before you submit any personal information to these services.
   
@@ -220,23 +219,23 @@ We have put in place procedures to deal with any suspected personal data breach 
 
 **How long will you use my personal data for?**
 
-Any personal data you give us, or that we collect when you use Meetup Mates, will be retained by us for as long as it’s needed to perform its function. Registration data is held permanently unless you deregister, or if you're inactive for over 60 days. There’s no one-size-fits-all time limit, but we regularly review the data we hold to ensure it is still necessary.
+Any personal data you give us, or that we collect when you use Teck Camp, will be retained by us for as long as it’s needed to perform its function. Registration data is held permanently unless you deregister, or if you're inactive for over 60 days. There’s no one-size-fits-all time limit, but we regularly review the data we hold to ensure it is still necessary.
 
 Any personal data that you give us will be retained by us for as long as it's needed to perform its function.
 Private Messages are stored until you delete them. If you delete your account, your messages will also be deleted.
-We regularly review the data held by Meetup Mates and delete information that is no longer needed. All the data we hold is stored securely and only accessible to authorised staff members, who have regular data training.
+We regularly review the data held by Teck Camp and delete information that is no longer needed. All the data we hold is stored securely and only accessible to authorised staff members, who have regular data training.
 
 **<a id="Your legal rights"></a>10. Your legal rights**
 
-Under certain circumstances, you have rights under data protection laws in relation to your personal data. Please fill out your details here [Update your Preferences or Unsubscribe](https://meetup-mates.com/unsubscribe/), or email us at [meetup-mates@tecknuovo.com](mailto:meetup-mates@tecknuovo.com?Subject= Meetup Mates Privacy Policy) to:
+Under certain circumstances, you have rights under data protection laws in relation to your personal data. Please fill out your details here [Update your Preferences or Unsubscribe](https://teck.camp/unsubscribe/), or email us at [teckcamp@tecknuovo.com](mailto:teckcamp@tecknuovo.com?Subject= Teck Camp Privacy Policy) to:
 
-- <a href="mailto:meetup-mates@tecknuovo.com?Subject=Request access to your personal data">Request access to your personal data</a>
-- <a href="mailto:meetup-mates@tecknuovo.com?Subject=Request correction of your personal data">Request correction of your personal data</a>
-- <a href="mailto:meetup-mates@tecknuovo.com?Subject=Request erasure of your personal data">Request erasure of your personal data</a>
-- <a href="mailto:meetup-mates@tecknuovo.com?Subject=Object to processing of your personal data">Object to processing of your personal data</a>
-- <a href="mailto:meetup-mates@tecknuovo.com?Subject=Request restriction of processing your personal data">Request restriction of processing your personal data</a>
-- <a href="mailto:meetup-mates@tecknuovo.com?Subject=Request transfer of your personal data">Request transfer of your personal data</a>
--  <a href="mailto:meetup-mates@tecknuovo.com?Subject=Right to withdraw consent">Right to withdraw consent</a>
+- <a href="mailto:teckcamp@tecknuovo.com?Subject=Request access to your personal data">Request access to your personal data</a>
+- <a href="mailto:teckcamp@tecknuovo.com?Subject=Request correction of your personal data">Request correction of your personal data</a>
+- <a href="mailto:teckcamp@tecknuovo.com?Subject=Request erasure of your personal data">Request erasure of your personal data</a>
+- <a href="mailto:teckcamp@tecknuovo.com?Subject=Object to processing of your personal data">Object to processing of your personal data</a>
+- <a href="mailto:teckcamp@tecknuovo.com?Subject=Request restriction of processing your personal data">Request restriction of processing your personal data</a>
+- <a href="mailto:teckcamp@tecknuovo.com?Subject=Request transfer of your personal data">Request transfer of your personal data</a>
+-  <a href="mailto:teckcamp@tecknuovo.com?Subject=Right to withdraw consent">Right to withdraw consent</a>
 
 **No fee usually required**
 
@@ -264,13 +263,14 @@ As well as keeping up-to-date with laws about data, we aim to take sensible deci
 
 If our security is breached, our data is compromised or if we fail to comply with the law, we will tell affected users as soon as we become aware of the failure. We will report any data breach to the Information Commissioner and, if appropriate, the police, in a timely fashion.
 
-Used appropriately, we strongly believe using data improves the user experience on Meetup Mates and supports our aim of growing an inclusive community of Meetup attendees. Data you give us when filling in forms on site (when joining, for example) or when you're using the site or our apps helps us show you more relevant things and improve Meetup Mates for everyone.
+Used appropriately, we strongly believe using data improves the user experience on Teck Camp and supports our aim of growing an inclusive community of meetup attendees. Data you give us when filling in forms on site (when joining, for example) or when you're using the site or our apps helps us show you more relevant things and improve Teck Camp for everyone.
 
 If, via human error, or via a breach of our security, we fail to comply with the law, we will let affected users know as soon as we are aware of it. We will report any data breach to the Information Commissioner in UK and, depending on the circumstances, the Police.
 
 **<a id="Updates"></a>13. Updates**
 
 Further updates will be noted here as and when they are made.
+- 18th September 2020: Privacy Policy updated – name, email address, and social media account updated to reflect restyle.
 - 4th September 2020: Privacy Policy updated - updated links that had become outdated
 - 12 June 2019: Privacy Policy updated
 - 23 May 2019: Privacy Policy updated
@@ -279,15 +279,15 @@ Further updates will be noted here as and when they are made.
 
 **<a id="SlackRules"></a>14. Slack Workspace Rules**
 
-We have a [Code of Conduct](https://meetup-mates.com/code-of-conduct/), please follow it. 
+We have a [Code of Conduct](https://teck.camp/code-of-conduct/), please follow it. 
 
-Meetup Mates aim is to make the Meetup experience enjoyable for everyone. If you notice that the Code of Conduct being violated, please email the team at <a href="meetup-mates@tecknuovo.com?Subject= Meetup Mates Code of Conduct Violation">meetup-mates@tecknuovo.com</a> so we can action it.
+Teck Camp aim is to make the meetup experience enjoyable for everyone. If you notice that the Code of Conduct being violated, please email the team at <a href="teck.camp@tecknuovo.com?Subject= Teck Camp Code of Conduct Violation">teck.camp@tecknuovo.com</a> so we can action it.
 
-For your profile, please use your full name and a photo of yourself. Meetup Mates goal is to meet people - It would be useful to know what you look like.
+For your profile, please use your full name and a photo of yourself. Teck Camp’s goal is to meet people - It would be useful to know what you look like.
 
 **Disclaimer:**
 
-We want Meetup Mates to thrive as a community! In order to achieve this, we will remove you from the platform if you’ve been inactive for more than a month. After this, you’re more than welcome to register again if you’re ready to participate.
+We want Teck Camp to thrive as a community! In order to achieve this, we will remove you from the platform if you’ve been inactive for more than a month. After this, you’re more than welcome to register again if you’re ready to participate.
 
 If you’re going away for a longer period in time or if there’s another reason for your absence, please drop a DM on Slack to a member of the organisation team and we’ll make a note of it.
 
@@ -295,10 +295,10 @@ If you’re going away for a longer period in time or if there’s another reaso
 
 Please Do:
 - Get to know each other!
-- Encourage first time Meetup goers
-- Be respectful of reasons (visible/invisible) why folks haven’t been going to Meetups as often as others
+- Encourage first time meetup goers
+- Be respectful of reasons (visible/invisible) why folks haven’t been going to meetups as often as others
 - Give back to the community 
-- Engage in conversation (Please use Threads for conversations :P)
+- Engage in conversation (Please use threads for conversations!)
 
 Please Don’t:
 - Sell your products or services
