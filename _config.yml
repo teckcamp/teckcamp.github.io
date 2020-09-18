@@ -175,17 +175,17 @@ kramdown:
 # Default YAML values (more information on Jekyll's site) 
 defaults: 
   - 
-	scope: 
-  	path: "" 
-  	type: "posts" 
-	values: 
+      scope: 
+      path: "" 
+      type: "posts" 
+      values: 
   	layout: "post" 
   	comments: true  # add comments to all blog posts 
       social-share: true # add social media sharing buttons to all blog posts 
   - 
-	scope: 
+        scope: 
   	path: "" # all files 
-	values: 
+        values: 
   	layout: "page" 
   	show-avatar: true 
  
@@ -208,17 +208,17 @@ prose:
   rooturl: '_posts' 
   media: 'img' 
   ignore: 
-	- 404.html 
-	- LICENSE 
-	- feed.xml 
-	- _config.yml 
-	- /_layouts 
-	- /_includes 
-	- /css 
-	- /img 
-	- /js 
+        - 404.html 
+        - LICENSE 
+        - feed.xml 
+        - _config.yml 
+        - /_layouts 
+        - /_includes 
+        - /css 
+        - /img 
+        - /js 
   metadata: 
-	_posts: 
+        _posts: 
   	- name: "layout" 
     	field: 
       	element: "hidden" 
