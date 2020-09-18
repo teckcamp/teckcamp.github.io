@@ -23,4 +23,4 @@ Attendees: [https://forms.gle/phhiHARKJGy9cZUs8](https://forms.gle/phhiHARKJGy9c
 
 The surveys are anonymous and only take a minute! Once we’ve gathered enough expertise, we will be writing up a report which will be free to read and access for all. This is so the whole community can benefit from our findings!
 
-If you have any queries, you can reach out to Megan and Kat via direct messages on the Slack channel. Or you can email us at [meetup-mates@tecknuovo.com](mailto:meetup-mates@tecknuovo.com?Subject= Survey Questions) 
+If you have any queries, you can reach out to Megan and Kat via direct messages on the Slack channel. Or you can email us at [teckcamp@tecknuovo.com](mailto:teckcamp@tecknuovo.com?Subject= Survey Questions) 
