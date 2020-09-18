@@ -18,7 +18,7 @@ use-site-title: true
 <a href="https://www.meetup.com/LondonGophers/"> <img src="https://raw.githubusercontent.com/teckcamp/teckcamp.github.io/master/img/TeckCamp_LondonGophers.png " width="150" height="150" alt="London Gophers logo" title="London Gophers loves Teck Camp!"></a>
 <a href="https://www.meetup.com/DevOps-Underground/"> <img src="https://raw.githubusercontent.com/teckcamp/teckcamp.github.io/master/img/TeckCamp_DevOpsUndergroundSquare.png " width="150" height="150" alt="DevOps Underground logo" title="DevOps Underground London loves Teck Camp!"></a>
 <a href="https://www.meetup.com/london-scala/"> <img src="https://raw.githubusercontent.com/teckcamp/teckcamp.github.io/master/img/TeckCamp_%20LondonScala_smaller.png " width="150" height="150" alt="London Microservices logo" title="London Scala User Group loves Teck Camp!"></a>
-<a href="https://www.meetup.com/GDG-Reading-Thames-Valley/"> <img src="https://raw.githubusercontent.com/teckcamp/teckcamp.github.io/master/img/TeckCamp_GDGReading.jpg" width="150" height="150" alt="GDG Reading logo" title="GDG Reading & Thames Valley loves Teck Camp!"></a>
+<a href="https://www.meetup.com/GDG-Reading-Thames-Valley/"> <img src="https://raw.githubusercontent.com/teckcamp/teckcamp.github.io/master/img/TeckCamp_GDGReading.jpeg" width="150" height="150" alt="GDG Reading logo" title="GDG Reading & Thames Valley loves Teck Camp!"></a>
 <a href="https://www.meetup.com/herplusdatamcr/"> <img src="https://raw.githubusercontent.com/teckcamp/teckcamp.github.io/master/img/TeckCamp_HerPlusData.png" width="150" height="150" alt="HER+Data Manchester logo" title="HER+Data MCR loves Teck Camp!"></a>
 </p>
 
