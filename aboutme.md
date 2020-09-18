@@ -1,13 +1,13 @@
 ---
 layout: page
-title: How to join the Meetup Mates Crew?
-subtitle: Please leave your details below to receive the Slack Group Magic Link and a list of the Meetups we will be attending every month! 
+title: Want to join the Teck Camp troop?
+subtitle: Please leave your details below to receive the Slack group magic link and become part of the community!  
 ---
 
 <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
 <script>
   hbspt.forms.create({
 	portalId: "5662596",
-	formId: "27f07fe5-ed46-4686-bda2-56a74eff53b4"
+	formId: "58955c5f-d6f9-4d00-b565-8b265c497190"
 });
 </script>
