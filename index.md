@@ -16,7 +16,7 @@ Founded in London, we’re now pitching up across the country, so look for us at
 <br/><br/>
 
 <p align="center">
-  <a href="https://www.twitter.com/teckcamp /"> <img src="https://raw.githubusercontent.com/teckcamp/teckcamp.github.io/master/img/Twitter_logo.png" width="100" height="100" alt="Twitter" title="Follow us on Twitter!"></a> 
+  <a href="https://www.twitter.com/teckcamp /"> <img src="https://raw.githubusercontent.com/teckcamp/teckcamp.github.io/master/img/TC_Twitter_logo.png" width="100" height="100" alt="Twitter" title="Follow us on Twitter!"></a> 
 <a href="https://www.linkedin.com/showcase/teckcamp/"> <img src="https://raw.githubusercontent.com/teckcamp/teckcamp.github.io/master/img/LinkedIn_logo.png" width="100" height="100" alt="LinkedIn" title="Follow us on LinkedIn!"></a>
   <a href="https://tecknuovo.com/?utm_source=teckcamp&utm_medium=tc-site&utm_campaign=tc-redirects"> <img src="https://raw.githubusercontent.com/teckcamp/teckcamp.github.io/master/img/Tecknuovo_logo.png" width="100" height="100" alt="Tecknuovo" title="Check out the Tecknuovo site!"></a>
 </p>
