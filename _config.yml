@@ -25,10 +25,10 @@ description:  Helping you be a happy teck camper!
 navbar-links: 
   #About Me: "aboutme" 
   #Resources: 
-	#- Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/" 
-	#- Learn markdown: "http://www.markdowntutorial.com/" 
-	#- GitHub Pages: "https://pages.github.com/" 
-	# - Photos: "https://teck.camp/photos/" 
+    #- Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/" 
+    #- Learn markdown: "http://www.markdowntutorial.com/" 
+    #- GitHub Pages: "https://pages.github.com/" 
+    # - Photos: "https://teck.camp/photos/" 
   #Home: "https://teck.camp/" 
   The Crew: "https://teck.camp/meet-the-team/" 
   Register: "https://teck.camp/register/" 
