@@ -24,7 +24,7 @@ Founded in London, we’re now pitching up across the country, so look for us at
 We love feedback! If you love something new we’re trying out or you spot a way we can make things better please email the Teck Camp team at [teckcamp@tecknuovo.com](mailto:teckcamp@tecknuovo.com?Subject= Teck Camp Feedback)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/teckcamp/teckcamp.github.io/master/img/TC_Avatar.png" width="150" height="150" alt="Teck Camp avatar" title="Hello Campers!"> 
+  <img src="https://raw.githubusercontent.com/teckcamp/teckcamp.github.io/master/img/TC_Avatar.png" width="200" height="200" alt="Teck Camp avatar" title="Hello Campers!"> 
 </p>
 
 _Teck Camp is a Tecknuovo initiative and is run by Tecknuovo employees, but it remains a community platform and is open to anyone who wants to take part. We require personal data from our Campers to add them to the Slack channel, however as with all our community initiatives, this data will never be used by Tecknuovo for any sales activity and is held in a separate database. Please refer to our values and privacy policy if you want any more details on this._
