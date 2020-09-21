@@ -70,7 +70,7 @@ If you have any questions about this privacy policy or our privacy practices, pl
 Data Privacy Manager: Vicky Medlycott & Katherine Paines
 Email address: <a href="mailto:teckcamp@tecknuovo.com?Subject= Teck Camp Data Privacy Manager Query">teckcamp@tecknuovo.com</a>
 <br>
-You have the right to make a complaint at any time to the Information Commissioner's Office (ICO), the UK supervisory authority for data protection issues (www.ico.org.uk)[www.ico.org.uk]. We would, however, appreciate the chance to deal with your concerns before you approach the ICO so please contact us in the first instance. 
+You have the right to make a complaint at any time to the Information Commissioner's Office (ICO), the UK supervisory authority for data protection issues [www.ico.org.uk](www.ico.org.uk). We would, however, appreciate the chance to deal with your concerns before you approach the ICO so please contact us in the first instance. 
 
 </details>
 
