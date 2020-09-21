@@ -15,8 +15,8 @@ Founded in London, we’re now pitching up across the country, so look for us at
 [![Sign Up To Teck Camp Slack](/img/TC%20website%20Slack%20button.png "Button Teck Camp Sign Up")](https://teck.camp/register/)
 <br/><br/>
 
-<p align="center">
-  <a href="https://www.twitter.com/teckcamp/"> <img src="https://raw.githubusercontent.com/teckcamp/teckcamp.github.io/master/img/TC_Twitter_logo.png" width="100" height="81" alt="Twitter" title="Follow us on Twitter!"></a> 
+<p align="centre">
+  <a href="https://www.twitter.com/teckcamp/"> <img src="https://raw.githubusercontent.com/teckcamp/teckcamp.github.io/master/img/TC_Twitter_logo.png" width="100" height="81" style="vertical-align:middle;margin:0px 50px" alt="Twitter" title="Follow us on Twitter!"></a> 
 <a href="https://www.linkedin.com/showcase/teckcamp/"> <img src="https://raw.githubusercontent.com/teckcamp/teckcamp.github.io/master/img/LinkedIn_logo.png" width="100" height="100" alt="LinkedIn" title="Follow us on LinkedIn!"></a>
   <a href="https://tecknuovo.com/?utm_source=teckcamp&utm_medium=tc-site&utm_campaign=tc-redirects"> <img src="https://raw.githubusercontent.com/teckcamp/teckcamp.github.io/master/img/Tecknuovo_logo.png" width="100" height="100" alt="Tecknuovo" title="Check out the Tecknuovo site!"></a>
 </p>
