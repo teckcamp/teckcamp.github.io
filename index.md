@@ -4,6 +4,9 @@ title: Hello Campers!
 subtitle: Welcome to Teck Camp!
 use-site-title: true
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/teckcamp/teckcamp.github.io/master/img/Teck%20Camp%20logo.png" width="462" height="259" alt="Teck Camp logo" title="Hello Campers!"> 
+</p>
 
 Teck Camp is one of Tecknuovo’s community initiatives. Our mission is a simple one: we want to ensure than tech meetups are open, accessible, and fun for everyone who wants to take part. 
 
