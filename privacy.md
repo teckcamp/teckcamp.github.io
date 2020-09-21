@@ -281,7 +281,7 @@ Further updates will be noted here as and when they are made.
 
 We have a [Code of Conduct](https://teck.camp/code-of-conduct/), please follow it. 
 
-Teck Camp aim is to make the meetup experience enjoyable for everyone. If you notice that the Code of Conduct being violated, please email the team at <a href="teck.camp@tecknuovo.com?Subject= Teck Camp Code of Conduct Violation">teck.camp@tecknuovo.com</a> so we can action it.
+Teck Camp aim is to make the meetup experience enjoyable for everyone. If you notice that the Code of Conduct being violated, please email the team at <a href="teckcamp@tecknuovo.com?Subject= Teck Camp Code of Conduct Violation">teckcamp@tecknuovo.com</a> so we can action it.
 
 For your profile, please use your full name and a photo of yourself. Teck Camp’s goal is to meet people - It would be useful to know what you look like.
 
