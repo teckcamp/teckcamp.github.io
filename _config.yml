@@ -40,7 +40,7 @@ navbar-links:
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-title-img: <img src="/img/Teck%20Camp%20logo.png" alt="Teck Camp home button">
+title-img: "/img/Teck%20Camp%20logo.png" alt="Teck Camp home button"
 
 favicon: "/img/TC_favicon.png"
 
