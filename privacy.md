@@ -41,7 +41,7 @@ This privacy policy is provided in a layered format so you can click through to 
 
 **<a id="Important information and who we are"></a>2. Important information and who we are**
 
-Teck Camp is an online community run on Slack. If you [register to Teck Camp via our online form](https://teck.camp/register/), you will receive an email from teckcamp@tecknuovo.com with a Slack Channel invitation and on the channel you will be informed of what meetups to attend. Teck Camp organises gatherings of Teck Camp members before a meetup to assist the community to attend more meetups together. To attend meetups you will have to sign up via that particular event’s page and follow their Code of Conduct and privacy policy. 
+Teck Camp is an online community run on Slack. If you [register to Teck Camp via our online form](https://teck.camp/register/), you will receive an email from teckcamp@tecknuovo.com with a Slack Channel invitation and on the channel you will be informed of what events to attend. Teck Camp organises gatherings of Teck Camp members before an event to assist the community to attend more events together. To attend events you will have to sign up via that particular event’s page and follow their Code of Conduct and privacy policy. 
 
 **Purpose of this privacy policy**
 
@@ -97,7 +97,7 @@ We do not control these third-party websites and are not responsible for their p
 
 **<a id="The data we collect about you and how we use it"></a> 3. The data we collect about you and how we use it**
 
-For registered members we store username, first name, last name, email address; public discussions you may have on Teck Camp Slack Channel; and a summary of decisions we’ve taken about you if we’ve reviewed your use of Teck Camp Slack Channel for any reason (please refer to the Code of Conduct). Registered members may also have given us more data on sign up like favourite meetups to attend.
+For registered members we store username, first name, last name, email address; public discussions you may have on Teck Camp Slack Channel; and a summary of decisions we’ve taken about you if we’ve reviewed your use of Teck Camp Slack Channel for any reason (please refer to the Code of Conduct). Registered members may also have given us more data on sign up like favourite events to attend.
 
 We store your email address to register you and contact you (if you have asked for email newsletters) and we store things such as cookies so that our systems recognise you if you return to Teck Camp Website. 
 
@@ -263,7 +263,7 @@ As well as keeping up-to-date with laws about data, we aim to take sensible deci
 
 If our security is breached, our data is compromised or if we fail to comply with the law, we will tell affected users as soon as we become aware of the failure. We will report any data breach to the Information Commissioner and, if appropriate, the police, in a timely fashion.
 
-Used appropriately, we strongly believe using data improves the user experience on Teck Camp and supports our aim of growing an inclusive community of meetup attendees. Data you give us when filling in forms on site (when joining, for example) or when you're using the site or our apps helps us show you more relevant things and improve Teck Camp for everyone.
+Used appropriately, we strongly believe using data improves the user experience on Teck Camp and supports our aim of growing an inclusive community of event attendees. Data you give us when filling in forms on site (when joining, for example) or when you're using the site or our apps helps us show you more relevant things and improve Teck Camp for everyone.
 
 If, via human error, or via a breach of our security, we fail to comply with the law, we will let affected users know as soon as we are aware of it. We will report any data breach to the Information Commissioner in UK and, depending on the circumstances, the Police.
 
@@ -281,7 +281,7 @@ Further updates will be noted here as and when they are made.
 
 We have a [Code of Conduct](https://teck.camp/code-of-conduct/), please follow it. 
 
-Teck Camp aim is to make the meetup experience enjoyable for everyone. If you notice that the Code of Conduct being violated, please email the team at <a href="teckcamp@tecknuovo.com?Subject= Teck Camp Code of Conduct Violation">teckcamp@tecknuovo.com</a> so we can action it.
+Teck Camp aim is to make the event experience enjoyable for everyone. If you notice that the Code of Conduct being violated, please email the team at <a href="teckcamp@tecknuovo.com?Subject= Teck Camp Code of Conduct Violation">teckcamp@tecknuovo.com</a> so we can action it.
 
 For your profile, please use your full name and a photo of yourself. Teck Camp’s goal is to meet people - It would be useful to know what you look like.
 
@@ -295,8 +295,8 @@ If you’re going away for a longer period in time or if there’s another reaso
 
 Please Do:
 - Get to know each other!
-- Encourage first time meetup goers
-- Be respectful of reasons (visible/invisible) why folks haven’t been going to meetups as often as others
+- Encourage first time event goers
+- Be respectful of reasons (visible/invisible) why folks haven’t been going to events as often as others
 - Give back to the community 
 - Engage in conversation (Please use threads for conversations!)
 
