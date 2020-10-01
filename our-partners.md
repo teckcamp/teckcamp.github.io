@@ -25,7 +25,7 @@ use-site-title: true
 
 <div><br><br></div>
 
-Please [email us](mailto:teckcamp@tecknuovo.com?Subject= I want to become a Teck Camp meetup partner!) if you would like to become a meetup partner too!
+Please [email us](mailto:teckcamp@tecknuovo.com?Subject= I want to become a Teck Camp event partner!) if you would like to become an event partner too!
 
 <div><br><br></div>
 
