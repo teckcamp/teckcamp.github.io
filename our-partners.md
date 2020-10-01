@@ -1,11 +1,11 @@
 ---
 layout: page
 title: OUR PARTNERS
-subtitle: We're proud to be partnered with the following meetup groups and conferences! Check out more info on each partner by clicking their logo.
+subtitle: We're proud to be partnered with the following user groups and conferences! Check out more info on each partner by clicking their logo.
 use-site-title: true
 ---
 
-### Meetup Partners:
+### User Group Partners:
 
 <p align="center">
 <a href="https://www.meetup.com/Docker-London/"> <img src="https://raw.githubusercontent.com/teckcamp/teckcamp.github.io/master/img/TeckCamp_Docker_London.png " width="150" height="150" alt="Docker London logo" title="Docker London loves Teck Camp!"></a> 
