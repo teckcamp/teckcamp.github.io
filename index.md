@@ -8,11 +8,11 @@ use-site-title: true
   <img src="https://raw.githubusercontent.com/teckcamp/teckcamp.github.io/master/img/Teck%20Camp%20logo.png" width="350" height="196" alt="Teck Camp logo" title="Hello Campers!"> 
 </p>
 
-Teck Camp is one of [Tecknuovo](https://tecknuovo.com/?utm_source=teckcamp&utm_medium=tc-site&utm_campaign=tc-redirects)’s community initiatives. Our mission is a simple one: we want to ensure than tech meetups are open, accessible, and fun for everyone who wants to take part. 
+Teck Camp is one of [Tecknuovo](https://tecknuovo.com/?utm_source=teckcamp&utm_medium=tc-site&utm_campaign=tc-redirects)’s community initiatives. Our mission is a simple one: we want to ensure than tech events are open, accessible, and fun for everyone who wants to take part. 
 
-Our community can be found on Slack where we chat, get to know one another and share ideas. You’ll hear about the latest events happening and where Teck Campers will be next, as well as pre-meets in your area. From an hour before a meetup, we gather at a nearby venue and then attend the meetup together as a group. 
+Our community can be found on Slack where we chat, get to know one another and share ideas. You’ll hear about the latest events happening and where Teck Campers will be next, as well as pre-meets in your area. From an hour before an event, we gather at a nearby venue and then attend the event together as a group. 
 
-Founded in London, we’re now pitching up across the country, so look for us at a meetup group near you - the nerve-wracking days of attending meetups alone are over and we look forward to you joining the troop!
+Founded in London, we’re now pitching up across the country, so look for us at a user group near you - the nerve-wracking days of attending events alone are over and we look forward to you joining the troop!
 <br/><br/>
 
 [![Sign Up To Teck Camp Slack](/img/TC%20website%20Slack%20button.png "Button Teck Camp Sign Up")](https://teck.camp/register/)
