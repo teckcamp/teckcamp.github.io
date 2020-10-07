@@ -25,7 +25,21 @@ common-js:
   <!-- Start of HubSpot Embed Code -->
 <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/5662596.js"></script>
 <!-- End of HubSpot Embed Code -->
-  
+<!-- Start of HubSpot code snippet -->
+<button type="button" id="hs_remove_cookie_button"
+  style="background-color: #E65943; border: 1px solid #E65943;
+         border-radius: 3px; padding: 10px 16px; text-decoration: none; color: #fff;
+         font-family: inherit; font-size: inherit; font-weight: normal; line-height: inherit;
+         text-align: left; text-shadow: none;"
+  onClick="(function removeCookies(){
+    var _hsp = window._hsp = window._hsp || [];
+    _hsp.push(['revokeCookieConsent']);
+  })()"
+>
+  Remove cookies
+</button>
+
+<!-- End of HubSpot code snippet -->  
   <body>
 
     {% include gtm_body.html %}
